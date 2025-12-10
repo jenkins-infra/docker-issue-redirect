@@ -11366,6 +11366,7 @@ JENKINS-29739:jenkinsci/workflow-aggregator-plugin#287
 JENKINS-29740:jenkinsci/job-dsl-plugin#1863
 JENKINS-29741:jenkinsci/job-dsl-plugin#1864
 JENKINS-29742:jenkinsci/job-dsl-plugin#1865
+JENKINS-29745:jenkinsci/implied-labels-plugin#325
 JENKINS-29748:jenkinsci/jenkins#21313
 JENKINS-29751:jenkinsci/workflow-aggregator-plugin#288
 JENKINS-29752:jenkinsci/docker-workflow-plugin#387
@@ -14635,6 +14636,7 @@ JENKINS-37340:jenkinsci/blueocean-plugin#3117
 JENKINS-37341:jenkinsci/durable-task-plugin#360
 JENKINS-37343:jenkinsci/job-dsl-plugin#2074
 JENKINS-37344:jenkinsci/script-security-plugin#701
+JENKINS-37352:jenkinsci/implied-labels-plugin#326
 JENKINS-37353:jenkinsci/jenkins#17429
 JENKINS-37355:jenkinsci/jenkins#17430
 JENKINS-37359:jenkinsci/github-branch-source-plugin#990
@@ -21238,6 +21240,7 @@ JENKINS-51245:jenkinsci/jenkins#22739
 JENKINS-51246:jenkinsci/jenkins#22740
 JENKINS-51248:jenkinsci/kubernetes-plugin#2046
 JENKINS-51249:jenkinsci/workflow-cps-plugin#1453
+JENKINS-51252:jenkinsci/implied-labels-plugin#327
 JENKINS-51253:jenkinsci/packaging#650
 JENKINS-51255:jenkinsci/pipeline-model-definition-plugin#1259
 JENKINS-51257:jenkinsci/jenkins#22741
@@ -28991,6 +28994,7 @@ JENKINS-69657:jenkinsci/jenkins#25644
 JENKINS-69658:jenkinsci/jenkins#25645
 JENKINS-69659:jenkinsci/matrix-project-plugin#736
 JENKINS-69660:jenkinsci/jenkins#18300
+JENKINS-69663:jenkinsci/implied-labels-plugin#328
 JENKINS-69666:jenkinsci/jenkins#18301
 JENKINS-69673:jenkinsci/blueocean-plugin#5145
 JENKINS-69674:jenkinsci/promoted-builds-plugin#709
@@ -30159,6 +30163,7 @@ JENKINS-72298:jenkinsci/ec2-plugin#1910
 JENKINS-72300:jenkinsci/ec2-plugin#1911
 JENKINS-72302:jenkinsci/workflow-cps-plugin#1673
 JENKINS-72305:jenkinsci/warnings-ng-plugin#3127
+JENKINS-72313:jenkinsci/implied-labels-plugin#329
 JENKINS-72314:jenkinsci/kubernetes-plugin#2671
 JENKINS-72316:jenkinsci/ec2-plugin#1912
 JENKINS-72320:jenkinsci/workflow-cps-plugin#1674
@@ -30244,6 +30249,7 @@ JENKINS-72492:jenkinsci/jenkins#18841
 JENKINS-72493:jenkinsci/warnings-ng-plugin#3129
 JENKINS-72494:jenkinsci/warnings-ng-plugin#3130
 JENKINS-72500:jenkinsci/jenkins#18842
+JENKINS-72501:jenkinsci/implied-labels-plugin#330
 JENKINS-72502:jenkinsci/jenkins#25707
 JENKINS-72505:jenkinsci/jenkins#18843
 JENKINS-72509:jenkinsci/jenkins#18844
@@ -30949,6 +30955,7 @@ JENKINS-74490:jenkinsci/jenkins#25803
 JENKINS-74491:jenkinsci/jenkins#25804
 JENKINS-74492:jenkinsci/jenkins#25805
 JENKINS-74507:jenkinsci/jenkins#25806
+JENKINS-74512:jenkinsci/implied-labels-plugin#331
 JENKINS-74514:jenkinsci/jenkins#25807
 JENKINS-74515:jenkinsci/jenkins#25808
 JENKINS-74516:jenkinsci/jenkins#25809
