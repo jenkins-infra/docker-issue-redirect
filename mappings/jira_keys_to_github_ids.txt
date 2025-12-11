@@ -6214,6 +6214,7 @@ JENKINS-14277:jenkinsci/jenkins#12785
 JENKINS-14278:jenkinsci/parameterized-trigger-plugin#534
 JENKINS-14280:jenkinsci/jenkins#12786
 JENKINS-14281:jenkinsci/warnings-ng-plugin#2411
+JENKINS-14285:jenkinsci/email-ext-plugin#828
 JENKINS-14286:jenkinsci/promoted-builds-plugin#450
 JENKINS-14289:jenkinsci/jenkins#12787
 JENKINS-14292:jenkinsci/warnings-ng-plugin#2412
@@ -6223,8 +6224,10 @@ JENKINS-14299:jenkinsci/jenkins#12789
 JENKINS-14300:jenkinsci/jenkins#12790
 JENKINS-14301:jenkinsci/jenkins#12791
 JENKINS-14306:jenkinsci/matrix-project-plugin#508
+JENKINS-14311:jenkinsci/email-ext-plugin#829
 JENKINS-14312:jenkinsci/jenkins#24795
 JENKINS-14313:jenkinsci/jenkins#12792
+JENKINS-14320:jenkinsci/email-ext-plugin#830
 JENKINS-14321:jenkinsci/git-plugin#2163
 JENKINS-14323:jenkinsci/promoted-builds-plugin#451
 JENKINS-14325:jenkinsci/jenkins#12793
@@ -6237,6 +6240,7 @@ JENKINS-14333:jenkinsci/warnings-ng-plugin#2413
 JENKINS-14334:jenkinsci/jenkins#12797
 JENKINS-14336:jenkinsci/jenkins#12798
 JENKINS-14337:jenkinsci/matrix-project-plugin#510
+JENKINS-14338:jenkinsci/email-ext-plugin#831
 JENKINS-14339:jenkinsci/remoting#1057
 JENKINS-14341:jenkinsci/versioncolumn-plugin#367
 JENKINS-14342:jenkinsci/jenkins#12799
@@ -6252,7 +6256,9 @@ JENKINS-14362:jenkinsci/jenkins#12803
 JENKINS-14365:jenkinsci/jenkins#12804
 JENKINS-14367:jenkinsci/jenkins#12805
 JENKINS-14369:jenkinsci/jenkins#12806
+JENKINS-14378:jenkinsci/email-ext-plugin#832
 JENKINS-14380:jenkinsci/jenkins#12807
+JENKINS-14382:jenkinsci/email-ext-plugin#833
 JENKINS-14383:jenkinsci/warnings-ng-plugin#2414
 JENKINS-14384:jenkinsci/jenkins#12808
 JENKINS-14385:jenkinsci/jenkins#12809
@@ -6283,6 +6289,7 @@ JENKINS-14451:jenkinsci/junit-plugin#926
 JENKINS-14452:jenkinsci/jenkins#12824
 JENKINS-14457:jenkinsci/jenkins#12825
 JENKINS-14461:jenkinsci/warnings-ng-plugin#2415
+JENKINS-14463:jenkinsci/email-ext-plugin#834
 JENKINS-14464:jenkinsci/jenkins#12826
 JENKINS-14472:jenkinsci/jenkins#12827
 JENKINS-14473:jenkinsci/jenkins#12828
@@ -6291,19 +6298,23 @@ JENKINS-14478:jenkinsci/jenkins#12830
 JENKINS-14479:jenkinsci/gerrit-trigger-plugin#601
 JENKINS-14480:jenkinsci/git-plugin#2168
 JENKINS-14483:jenkinsci/matrix-project-plugin#513
+JENKINS-14484:jenkinsci/email-ext-plugin#835
 JENKINS-14486:jenkinsci/git-plugin#2169
 JENKINS-14488:jenkinsci/nodelabelparameter-plugin#493
 JENKINS-14491:jenkinsci/jenkins#12831
 JENKINS-14495:jenkinsci/jenkins#12832
 JENKINS-14498:jenkinsci/jenkins#12833
 JENKINS-14499:jenkinsci/matrix-project-plugin#514
+JENKINS-14500:jenkinsci/email-ext-plugin#836
 JENKINS-14501:jenkinsci/jenkins#12834
 JENKINS-14505:jenkinsci/jenkins#12835
 JENKINS-14507:jenkinsci/junit-plugin#927
+JENKINS-14508:jenkinsci/email-ext-plugin#837
 JENKINS-14514:jenkinsci/jenkins#12836
 JENKINS-14516:jenkinsci/jenkins#12837
 JENKINS-14518:jenkinsci/parameterized-trigger-plugin#537
 JENKINS-14520:jenkinsci/ldap-plugin#413
+JENKINS-14525:jenkinsci/email-ext-plugin#838
 JENKINS-14528:jenkinsci/jenkins#12838
 JENKINS-14529:jenkinsci/jenkins#12839
 JENKINS-14530:jenkinsci/jenkins#12840
@@ -6340,6 +6351,7 @@ JENKINS-14619:jenkinsci/matrix-project-plugin#517
 JENKINS-14621:jenkinsci/jenkins#12851
 JENKINS-14630:jenkinsci/remoting#1060
 JENKINS-14632:jenkinsci/jenkins#12852
+JENKINS-14634:jenkinsci/email-ext-plugin#839
 JENKINS-14635:jenkinsci/jenkins#12853
 JENKINS-14641:jenkinsci/jenkins#12854
 JENKINS-14643:jenkinsci/jenkins#12855
@@ -6376,12 +6388,14 @@ JENKINS-14749:jenkinsci/jenkins#12872
 JENKINS-14751:jenkinsci/jenkins#12873
 JENKINS-14752:jenkinsci/jenkins#12874
 JENKINS-14753:jenkinsci/jenkins#24801
+JENKINS-14755:jenkinsci/email-ext-plugin#840
 JENKINS-14759:jenkinsci/jenkins#12875
 JENKINS-14760:jenkinsci/jenkins#24802
 JENKINS-14767:jenkinsci/gerrit-trigger-plugin#603
 JENKINS-14769:jenkinsci/jenkins#12876
 JENKINS-14771:jenkinsci/jenkins#12877
 JENKINS-14773:jenkinsci/warnings-ng-plugin#2420
+JENKINS-14776:jenkinsci/email-ext-plugin#841
 JENKINS-14778:jenkinsci/git-plugin#2178
 JENKINS-14779:jenkinsci/jenkins#24803
 JENKINS-14782:jenkinsci/jenkins#12878
@@ -6443,6 +6457,7 @@ JENKINS-14960:jenkinsci/jenkins#12915
 JENKINS-14965:jenkinsci/ec2-plugin#1254
 JENKINS-14967:jenkinsci/jenkins#12916
 JENKINS-14979:jenkinsci/jenkins#12917
+JENKINS-14980:jenkinsci/email-ext-plugin#842
 JENKINS-14981:jenkinsci/jenkins#12918
 JENKINS-14983:jenkinsci/jenkins#12919
 JENKINS-14984:jenkinsci/jenkins#12920
@@ -6454,6 +6469,7 @@ JENKINS-14993:jenkinsci/jenkins#12923
 JENKINS-14995:jenkinsci/jenkins#12924
 JENKINS-15000:jenkinsci/jenkins#12925
 JENKINS-15003:jenkinsci/jenkins#12926
+JENKINS-15008:jenkinsci/email-ext-plugin#843
 JENKINS-15016:jenkinsci/ec2-plugin#1255
 JENKINS-15017:jenkinsci/warnings-ng-plugin#2426
 JENKINS-15020:jenkinsci/git-plugin#2185
@@ -6498,6 +6514,7 @@ JENKINS-15117:jenkinsci/parameterized-trigger-plugin#540
 JENKINS-15120:jenkinsci/jenkins#12944
 JENKINS-15124:jenkinsci/jenkins#12945
 JENKINS-15126:jenkinsci/jenkins#12946
+JENKINS-15127:jenkinsci/email-ext-plugin#844
 JENKINS-15130:jenkinsci/parameterized-trigger-plugin#541
 JENKINS-15134:jenkinsci/jenkins#12947
 JENKINS-15136:jenkinsci/git-plugin#2190
@@ -6523,6 +6540,7 @@ JENKINS-15204:jenkinsci/promoted-builds-plugin#459
 JENKINS-15205:jenkinsci/promoted-builds-plugin#460
 JENKINS-15206:jenkinsci/jenkins#12962
 JENKINS-15210:jenkinsci/script-security-plugin#636
+JENKINS-15213:jenkinsci/email-ext-plugin#845
 JENKINS-15214:jenkinsci/parameterized-trigger-plugin#542
 JENKINS-15223:jenkinsci/jenkins#12963
 JENKINS-15225:jenkinsci/jenkins#12964
@@ -6547,6 +6565,7 @@ JENKINS-15268:jenkinsci/gerrit-trigger-plugin#607
 JENKINS-15269:jenkinsci/jenkins#12971
 JENKINS-15271:jenkinsci/matrix-project-plugin#520
 JENKINS-15277:jenkinsci/jenkins#12972
+JENKINS-15278:jenkinsci/email-ext-plugin#846
 JENKINS-15283:jenkinsci/jenkins#12973
 JENKINS-15286:jenkinsci/git-plugin#2197
 JENKINS-15290:jenkinsci/gerrit-trigger-plugin#608
@@ -6556,6 +6575,7 @@ JENKINS-15299:jenkinsci/parameterized-trigger-plugin#544
 JENKINS-15304:jenkinsci/jenkins#12975
 JENKINS-15309:jenkinsci/jenkins#12976
 JENKINS-15310:jenkinsci/jenkins#12977
+JENKINS-15311:jenkinsci/email-ext-plugin#847
 JENKINS-15313:jenkinsci/gerrit-trigger-plugin#609
 JENKINS-15316:jenkinsci/jenkins#12978
 JENKINS-15319:jenkinsci/ec2-plugin#1265
@@ -6612,6 +6632,7 @@ JENKINS-15432:jenkinsci/git-plugin#2204
 JENKINS-15435:jenkinsci/jenkins#13008
 JENKINS-15437:jenkinsci/jenkins#13009
 JENKINS-15439:jenkinsci/jenkins#13010
+JENKINS-15442:jenkinsci/email-ext-plugin#848
 JENKINS-15448:jenkinsci/jenkins#13011
 JENKINS-15451:jenkinsci/jenkins#13012
 JENKINS-15465:jenkinsci/jenkins#13013
@@ -6631,6 +6652,7 @@ JENKINS-15494:jenkinsci/jenkins#13023
 JENKINS-15495:jenkinsci/jenkins#13024
 JENKINS-15499:jenkinsci/jenkins#13025
 JENKINS-15500:jenkinsci/promoted-builds-plugin#462
+JENKINS-15502:jenkinsci/email-ext-plugin#849
 JENKINS-15503:jenkinsci/jenkins#13026
 JENKINS-15508:jenkinsci/jenkins#24809
 JENKINS-15510:jenkinsci/embeddable-build-status-plugin#461
@@ -6715,6 +6737,7 @@ JENKINS-15758:jenkinsci/git-plugin#2206
 JENKINS-15769:jenkinsci/embeddable-build-status-plugin#462
 JENKINS-15770:jenkinsci/jenkins#13087
 JENKINS-15777:jenkinsci/jenkins#13088
+JENKINS-15783:jenkinsci/email-ext-plugin#850
 JENKINS-15784:jenkinsci/jenkins#13089
 JENKINS-15786:jenkinsci/jenkins#13090
 JENKINS-15787:jenkinsci/github-plugin#475
@@ -6745,6 +6768,7 @@ JENKINS-15847:jenkinsci/jenkins#24813
 JENKINS-15852:jenkinsci/git-plugin#2208
 JENKINS-15853:jenkinsci/github-plugin#476
 JENKINS-15854:jenkinsci/github-plugin#477
+JENKINS-15860:jenkinsci/email-ext-plugin#851
 JENKINS-15864:jenkinsci/matrix-project-plugin#525
 JENKINS-15868:jenkinsci/jenkins#13108
 JENKINS-15869:jenkinsci/jenkins#13109
@@ -6802,14 +6826,17 @@ JENKINS-16034:jenkinsci/jenkins#13146
 JENKINS-16037:jenkinsci/warnings-ng-plugin#2435
 JENKINS-16054:jenkinsci/jenkins#13147
 JENKINS-16055:jenkinsci/matrix-project-plugin#526
+JENKINS-16058:jenkinsci/email-ext-plugin#852
 JENKINS-16059:jenkinsci/jenkins#13148
 JENKINS-16060:jenkinsci/jenkins#13149
 JENKINS-16063:jenkinsci/promoted-builds-plugin#467
 JENKINS-16064:jenkinsci/jenkins#13150
 JENKINS-16069:jenkinsci/jenkins#13151
 JENKINS-16070:jenkinsci/jenkins#13152
+JENKINS-16076:jenkinsci/email-ext-plugin#853
 JENKINS-16077:jenkinsci/jenkins#13153
 JENKINS-16079:jenkinsci/ec2-plugin#1271
+JENKINS-16080:jenkinsci/email-ext-plugin#854
 JENKINS-16089:jenkinsci/jenkins#13154
 JENKINS-16095:jenkinsci/jenkins#13155
 JENKINS-16104:jenkinsci/build-failure-analyzer-plugin#224
@@ -6834,9 +6861,11 @@ JENKINS-16163:jenkinsci/jenkins#13166
 JENKINS-16164:jenkinsci/promoted-builds-plugin#470
 JENKINS-16166:jenkinsci/jenkins#13167
 JENKINS-16167:jenkinsci/jenkins#13168
+JENKINS-16169:jenkinsci/email-ext-plugin#855
 JENKINS-16175:jenkinsci/jenkins#13169
 JENKINS-16177:jenkinsci/jenkins#13170
 JENKINS-16178:jenkinsci/jenkins#13171
+JENKINS-16181:jenkinsci/email-ext-plugin#856
 JENKINS-16182:jenkinsci/jenkins#13172
 JENKINS-16184:jenkinsci/jenkins#13173
 JENKINS-16186:jenkinsci/jenkins#13174
@@ -6859,6 +6888,7 @@ JENKINS-16224:jenkinsci/jenkins#13184
 JENKINS-16225:jenkinsci/jenkins#13185
 JENKINS-16227:jenkinsci/jenkins#13186
 JENKINS-16228:jenkinsci/jenkins#13187
+JENKINS-16237:jenkinsci/email-ext-plugin#857
 JENKINS-16242:jenkinsci/github-plugin#478
 JENKINS-16243:jenkinsci/active-directory-plugin#380
 JENKINS-16244:jenkinsci/jenkins#13188
@@ -6869,10 +6899,12 @@ JENKINS-16257:jenkinsci/active-directory-plugin#381
 JENKINS-16263:jenkinsci/jenkins#13191
 JENKINS-16264:jenkinsci/jenkins#13192
 JENKINS-16266:jenkinsci/jenkins#13193
+JENKINS-16269:jenkinsci/email-ext-plugin#858
 JENKINS-16273:jenkinsci/jenkins#13194
 JENKINS-16276:jenkinsci/jenkins#13195
 JENKINS-16278:jenkinsci/jenkins#13196
 JENKINS-16280:jenkinsci/ec2-plugin#1272
+JENKINS-16281:jenkinsci/email-ext-plugin#859
 JENKINS-16287:jenkinsci/jenkins#13197
 JENKINS-16289:jenkinsci/jenkins#13198
 JENKINS-16291:jenkinsci/jenkins#13199
@@ -6917,6 +6949,8 @@ JENKINS-16366:jenkinsci/job-dsl-plugin#1660
 JENKINS-16367:jenkinsci/job-dsl-plugin#1661
 JENKINS-16368:jenkinsci/jenkins#13219
 JENKINS-16369:jenkinsci/matrix-project-plugin#529
+JENKINS-16373:jenkinsci/email-ext-plugin#860
+JENKINS-16376:jenkinsci/email-ext-plugin#861
 JENKINS-16385:jenkinsci/jenkins#13220
 JENKINS-16390:jenkinsci/jenkins#13221
 JENKINS-16393:jenkinsci/remoting#1065
@@ -6924,10 +6958,14 @@ JENKINS-16395:jenkinsci/jenkins#13222
 JENKINS-16397:jenkinsci/jenkins#13223
 JENKINS-16400:jenkinsci/jenkins#13224
 JENKINS-16401:jenkinsci/jenkins#13225
+JENKINS-16404:jenkinsci/email-ext-plugin#862
+JENKINS-16409:jenkinsci/email-ext-plugin#863
 JENKINS-16416:jenkinsci/active-directory-plugin#382
 JENKINS-16417:jenkinsci/jenkins#13226
 JENKINS-16419:jenkinsci/git-plugin#2213
 JENKINS-16421:jenkinsci/gerrit-trigger-plugin#617
+JENKINS-16423:jenkinsci/email-ext-plugin#864
+JENKINS-16424:jenkinsci/email-ext-plugin#865
 JENKINS-16429:jenkinsci/active-directory-plugin#383
 JENKINS-16430:jenkinsci/ldap-plugin#415
 JENKINS-16431:jenkinsci/jenkins#13227
@@ -6974,6 +7012,7 @@ JENKINS-16526:jenkinsci/warnings-ng-plugin#2439
 JENKINS-16528:jenkinsci/jenkins#13247
 JENKINS-16530:jenkinsci/jenkins#13248
 JENKINS-16531:jenkinsci/jenkins#13249
+JENKINS-16532:jenkinsci/email-ext-plugin#866
 JENKINS-16536:jenkinsci/jenkins#13250
 JENKINS-16540:jenkinsci/jenkins#13251
 JENKINS-16542:jenkinsci/jenkins#13252
@@ -7042,6 +7081,7 @@ JENKINS-16702:jenkinsci/jenkins#13289
 JENKINS-16708:jenkinsci/jenkins#13290
 JENKINS-16709:jenkinsci/jenkins#13291
 JENKINS-16714:jenkinsci/jenkins#13292
+JENKINS-16716:jenkinsci/email-ext-plugin#867
 JENKINS-16719:jenkinsci/jenkins#13293
 JENKINS-16722:jenkinsci/jenkins#13294
 JENKINS-16728:jenkinsci/jenkins#13295
@@ -7051,6 +7091,8 @@ JENKINS-16734:jenkinsci/jenkins#13297
 JENKINS-16735:jenkinsci/jenkins#13298
 JENKINS-16737:jenkinsci/git-plugin#2226
 JENKINS-16745:jenkinsci/jenkins#13299
+JENKINS-16746:jenkinsci/email-ext-plugin#868
+JENKINS-16749:jenkinsci/email-ext-plugin#869
 JENKINS-16750:jenkinsci/jenkins#13300
 JENKINS-16752:jenkinsci/jenkins#13301
 JENKINS-16753:jenkinsci/matrix-project-plugin#538
@@ -7062,6 +7104,7 @@ JENKINS-16768:jenkinsci/active-directory-plugin#385
 JENKINS-16769:jenkinsci/jenkins#13305
 JENKINS-16770:jenkinsci/jenkins#13306
 JENKINS-16775:jenkinsci/jenkins#13307
+JENKINS-16779:jenkinsci/email-ext-plugin#870
 JENKINS-16781:jenkinsci/jenkins#13308
 JENKINS-16782:jenkinsci/jenkins#13309
 JENKINS-16794:jenkinsci/jenkins#24820
@@ -7092,6 +7135,7 @@ JENKINS-16848:jenkinsci/jenkins#13328
 JENKINS-16849:jenkinsci/git-plugin#2228
 JENKINS-16851:jenkinsci/git-plugin#2229
 JENKINS-16852:jenkinsci/promoted-builds-plugin#476
+JENKINS-16861:jenkinsci/email-ext-plugin#871
 JENKINS-16862:jenkinsci/jenkins#24821
 JENKINS-16867:jenkinsci/jenkins#13329
 JENKINS-16868:jenkinsci/build-failure-analyzer-plugin#226
@@ -7110,11 +7154,14 @@ JENKINS-16895:jenkinsci/promoted-builds-plugin#479
 JENKINS-16896:jenkinsci/gerrit-trigger-plugin#620
 JENKINS-16905:jenkinsci/gerrit-trigger-plugin#621
 JENKINS-16906:jenkinsci/git-plugin#2234
+JENKINS-16910:jenkinsci/email-ext-plugin#872
 JENKINS-16911:jenkinsci/git-plugin#2235
 JENKINS-16913:jenkinsci/jenkins#13334
 JENKINS-16914:jenkinsci/git-plugin#2236
 JENKINS-16915:jenkinsci/git-plugin#2237
+JENKINS-16916:jenkinsci/email-ext-plugin#873
 JENKINS-16918:jenkinsci/jenkins#13335
+JENKINS-16919:jenkinsci/email-ext-plugin#874
 JENKINS-16924:jenkinsci/remoting#1069
 JENKINS-16929:jenkinsci/warnings-ng-plugin#2442
 JENKINS-16930:jenkinsci/jenkins#24822
@@ -7134,12 +7181,15 @@ JENKINS-16962:jenkinsci/jenkins#14344
 JENKINS-16963:jenkinsci/build-failure-analyzer-plugin#227
 JENKINS-16966:jenkinsci/jenkins#14345
 JENKINS-16974:jenkinsci/jenkins#14346
+JENKINS-16975:jenkinsci/email-ext-plugin#875
 JENKINS-16979:jenkinsci/jenkins#14347
 JENKINS-16981:jenkinsci/github-plugin#482
+JENKINS-16983:jenkinsci/email-ext-plugin#876
 JENKINS-16985:jenkinsci/jenkins#14348
 JENKINS-16986:jenkinsci/remoting#1070
 JENKINS-16988:jenkinsci/active-directory-plugin#386
 JENKINS-16989:jenkinsci/jenkins#14349
+JENKINS-16990:jenkinsci/email-ext-plugin#877
 JENKINS-16994:jenkinsci/git-plugin#2241
 JENKINS-16998:jenkinsci/job-dsl-plugin#1663
 JENKINS-17003:jenkinsci/remoting#1071
@@ -7154,6 +7204,7 @@ JENKINS-17013:jenkinsci/git-plugin#2242
 JENKINS-17014:jenkinsci/promoted-builds-plugin#480
 JENKINS-17018:jenkinsci/jenkins#14356
 JENKINS-17020:jenkinsci/git-plugin#2243
+JENKINS-17022:jenkinsci/email-ext-plugin#878
 JENKINS-17025:jenkinsci/jenkins#14357
 JENKINS-17028:jenkinsci/embeddable-build-status-plugin#463
 JENKINS-17029:jenkinsci/jenkins#14358
@@ -7170,6 +7221,8 @@ JENKINS-17050:jenkinsci/jenkins#14367
 JENKINS-17051:jenkinsci/jenkins#14368
 JENKINS-17055:jenkinsci/git-plugin#2244
 JENKINS-17062:jenkinsci/warnings-ng-plugin#2443
+JENKINS-17064:jenkinsci/email-ext-plugin#879
+JENKINS-17074:jenkinsci/email-ext-plugin#880
 JENKINS-17075:jenkinsci/warnings-ng-plugin#2444
 JENKINS-17077:jenkinsci/jenkins#24823
 JENKINS-17078:jenkinsci/jenkins#14369
@@ -7203,6 +7256,7 @@ JENKINS-17125:jenkinsci/jenkins#14388
 JENKINS-17128:jenkinsci/jenkins#14389
 JENKINS-17131:jenkinsci/jenkins#14390
 JENKINS-17132:jenkinsci/warnings-ng-plugin#2446
+JENKINS-17133:jenkinsci/email-ext-plugin#881
 JENKINS-17134:jenkinsci/jenkins#14391
 JENKINS-17137:jenkinsci/jenkins#14392
 JENKINS-17138:jenkinsci/jenkins#14393
@@ -7211,6 +7265,7 @@ JENKINS-17148:jenkinsci/jenkins#14395
 JENKINS-17150:jenkinsci/git-plugin#2249
 JENKINS-17151:jenkinsci/jenkins#14396
 JENKINS-17155:jenkinsci/matrix-project-plugin#539
+JENKINS-17161:jenkinsci/email-ext-plugin#882
 JENKINS-17162:jenkinsci/jenkins#14397
 JENKINS-17163:jenkinsci/jenkins#14398
 JENKINS-17164:jenkinsci/git-plugin#2250
@@ -7224,7 +7279,10 @@ JENKINS-17181:jenkinsci/jenkins#14403
 JENKINS-17183:jenkinsci/jenkins#14404
 JENKINS-17185:jenkinsci/jenkins#14405
 JENKINS-17186:jenkinsci/git-plugin#2251
+JENKINS-17188:jenkinsci/email-ext-plugin#883
 JENKINS-17189:jenkinsci/junit-plugin#934
+JENKINS-17190:jenkinsci/email-ext-plugin#884
+JENKINS-17191:jenkinsci/email-ext-plugin#885
 JENKINS-17195:jenkinsci/git-plugin#2252
 JENKINS-17196:jenkinsci/warnings-ng-plugin#2448
 JENKINS-17197:jenkinsci/warnings-ng-plugin#2449
@@ -7247,6 +7305,7 @@ JENKINS-17224:jenkinsci/jenkins#14413
 JENKINS-17227:jenkinsci/jenkins#14414
 JENKINS-17231:jenkinsci/jenkins#14415
 JENKINS-17232:jenkinsci/jenkins#14416
+JENKINS-17234:jenkinsci/email-ext-plugin#886
 JENKINS-17236:jenkinsci/jenkins#14417
 JENKINS-17237:jenkinsci/nodelabelparameter-plugin#502
 JENKINS-17238:jenkinsci/jenkins#14418
@@ -7274,8 +7333,10 @@ JENKINS-17281:jenkinsci/ldap-plugin#417
 JENKINS-17286:jenkinsci/parameterized-trigger-plugin#560
 JENKINS-17289:jenkinsci/jenkins#14429
 JENKINS-17290:jenkinsci/jenkins#14430
+JENKINS-17296:jenkinsci/email-ext-plugin#887
 JENKINS-17302:jenkinsci/jenkins#14431
 JENKINS-17305:jenkinsci/nodelabelparameter-plugin#503
+JENKINS-17307:jenkinsci/email-ext-plugin#888
 JENKINS-17309:jenkinsci/warnings-ng-plugin#2451
 JENKINS-17311:jenkinsci/jenkins#14432
 JENKINS-17316:jenkinsci/build-failure-analyzer-plugin#228
@@ -7290,11 +7351,13 @@ JENKINS-17338:jenkinsci/active-directory-plugin#387
 JENKINS-17339:jenkinsci/matrix-project-plugin#540
 JENKINS-17341:jenkinsci/promoted-builds-plugin#482
 JENKINS-17343:jenkinsci/jenkins#14437
+JENKINS-17344:jenkinsci/email-ext-plugin#889
 JENKINS-17346:jenkinsci/git-plugin#2262
 JENKINS-17347:jenkinsci/jenkins#14438
 JENKINS-17348:jenkinsci/git-plugin#2263
 JENKINS-17351:jenkinsci/jenkins#14439
 JENKINS-17355:jenkinsci/jenkins#14440
+JENKINS-17356:jenkinsci/email-ext-plugin#890
 JENKINS-17357:jenkinsci/active-directory-plugin#388
 JENKINS-17358:jenkinsci/jenkins#14441
 JENKINS-17359:jenkinsci/git-plugin#2264
@@ -7349,6 +7412,7 @@ JENKINS-17490:jenkinsci/jenkins#14469
 JENKINS-17492:jenkinsci/jenkins#14470
 JENKINS-17497:jenkinsci/jenkins#14471
 JENKINS-17501:jenkinsci/jenkins#14472
+JENKINS-17503:jenkinsci/email-ext-plugin#891
 JENKINS-17508:jenkinsci/jenkins#14473
 JENKINS-17510:jenkinsci/jenkins#14474
 JENKINS-17511:jenkinsci/jenkins#14475
@@ -7360,13 +7424,17 @@ JENKINS-17529:jenkinsci/jenkins#14479
 JENKINS-17536:jenkinsci/ec2-plugin#1279
 JENKINS-17537:jenkinsci/active-directory-plugin#390
 JENKINS-17544:jenkinsci/promoted-builds-plugin#484
+JENKINS-17546:jenkinsci/email-ext-plugin#892
 JENKINS-17549:jenkinsci/jenkins#14480
+JENKINS-17551:jenkinsci/email-ext-plugin#893
 JENKINS-17557:jenkinsci/gerrit-trigger-plugin#625
 JENKINS-17569:jenkinsci/jenkins#14481
 JENKINS-17571:jenkinsci/jenkins#14482
 JENKINS-17573:jenkinsci/jenkins#14483
 JENKINS-17575:jenkinsci/jenkins#14484
+JENKINS-17577:jenkinsci/email-ext-plugin#894
 JENKINS-17578:jenkinsci/jenkins#14485
+JENKINS-17580:jenkinsci/email-ext-plugin#895
 JENKINS-17581:jenkinsci/active-directory-plugin#391
 JENKINS-17587:jenkinsci/jenkins#14486
 JENKINS-17589:jenkinsci/jenkins#14487
@@ -7393,6 +7461,7 @@ JENKINS-17650:jenkinsci/jenkins#14501
 JENKINS-17651:jenkinsci/build-failure-analyzer-plugin#229
 JENKINS-17653:jenkinsci/git-plugin#2272
 JENKINS-17658:jenkinsci/build-failure-analyzer-plugin#230
+JENKINS-17659:jenkinsci/email-ext-plugin#896
 JENKINS-17660:jenkinsci/nodelabelparameter-plugin#504
 JENKINS-17661:jenkinsci/ldap-plugin#418
 JENKINS-17664:jenkinsci/jenkins#14502
@@ -7400,6 +7469,7 @@ JENKINS-17666:jenkinsci/jenkins#24829
 JENKINS-17667:jenkinsci/jenkins#14503
 JENKINS-17669:jenkinsci/jenkins#24830
 JENKINS-17674:jenkinsci/jenkins#14504
+JENKINS-17675:jenkinsci/email-ext-plugin#897
 JENKINS-17676:jenkinsci/active-directory-plugin#392
 JENKINS-17677:jenkinsci/jenkins#14505
 JENKINS-17679:jenkinsci/git-plugin#2273
@@ -7427,9 +7497,11 @@ JENKINS-17724:jenkinsci/jenkins#14516
 JENKINS-17725:jenkinsci/jenkins#14517
 JENKINS-17726:jenkinsci/jenkins#14518
 JENKINS-17728:jenkinsci/jenkins#14519
+JENKINS-17733:jenkinsci/email-ext-plugin#898
 JENKINS-17735:jenkinsci/jenkins#14520
 JENKINS-17740:jenkinsci/active-directory-plugin#397
 JENKINS-17741:jenkinsci/jenkins#14521
+JENKINS-17742:jenkinsci/email-ext-plugin#899
 JENKINS-17743:jenkinsci/jenkins#14522
 JENKINS-17745:jenkinsci/junit-plugin#937
 JENKINS-17746:jenkinsci/jenkins#14523
@@ -7438,6 +7510,7 @@ JENKINS-17751:jenkinsci/parameterized-trigger-plugin#564
 JENKINS-17754:jenkinsci/jenkins#14524
 JENKINS-17756:jenkinsci/jenkins#14525
 JENKINS-17757:jenkinsci/jenkins#14526
+JENKINS-17759:jenkinsci/email-ext-plugin#900
 JENKINS-17762:jenkinsci/warnings-ng-plugin#2455
 JENKINS-17763:jenkinsci/git-plugin#2276
 JENKINS-17767:jenkinsci/warnings-ng-plugin#2456
@@ -7459,6 +7532,7 @@ JENKINS-17794:jenkinsci/warnings-ng-plugin#2465
 JENKINS-17798:jenkinsci/embeddable-build-status-plugin#465
 JENKINS-17803:jenkinsci/active-directory-plugin#398
 JENKINS-17805:jenkinsci/jenkins#14531
+JENKINS-17812:jenkinsci/email-ext-plugin#901
 JENKINS-17813:jenkinsci/jenkins#14532
 JENKINS-17818:jenkinsci/jenkins#14533
 JENKINS-17820:jenkinsci/jenkins#14534
@@ -7467,6 +7541,7 @@ JENKINS-17822:jenkinsci/jenkins#14536
 JENKINS-17824:jenkinsci/active-directory-plugin#399
 JENKINS-17825:jenkinsci/jenkins#14537
 JENKINS-17836:jenkinsci/jenkins#14538
+JENKINS-17838:jenkinsci/email-ext-plugin#902
 JENKINS-17841:jenkinsci/git-plugin#2278
 JENKINS-17842:jenkinsci/matrix-project-plugin#542
 JENKINS-17849:jenkinsci/jenkins#14539
@@ -7488,6 +7563,7 @@ JENKINS-17898:jenkinsci/git-plugin#2280
 JENKINS-17899:jenkinsci/git-plugin#2281
 JENKINS-17904:jenkinsci/platformlabeler-plugin#1836
 JENKINS-17907:jenkinsci/jenkins#24834
+JENKINS-17910:jenkinsci/email-ext-plugin#903
 JENKINS-17911:jenkinsci/warnings-ng-plugin#2466
 JENKINS-17915:jenkinsci/git-plugin#2282
 JENKINS-17918:jenkinsci/jenkins#14548
@@ -7506,6 +7582,7 @@ JENKINS-17948:jenkinsci/jenkins#14557
 JENKINS-17955:jenkinsci/promoted-builds-plugin#486
 JENKINS-17956:jenkinsci/jenkins#14558
 JENKINS-17966:jenkinsci/github-plugin#484
+JENKINS-17969:jenkinsci/email-ext-plugin#904
 JENKINS-17970:jenkinsci/git-plugin#2283
 JENKINS-17976:jenkinsci/jenkins#14559
 JENKINS-17977:jenkinsci/jenkins#14560
@@ -7519,10 +7596,12 @@ JENKINS-17999:jenkinsci/jenkins#14565
 JENKINS-18001:jenkinsci/jenkins#14566
 JENKINS-18002:jenkinsci/gerrit-trigger-plugin#627
 JENKINS-18005:jenkinsci/git-plugin#2285
+JENKINS-18006:jenkinsci/email-ext-plugin#905
 JENKINS-18007:jenkinsci/git-plugin#2286
 JENKINS-18008:jenkinsci/jenkins#14567
 JENKINS-18010:jenkinsci/jenkins#14568
 JENKINS-18011:jenkinsci/jenkins#14569
+JENKINS-18014:jenkinsci/email-ext-plugin#906
 JENKINS-18020:jenkinsci/jenkins#14570
 JENKINS-18024:jenkinsci/matrix-project-plugin#544
 JENKINS-18025:jenkinsci/jenkins#14571
@@ -7535,6 +7614,7 @@ JENKINS-18050:jenkinsci/jenkins#14577
 JENKINS-18055:jenkinsci/jenkins#14578
 JENKINS-18058:jenkinsci/jenkins#14579
 JENKINS-18062:jenkinsci/jenkins#14580
+JENKINS-18064:jenkinsci/email-ext-plugin#907
 JENKINS-18065:jenkinsci/jenkins#14581
 JENKINS-18068:jenkinsci/jenkins#14582
 JENKINS-18069:jenkinsci/nodelabelparameter-plugin#505
@@ -7543,6 +7623,7 @@ JENKINS-18071:jenkinsci/jenkins#14584
 JENKINS-18074:jenkinsci/jenkins#14585
 JENKINS-18075:jenkinsci/job-dsl-plugin#1666
 JENKINS-18076:jenkinsci/job-dsl-plugin#1667
+JENKINS-18078:jenkinsci/email-ext-plugin#908
 JENKINS-18079:jenkinsci/github-plugin#485
 JENKINS-18080:jenkinsci/jenkins#14586
 JENKINS-18081:jenkinsci/warnings-ng-plugin#2468
@@ -7552,6 +7633,7 @@ JENKINS-18084:jenkinsci/warnings-ng-plugin#2469
 JENKINS-18089:jenkinsci/job-dsl-plugin#1668
 JENKINS-18091:jenkinsci/jenkins#24835
 JENKINS-18095:jenkinsci/junit-plugin#939
+JENKINS-18096:jenkinsci/email-ext-plugin#909
 JENKINS-18097:jenkinsci/jenkins#14589
 JENKINS-18104:jenkinsci/jenkins#24836
 JENKINS-18111:jenkinsci/jenkins#14590
@@ -7573,6 +7655,7 @@ JENKINS-18141:jenkinsci/job-dsl-plugin#1669
 JENKINS-18148:jenkinsci/junit-plugin#940
 JENKINS-18150:jenkinsci/jenkins#14601
 JENKINS-18152:jenkinsci/remoting#1073
+JENKINS-18157:jenkinsci/email-ext-plugin#910
 JENKINS-18159:jenkinsci/git-plugin#2289
 JENKINS-18163:jenkinsci/jenkins#14602
 JENKINS-18164:jenkinsci/matrix-project-plugin#545
@@ -7590,6 +7673,7 @@ JENKINS-18195:jenkinsci/jenkins#14611
 JENKINS-18196:jenkinsci/jenkins#14612
 JENKINS-18198:jenkinsci/jenkins#14613
 JENKINS-18199:jenkinsci/jenkins#14614
+JENKINS-18203:jenkinsci/email-ext-plugin#911
 JENKINS-18204:jenkinsci/jenkins#14615
 JENKINS-18205:jenkinsci/remoting#1074
 JENKINS-18210:jenkinsci/ldap-plugin#420
@@ -7623,6 +7707,7 @@ JENKINS-18299:jenkinsci/jenkins#14632
 JENKINS-18301:jenkinsci/jenkins#14633
 JENKINS-18303:jenkinsci/git-plugin#2292
 JENKINS-18304:jenkinsci/jenkins#14634
+JENKINS-18306:jenkinsci/email-ext-plugin#912
 JENKINS-18307:jenkinsci/jenkins#14635
 JENKINS-18310:jenkinsci/jenkins#14636
 JENKINS-18313:jenkinsci/jenkins#14637
@@ -7652,6 +7737,7 @@ JENKINS-18370:jenkinsci/jenkins#24838
 JENKINS-18372:jenkinsci/javadoc-plugin#249
 JENKINS-18373:jenkinsci/jenkins#14653
 JENKINS-18375:jenkinsci/jenkins#14654
+JENKINS-18376:jenkinsci/email-ext-plugin#913
 JENKINS-18381:jenkinsci/jenkins#14655
 JENKINS-18384:jenkinsci/jenkins#14656
 JENKINS-18385:jenkinsci/promoted-builds-plugin#489
@@ -7671,6 +7757,7 @@ JENKINS-18425:jenkinsci/jenkins#14666
 JENKINS-18427:jenkinsci/jenkins#14667
 JENKINS-18430:jenkinsci/ldap-plugin#422
 JENKINS-18432:jenkinsci/jenkins#14668
+JENKINS-18433:jenkinsci/email-ext-plugin#914
 JENKINS-18434:jenkinsci/jenkins#14669
 JENKINS-18435:jenkinsci/jenkins#14670
 JENKINS-18436:jenkinsci/jenkins#14671
@@ -7685,6 +7772,8 @@ JENKINS-18462:jenkinsci/job-dsl-plugin#1675
 JENKINS-18466:jenkinsci/jenkins#14677
 JENKINS-18469:jenkinsci/jenkins#14678
 JENKINS-18470:jenkinsci/jenkins#14679
+JENKINS-18472:jenkinsci/email-ext-plugin#915
+JENKINS-18474:jenkinsci/email-ext-plugin#916
 JENKINS-18475:jenkinsci/git-plugin#2295
 JENKINS-18485:jenkinsci/jenkins#14680
 JENKINS-18486:jenkinsci/parameterized-trigger-plugin#567
@@ -7697,6 +7786,7 @@ JENKINS-18506:jenkinsci/jenkins#14684
 JENKINS-18507:jenkinsci/durable-task-plugin#315
 JENKINS-18513:jenkinsci/jenkins#14685
 JENKINS-18514:jenkinsci/jenkins#14686
+JENKINS-18517:jenkinsci/email-ext-plugin#917
 JENKINS-18518:jenkinsci/build-failure-analyzer-plugin#231
 JENKINS-18519:jenkinsci/git-client-plugin#1371
 JENKINS-18524:jenkinsci/jenkins#24839
@@ -7710,6 +7800,7 @@ JENKINS-18545:jenkinsci/warnings-ng-plugin#2471
 JENKINS-18550:jenkinsci/github-plugin#488
 JENKINS-18558:jenkinsci/jenkins#14690
 JENKINS-18561:jenkinsci/jenkins#14691
+JENKINS-18567:jenkinsci/email-ext-plugin#918
 JENKINS-18569:jenkinsci/jenkins#14692
 JENKINS-18571:jenkinsci/jenkins#14693
 JENKINS-18578:jenkinsci/jenkins#14694
@@ -7717,11 +7808,13 @@ JENKINS-18580:jenkinsci/jenkins#14695
 JENKINS-18585:jenkinsci/jenkins#14696
 JENKINS-18588:jenkinsci/git-plugin#2296
 JENKINS-18589:jenkinsci/jenkins#14697
+JENKINS-18590:jenkinsci/email-ext-plugin#919
 JENKINS-18596:jenkinsci/warnings-ng-plugin#2472
 JENKINS-18598:jenkinsci/github-plugin#489
 JENKINS-18599:jenkinsci/jenkins#14698
 JENKINS-18601:jenkinsci/jenkins#14699
 JENKINS-18608:jenkinsci/jenkins#14700
+JENKINS-18609:jenkinsci/email-ext-plugin#920
 JENKINS-18613:jenkinsci/jenkins#14701
 JENKINS-18614:jenkinsci/jenkins#14702
 JENKINS-18615:jenkinsci/jenkins#14703
@@ -7753,9 +7846,12 @@ JENKINS-18680:jenkinsci/jenkins#14725
 JENKINS-18681:jenkinsci/jenkins#14726
 JENKINS-18682:jenkinsci/jenkins#14727
 JENKINS-18684:jenkinsci/jenkins#14728
+JENKINS-18686:jenkinsci/email-ext-plugin#921
 JENKINS-18687:jenkinsci/jenkins#14729
 JENKINS-18689:jenkinsci/jenkins#14730
+JENKINS-18693:jenkinsci/email-ext-plugin#922
 JENKINS-18694:jenkinsci/jenkins#14731
+JENKINS-18695:jenkinsci/email-ext-plugin#923
 JENKINS-18696:jenkinsci/junit-plugin#943
 JENKINS-18698:jenkinsci/git-plugin#2298
 JENKINS-18701:jenkinsci/jenkins#14732
@@ -7770,6 +7866,7 @@ JENKINS-18719:jenkinsci/jenkins#14734
 JENKINS-18721:jenkinsci/jenkins#14735
 JENKINS-18722:jenkinsci/nodelabelparameter-plugin#507
 JENKINS-18723:jenkinsci/jenkins#14736
+JENKINS-18728:jenkinsci/email-ext-plugin#924
 JENKINS-18734:jenkinsci/jenkins#14737
 JENKINS-18749:jenkinsci/jenkins#14738
 JENKINS-18756:jenkinsci/jenkins#14739
@@ -7779,6 +7876,7 @@ JENKINS-18775:jenkinsci/jenkins#14741
 JENKINS-18776:jenkinsci/jenkins#14742
 JENKINS-18777:jenkinsci/jenkins#14743
 JENKINS-18778:jenkinsci/jenkins#14744
+JENKINS-18779:jenkinsci/email-ext-plugin#925
 JENKINS-18780:jenkinsci/jenkins#14745
 JENKINS-18781:jenkinsci/jenkins#14746
 JENKINS-18782:jenkinsci/remoting#1075
@@ -7820,9 +7918,11 @@ JENKINS-18890:jenkinsci/parameterized-trigger-plugin#570
 JENKINS-18893:jenkinsci/jenkins#14768
 JENKINS-18902:jenkinsci/jenkins#14769
 JENKINS-18903:jenkinsci/jenkins#14770
+JENKINS-18905:jenkinsci/email-ext-plugin#926
 JENKINS-18906:jenkinsci/active-directory-plugin#402
 JENKINS-18909:jenkinsci/jenkins#14771
 JENKINS-18911:jenkinsci/jenkins#14772
+JENKINS-18912:jenkinsci/email-ext-plugin#927
 JENKINS-18913:jenkinsci/warnings-ng-plugin#2477
 JENKINS-18918:jenkinsci/jenkins#14773
 JENKINS-18924:jenkinsci/jenkins#24840
@@ -7902,8 +8002,10 @@ JENKINS-19076:jenkinsci/credentials-plugin#661
 JENKINS-19079:jenkinsci/jenkins#14808
 JENKINS-19081:jenkinsci/jenkins#14809
 JENKINS-19082:jenkinsci/jenkins#14810
+JENKINS-19083:jenkinsci/email-ext-plugin#928
 JENKINS-19086:jenkinsci/jenkins#14811
 JENKINS-19087:jenkinsci/jenkins#14812
+JENKINS-19089:jenkinsci/email-ext-plugin#929
 JENKINS-19091:jenkinsci/jenkins#14813
 JENKINS-19099:jenkinsci/jenkins#14814
 JENKINS-19100:jenkinsci/jenkins#14815
@@ -7927,8 +8029,10 @@ JENKINS-19151:jenkinsci/jenkins#14828
 JENKINS-19152:jenkinsci/jenkins#14829
 JENKINS-19153:jenkinsci/promoted-builds-plugin#496
 JENKINS-19154:jenkinsci/jenkins#14830
+JENKINS-19155:jenkinsci/email-ext-plugin#930
 JENKINS-19156:jenkinsci/jenkins#14831
 JENKINS-19158:jenkinsci/jenkins#14832
+JENKINS-19161:jenkinsci/email-ext-plugin#931
 JENKINS-19163:jenkinsci/gerrit-trigger-plugin#638
 JENKINS-19168:jenkinsci/jenkins#14833
 JENKINS-19169:jenkinsci/jenkins#14834
@@ -7939,6 +8043,7 @@ JENKINS-19179:jenkinsci/matrix-project-plugin#547
 JENKINS-19182:jenkinsci/promoted-builds-plugin#497
 JENKINS-19183:jenkinsci/jenkins#14838
 JENKINS-19186:jenkinsci/jenkins#14839
+JENKINS-19190:jenkinsci/email-ext-plugin#932
 JENKINS-19192:jenkinsci/jenkins#14840
 JENKINS-19196:jenkinsci/jenkins#14841
 JENKINS-19199:jenkinsci/jenkins#14842
@@ -7951,6 +8056,7 @@ JENKINS-19215:jenkinsci/jenkins#14847
 JENKINS-19216:jenkinsci/credentials-plugin#662
 JENKINS-19221:jenkinsci/jenkins#14848
 JENKINS-19224:jenkinsci/jenkins#14849
+JENKINS-19225:jenkinsci/email-ext-plugin#933
 JENKINS-19230:jenkinsci/jenkins#14850
 JENKINS-19238:jenkinsci/jenkins#14851
 JENKINS-19241:jenkinsci/jenkins#14852
@@ -7959,8 +8065,10 @@ JENKINS-19245:jenkinsci/jenkins#24844
 JENKINS-19246:jenkinsci/jenkins#14854
 JENKINS-19248:jenkinsci/jenkins#14855
 JENKINS-19250:jenkinsci/jenkins#14856
+JENKINS-19252:jenkinsci/email-ext-plugin#934
 JENKINS-19255:jenkinsci/parameterized-trigger-plugin#572
 JENKINS-19261:jenkinsci/job-dsl-plugin#1685
+JENKINS-19265:jenkinsci/email-ext-plugin#935
 JENKINS-19266:jenkinsci/jenkins#14857
 JENKINS-19269:jenkinsci/job-dsl-plugin#1686
 JENKINS-19272:jenkinsci/jenkins#24845
@@ -7971,6 +8079,8 @@ JENKINS-19280:jenkinsci/job-dsl-plugin#1687
 JENKINS-19281:jenkinsci/jenkins#14860
 JENKINS-19284:jenkinsci/jenkins#14861
 JENKINS-19287:jenkinsci/junit-plugin#944
+JENKINS-19289:jenkinsci/email-ext-plugin#936
+JENKINS-19291:jenkinsci/email-ext-plugin#937
 JENKINS-19292:jenkinsci/jenkins#14862
 JENKINS-19294:jenkinsci/git-client-plugin#1376
 JENKINS-19295:jenkinsci/warnings-ng-plugin#2479
@@ -7981,6 +8091,8 @@ JENKINS-19306:jenkinsci/credentials-plugin#663
 JENKINS-19307:jenkinsci/jenkins#14864
 JENKINS-19308:jenkinsci/credentials-plugin#664
 JENKINS-19310:jenkinsci/jenkins#14865
+JENKINS-19312:jenkinsci/email-ext-plugin#938
+JENKINS-19317:jenkinsci/email-ext-plugin#939
 JENKINS-19319:jenkinsci/embeddable-build-status-plugin#467
 JENKINS-19323:jenkinsci/jenkins#14866
 JENKINS-19324:jenkinsci/jenkins#14867
@@ -7996,6 +8108,7 @@ JENKINS-19349:jenkinsci/jenkins#14874
 JENKINS-19354:jenkinsci/warnings-ng-plugin#2480
 JENKINS-19358:jenkinsci/jenkins#14875
 JENKINS-19362:jenkinsci/ec2-plugin#1291
+JENKINS-19363:jenkinsci/email-ext-plugin#940
 JENKINS-19364:jenkinsci/gerrit-trigger-plugin#639
 JENKINS-19366:jenkinsci/jenkins#14876
 JENKINS-19368:jenkinsci/jenkins#14877
@@ -8006,18 +8119,22 @@ JENKINS-19381:jenkinsci/jenkins#14879
 JENKINS-19382:jenkinsci/jenkins#14880
 JENKINS-19383:jenkinsci/jenkins#14881
 JENKINS-19385:jenkinsci/jenkins#14882
+JENKINS-19386:jenkinsci/email-ext-plugin#941
 JENKINS-19389:jenkinsci/jenkins#14883
 JENKINS-19391:jenkinsci/jenkins#14884
 JENKINS-19392:jenkinsci/jenkins#14885
 JENKINS-19393:jenkinsci/jenkins#14886
+JENKINS-19397:jenkinsci/email-ext-plugin#942
 JENKINS-19400:jenkinsci/jenkins#14887
 JENKINS-19401:jenkinsci/job-dsl-plugin#1688
 JENKINS-19411:jenkinsci/jenkins#14888
 JENKINS-19413:jenkinsci/jenkins#14889
 JENKINS-19414:jenkinsci/git-plugin#2318
 JENKINS-19418:jenkinsci/jenkins#14890
+JENKINS-19419:jenkinsci/email-ext-plugin#943
 JENKINS-19421:jenkinsci/jenkins#14891
 JENKINS-19425:jenkinsci/warnings-ng-plugin#2481
+JENKINS-19428:jenkinsci/email-ext-plugin#944
 JENKINS-19429:jenkinsci/git-client-plugin#1377
 JENKINS-19431:jenkinsci/jenkins#14892
 JENKINS-19434:jenkinsci/jenkins#14893
@@ -8050,6 +8167,8 @@ JENKINS-19511:jenkinsci/jenkins#14909
 JENKINS-19512:jenkinsci/jenkins#14910
 JENKINS-19513:jenkinsci/jenkins#14911
 JENKINS-19515:jenkinsci/jenkins#14912
+JENKINS-19517:jenkinsci/email-ext-plugin#945
+JENKINS-19520:jenkinsci/email-ext-plugin#946
 JENKINS-19521:jenkinsci/javadoc-plugin#250
 JENKINS-19523:jenkinsci/git-plugin#2321
 JENKINS-19533:jenkinsci/jenkins#14913
@@ -8072,12 +8191,15 @@ JENKINS-19575:jenkinsci/credentials-plugin#666
 JENKINS-19578:jenkinsci/jenkins#14927
 JENKINS-19580:jenkinsci/gerrit-trigger-plugin#641
 JENKINS-19581:jenkinsci/git-plugin#2323
+JENKINS-19583:jenkinsci/email-ext-plugin#947
 JENKINS-19584:jenkinsci/jenkins#14928
+JENKINS-19585:jenkinsci/email-ext-plugin#948
 JENKINS-19586:jenkinsci/jenkins#14929
 JENKINS-19591:jenkinsci/git-plugin#2324
 JENKINS-19593:jenkinsci/git-client-plugin#1379
 JENKINS-19596:jenkinsci/jenkins#14930
 JENKINS-19601:jenkinsci/promoted-builds-plugin#499
+JENKINS-19605:jenkinsci/email-ext-plugin#949
 JENKINS-19607:jenkinsci/jenkins#14931
 JENKINS-19613:jenkinsci/jenkins#14932
 JENKINS-19614:jenkinsci/warnings-ng-plugin#2482
@@ -8094,6 +8216,7 @@ JENKINS-19671:jenkinsci/jenkins#14941
 JENKINS-19674:jenkinsci/github-plugin#492
 JENKINS-19678:jenkinsci/gerrit-trigger-plugin#642
 JENKINS-19681:jenkinsci/embeddable-build-status-plugin#468
+JENKINS-19682:jenkinsci/email-ext-plugin#950
 JENKINS-19683:jenkinsci/jenkins#14942
 JENKINS-19684:jenkinsci/credentials-plugin#667
 JENKINS-19685:jenkinsci/job-dsl-plugin#1689
@@ -8104,6 +8227,7 @@ JENKINS-19692:jenkinsci/jenkins#14945
 JENKINS-19695:jenkinsci/jenkins#14946
 JENKINS-19700:jenkinsci/jenkins#14947
 JENKINS-19705:jenkinsci/job-dsl-plugin#1690
+JENKINS-19711:jenkinsci/email-ext-plugin#951
 JENKINS-19712:jenkinsci/jenkins#14948
 JENKINS-19718:jenkinsci/active-directory-plugin#405
 JENKINS-19720:jenkinsci/jenkins#14949
@@ -8131,8 +8255,10 @@ JENKINS-19769:jenkinsci/jenkins#14965
 JENKINS-19771:jenkinsci/jenkins#14966
 JENKINS-19775:jenkinsci/github-plugin#493
 JENKINS-19776:jenkinsci/jenkins#14967
+JENKINS-19779:jenkinsci/email-ext-plugin#952
 JENKINS-19780:jenkinsci/jenkins#14968
 JENKINS-19786:jenkinsci/jenkins#14969
+JENKINS-19788:jenkinsci/email-ext-plugin#953
 JENKINS-19793:jenkinsci/parameterized-trigger-plugin#574
 JENKINS-19795:jenkinsci/parameterized-trigger-plugin#575
 JENKINS-19798:jenkinsci/remoting#1077
@@ -8144,8 +8270,10 @@ JENKINS-19807:jenkinsci/git-plugin#2326
 JENKINS-19810:jenkinsci/jenkins#14973
 JENKINS-19821:jenkinsci/jenkins#14974
 JENKINS-19822:jenkinsci/git-plugin#2327
+JENKINS-19825:jenkinsci/email-ext-plugin#954
 JENKINS-19826:jenkinsci/jenkins#14975
 JENKINS-19828:jenkinsci/jenkins#14976
+JENKINS-19831:jenkinsci/email-ext-plugin#955
 JENKINS-19832:jenkinsci/jenkins#14977
 JENKINS-19835:jenkinsci/jenkins#14978
 JENKINS-19838:jenkinsci/jenkins#14979
@@ -8173,6 +8301,7 @@ JENKINS-19902:jenkinsci/matrix-project-plugin#548
 JENKINS-19903:jenkinsci/jenkins#14990
 JENKINS-19906:jenkinsci/jenkins#14991
 JENKINS-19909:jenkinsci/jenkins#24848
+JENKINS-19918:jenkinsci/email-ext-plugin#956
 JENKINS-19919:jenkinsci/jenkins#24849
 JENKINS-19920:jenkinsci/jenkins#14992
 JENKINS-19921:jenkinsci/git-client-plugin#1381
@@ -8191,6 +8320,7 @@ JENKINS-19945:jenkinsci/jenkins#14999
 JENKINS-19946:jenkinsci/ldap-plugin#425
 JENKINS-19947:jenkinsci/jenkins#15000
 JENKINS-19951:jenkinsci/gerrit-trigger-plugin#644
+JENKINS-19953:jenkinsci/email-ext-plugin#957
 JENKINS-19956:jenkinsci/ec2-plugin#1301
 JENKINS-19957:jenkinsci/jenkins#15001
 JENKINS-19958:jenkinsci/jenkins#15002
@@ -8213,19 +8343,24 @@ JENKINS-20006:jenkinsci/cloudbees-folder-plugin#558
 JENKINS-20007:jenkinsci/cloudbees-folder-plugin#559
 JENKINS-20008:jenkinsci/jenkins#15008
 JENKINS-20011:jenkinsci/jenkins#15009
+JENKINS-20013:jenkinsci/email-ext-plugin#958
 JENKINS-20016:jenkinsci/jenkins#15010
 JENKINS-20017:jenkinsci/git-plugin#2334
 JENKINS-20019:jenkinsci/jenkins#15011
 JENKINS-20020:jenkinsci/jenkins#15012
 JENKINS-20023:jenkinsci/jenkins#15013
+JENKINS-20030:jenkinsci/email-ext-plugin#959
 JENKINS-20031:jenkinsci/jenkins#15014
 JENKINS-20032:jenkinsci/jenkins#15015
+JENKINS-20034:jenkinsci/email-ext-plugin#960
 JENKINS-20035:jenkinsci/jenkins#15016
 JENKINS-20038:jenkinsci/jenkins#15017
 JENKINS-20040:jenkinsci/jenkins#15018
 JENKINS-20046:jenkinsci/jenkins#15019
+JENKINS-20050:jenkinsci/email-ext-plugin#961
 JENKINS-20051:jenkinsci/ldap-plugin#426
 JENKINS-20052:jenkinsci/jenkins#15020
+JENKINS-20055:jenkinsci/email-ext-plugin#962
 JENKINS-20057:jenkinsci/jenkins#15021
 JENKINS-20062:jenkinsci/jenkins#15022
 JENKINS-20063:jenkinsci/jenkins#15023
@@ -8237,6 +8372,7 @@ JENKINS-20073:jenkinsci/credentials-plugin#671
 JENKINS-20074:jenkinsci/jenkins#15026
 JENKINS-20075:jenkinsci/credentials-plugin#672
 JENKINS-20077:jenkinsci/jenkins#15027
+JENKINS-20078:jenkinsci/email-ext-plugin#963
 JENKINS-20079:jenkinsci/jenkins#15028
 JENKINS-20080:jenkinsci/jenkins#15029
 JENKINS-20085:jenkinsci/jenkins#15030
@@ -8252,12 +8388,14 @@ JENKINS-20107:jenkinsci/remoting#1078
 JENKINS-20110:jenkinsci/jenkins#15038
 JENKINS-20114:jenkinsci/jenkins#15039
 JENKINS-20116:jenkinsci/jenkins#15040
+JENKINS-20117:jenkinsci/email-ext-plugin#964
 JENKINS-20118:jenkinsci/gerrit-trigger-plugin#646
 JENKINS-20120:jenkinsci/gerrit-trigger-plugin#647
 JENKINS-20122:jenkinsci/jenkins#15041
 JENKINS-20123:jenkinsci/jenkins#15042
 JENKINS-20127:jenkinsci/cloudbees-folder-plugin#560
 JENKINS-20128:jenkinsci/jenkins#15043
+JENKINS-20133:jenkinsci/email-ext-plugin#965
 JENKINS-20136:jenkinsci/matrix-project-plugin#550
 JENKINS-20139:jenkinsci/credentials-plugin#673
 JENKINS-20140:jenkinsci/github-plugin#495
@@ -8266,6 +8404,7 @@ JENKINS-20143:jenkinsci/jenkins#15044
 JENKINS-20148:jenkinsci/jenkins#15045
 JENKINS-20149:jenkinsci/git-plugin#2335
 JENKINS-20150:jenkinsci/warnings-ng-plugin#2486
+JENKINS-20151:jenkinsci/email-ext-plugin#966
 JENKINS-20152:jenkinsci/git-plugin#2336
 JENKINS-20153:jenkinsci/git-client-plugin#1383
 JENKINS-20154:jenkinsci/warnings-ng-plugin#2487
@@ -8277,25 +8416,30 @@ JENKINS-20166:jenkinsci/promoted-builds-plugin#504
 JENKINS-20167:jenkinsci/git-plugin#2337
 JENKINS-20168:jenkinsci/jenkins#15050
 JENKINS-20169:jenkinsci/git-client-plugin#1384
+JENKINS-20170:jenkinsci/email-ext-plugin#967
 JENKINS-20172:jenkinsci/jenkins#15051
 JENKINS-20175:jenkinsci/git-client-plugin#1385
 JENKINS-20179:jenkinsci/git-plugin#2338
+JENKINS-20183:jenkinsci/email-ext-plugin#968
 JENKINS-20187:jenkinsci/jenkins#15052
 JENKINS-20189:jenkinsci/git-plugin#2339
 JENKINS-20190:jenkinsci/jenkins#15053
 JENKINS-20195:jenkinsci/git-plugin#2340
 JENKINS-20196:jenkinsci/git-client-plugin#1386
+JENKINS-20198:jenkinsci/email-ext-plugin#969
 JENKINS-20200:jenkinsci/git-client-plugin#1387
 JENKINS-20201:jenkinsci/github-plugin#496
 JENKINS-20204:jenkinsci/jenkins#15054
 JENKINS-20205:jenkinsci/jenkins#15055
 JENKINS-20210:jenkinsci/jenkins#15056
+JENKINS-20215:jenkinsci/email-ext-plugin#970
 JENKINS-20217:jenkinsci/remoting#1079
 JENKINS-20218:jenkinsci/git-client-plugin#1388
 JENKINS-20219:jenkinsci/jenkins#15057
 JENKINS-20223:jenkinsci/git-client-plugin#1389
 JENKINS-20225:jenkinsci/gerrit-trigger-plugin#648
 JENKINS-20227:jenkinsci/jenkins#15058
+JENKINS-20229:jenkinsci/email-ext-plugin#971
 JENKINS-20231:jenkinsci/git-plugin#2341
 JENKINS-20234:jenkinsci/promoted-builds-plugin#505
 JENKINS-20235:jenkinsci/cloudbees-folder-plugin#561
@@ -8314,6 +8458,7 @@ JENKINS-20259:jenkinsci/jenkins#15065
 JENKINS-20260:jenkinsci/parameterized-trigger-plugin#577
 JENKINS-20261:jenkinsci/git-client-plugin#1392
 JENKINS-20262:jenkinsci/jenkins#15066
+JENKINS-20265:jenkinsci/email-ext-plugin#972
 JENKINS-20266:jenkinsci/jenkins#15067
 JENKINS-20268:jenkinsci/jenkins#15068
 JENKINS-20270:jenkinsci/jenkins#15069
@@ -8330,6 +8475,7 @@ JENKINS-20290:jenkinsci/ec2-plugin#1304
 JENKINS-20291:jenkinsci/gerrit-trigger-plugin#649
 JENKINS-20293:jenkinsci/matrix-project-plugin#551
 JENKINS-20294:jenkinsci/matrix-project-plugin#552
+JENKINS-20296:jenkinsci/email-ext-plugin#973
 JENKINS-20297:jenkinsci/matrix-project-plugin#553
 JENKINS-20299:jenkinsci/jenkins#15075
 JENKINS-20302:jenkinsci/jenkins#15076
@@ -8337,6 +8483,8 @@ JENKINS-20307:jenkinsci/jenkins#15077
 JENKINS-20310:jenkinsci/git-plugin#2346
 JENKINS-20312:jenkinsci/gerrit-trigger-plugin#650
 JENKINS-20318:jenkinsci/git-plugin#2347
+JENKINS-20324:jenkinsci/email-ext-plugin#974
+JENKINS-20325:jenkinsci/email-ext-plugin#975
 JENKINS-20326:jenkinsci/git-client-plugin#1393
 JENKINS-20327:jenkinsci/jenkins#15078
 JENKINS-20333:jenkinsci/jenkins#15079
@@ -8346,11 +8494,13 @@ JENKINS-20346:jenkinsci/git-plugin#2348
 JENKINS-20350:jenkinsci/git-plugin#2349
 JENKINS-20352:jenkinsci/ec2-plugin#1305
 JENKINS-20353:jenkinsci/ec2-plugin#1306
+JENKINS-20355:jenkinsci/email-ext-plugin#976
 JENKINS-20356:jenkinsci/git-client-plugin#1394
 JENKINS-20358:jenkinsci/jenkins#15081
 JENKINS-20365:jenkinsci/cloudbees-folder-plugin#562
 JENKINS-20373:jenkinsci/gerrit-trigger-plugin#651
 JENKINS-20377:jenkinsci/jenkins#15082
+JENKINS-20384:jenkinsci/email-ext-plugin#977
 JENKINS-20386:jenkinsci/git-plugin#2350
 JENKINS-20387:jenkinsci/git-client-plugin#1395
 JENKINS-20389:jenkinsci/git-plugin#2351
@@ -8367,6 +8517,7 @@ JENKINS-20411:jenkinsci/jenkins#15088
 JENKINS-20412:jenkinsci/jenkins#15089
 JENKINS-20415:jenkinsci/jenkins#15090
 JENKINS-20418:jenkinsci/jenkins#15091
+JENKINS-20419:jenkinsci/email-ext-plugin#978
 JENKINS-20427:jenkinsci/git-plugin#2355
 JENKINS-20428:jenkinsci/jenkins#15092
 JENKINS-20442:jenkinsci/jenkins#15093
@@ -8375,6 +8526,7 @@ JENKINS-20445:jenkinsci/git-plugin#2356
 JENKINS-20446:jenkinsci/git-plugin#2357
 JENKINS-20452:jenkinsci/jenkins#15094
 JENKINS-20453:jenkinsci/jenkins#15095
+JENKINS-20454:jenkinsci/email-ext-plugin#979
 JENKINS-20455:jenkinsci/jenkins#15096
 JENKINS-20461:jenkinsci/git-plugin#2358
 JENKINS-20466:jenkinsci/nodelabelparameter-plugin#511
@@ -8398,6 +8550,7 @@ JENKINS-20514:jenkinsci/jenkins#15108
 JENKINS-20518:jenkinsci/github-plugin#497
 JENKINS-20519:jenkinsci/jenkins#15109
 JENKINS-20523:jenkinsci/cloudbees-folder-plugin#563
+JENKINS-20524:jenkinsci/email-ext-plugin#980
 JENKINS-20527:jenkinsci/jenkins#15110
 JENKINS-20531:jenkinsci/git-plugin#2362
 JENKINS-20532:jenkinsci/jenkins#15111
@@ -8420,6 +8573,7 @@ JENKINS-20576:jenkinsci/jenkins#15118
 JENKINS-20579:jenkinsci/promoted-builds-plugin#508
 JENKINS-20585:jenkinsci/git-plugin#2367
 JENKINS-20586:jenkinsci/jenkins#15119
+JENKINS-20595:jenkinsci/email-ext-plugin#981
 JENKINS-20596:jenkinsci/promoted-builds-plugin#509
 JENKINS-20597:jenkinsci/jenkins#15120
 JENKINS-20600:jenkinsci/jenkins#15121
@@ -8475,6 +8629,7 @@ JENKINS-20687:jenkinsci/job-dsl-plugin#1693
 JENKINS-20688:jenkinsci/git-client-plugin#1400
 JENKINS-20689:jenkinsci/packaging#552
 JENKINS-20691:jenkinsci/jenkins#15151
+JENKINS-20692:jenkinsci/email-ext-plugin#982
 JENKINS-20693:jenkinsci/jenkins#15152
 JENKINS-20697:jenkinsci/jenkins#15153
 JENKINS-20698:jenkinsci/jenkins#15154
@@ -8509,6 +8664,7 @@ JENKINS-20765:jenkinsci/jenkins#24854
 JENKINS-20766:jenkinsci/ec2-plugin#1309
 JENKINS-20767:jenkinsci/git-plugin#2376
 JENKINS-20769:jenkinsci/jenkins#15172
+JENKINS-20770:jenkinsci/email-ext-plugin#983
 JENKINS-20771:jenkinsci/jenkins#15173
 JENKINS-20772:jenkinsci/jenkins#15174
 JENKINS-20773:jenkinsci/jenkins#15175
@@ -8522,6 +8678,7 @@ JENKINS-20795:jenkinsci/jenkins#15179
 JENKINS-20800:jenkinsci/jenkins#15180
 JENKINS-20802:jenkinsci/jenkins#15181
 JENKINS-20803:jenkinsci/jenkins#15182
+JENKINS-20804:jenkinsci/email-ext-plugin#984
 JENKINS-20808:jenkinsci/gerrit-trigger-plugin#652
 JENKINS-20809:jenkinsci/jenkins#15183
 JENKINS-20810:jenkinsci/jenkins#24855
@@ -8555,6 +8712,7 @@ JENKINS-20906:jenkinsci/jenkins#15196
 JENKINS-20911:jenkinsci/jenkins#15197
 JENKINS-20912:jenkinsci/promoted-builds-plugin#512
 JENKINS-20913:jenkinsci/jenkins#15198
+JENKINS-20925:jenkinsci/email-ext-plugin#985
 JENKINS-20928:jenkinsci/jenkins#15199
 JENKINS-20930:jenkinsci/junit-plugin#948
 JENKINS-20931:jenkinsci/parameterized-trigger-plugin#581
@@ -8575,6 +8733,7 @@ JENKINS-20967:jenkinsci/jenkins#15207
 JENKINS-20969:jenkinsci/git-plugin#2386
 JENKINS-20974:jenkinsci/jenkins#15208
 JENKINS-20976:jenkinsci/jenkins#15209
+JENKINS-20982:jenkinsci/email-ext-plugin#986
 JENKINS-20984:jenkinsci/matrix-project-plugin#556
 JENKINS-20986:jenkinsci/jenkins#15210
 JENKINS-20989:jenkinsci/jenkins#15211
@@ -8604,6 +8763,8 @@ JENKINS-21032:jenkinsci/git-client-plugin#1405
 JENKINS-21033:jenkinsci/jenkins#15224
 JENKINS-21034:jenkinsci/jenkins#15225
 JENKINS-21036:jenkinsci/gerrit-trigger-plugin#654
+JENKINS-21040:jenkinsci/email-ext-plugin#987
+JENKINS-21041:jenkinsci/email-ext-plugin#988
 JENKINS-21047:jenkinsci/jenkins#15226
 JENKINS-21051:jenkinsci/credentials-plugin#678
 JENKINS-21052:jenkinsci/jenkins#15227
@@ -8632,6 +8793,7 @@ JENKINS-21110:jenkinsci/git-plugin#2392
 JENKINS-21112:jenkinsci/embeddable-build-status-plugin#469
 JENKINS-21113:jenkinsci/cloudbees-folder-plugin#565
 JENKINS-21114:jenkinsci/git-plugin#2393
+JENKINS-21115:jenkinsci/email-ext-plugin#989
 JENKINS-21116:jenkinsci/git-plugin#2394
 JENKINS-21119:jenkinsci/priority-sorter-plugin#542
 JENKINS-21124:jenkinsci/git-client-plugin#1407
@@ -8644,7 +8806,9 @@ JENKINS-21137:jenkinsci/git-client-plugin#1411
 JENKINS-21139:jenkinsci/git-client-plugin#1412
 JENKINS-21141:jenkinsci/jenkins#15244
 JENKINS-21143:jenkinsci/jenkins#15245
+JENKINS-21145:jenkinsci/email-ext-plugin#990
 JENKINS-21147:jenkinsci/ec2-plugin#1311
+JENKINS-21153:jenkinsci/email-ext-plugin#991
 JENKINS-21154:jenkinsci/parameterized-trigger-plugin#585
 JENKINS-21156:jenkinsci/junit-plugin#949
 JENKINS-21158:jenkinsci/jenkins#15246
@@ -8658,6 +8822,7 @@ JENKINS-21173:jenkinsci/priority-sorter-plugin#543
 JENKINS-21175:jenkinsci/junit-plugin#950
 JENKINS-21178:jenkinsci/jenkins#15250
 JENKINS-21179:jenkinsci/matrix-project-plugin#558
+JENKINS-21180:jenkinsci/email-ext-plugin#992
 JENKINS-21182:jenkinsci/ec2-plugin#1312
 JENKINS-21183:jenkinsci/jenkins#15251
 JENKINS-21185:jenkinsci/git-plugin#2396
@@ -8681,12 +8846,14 @@ JENKINS-21216:jenkinsci/job-dsl-plugin#1694
 JENKINS-21217:jenkinsci/jenkins#15259
 JENKINS-21224:jenkinsci/jenkins#15260
 JENKINS-21227:jenkinsci/jenkins#24857
+JENKINS-21228:jenkinsci/email-ext-plugin#993
 JENKINS-21232:jenkinsci/gerrit-trigger-plugin#657
 JENKINS-21236:jenkinsci/priority-sorter-plugin#548
 JENKINS-21237:jenkinsci/jenkins#15261
 JENKINS-21239:jenkinsci/jenkins#15262
 JENKINS-21240:jenkinsci/warnings-ng-plugin#2494
 JENKINS-21243:jenkinsci/jenkins#15263
+JENKINS-21246:jenkinsci/email-ext-plugin#994
 JENKINS-21248:jenkinsci/git-client-plugin#1414
 JENKINS-21249:jenkinsci/jenkins#15264
 JENKINS-21251:jenkinsci/jenkins#15265
@@ -8714,6 +8881,7 @@ JENKINS-21301:jenkinsci/jenkins#15274
 JENKINS-21302:jenkinsci/ldap-plugin#429
 JENKINS-21303:jenkinsci/jenkins#15275
 JENKINS-21306:jenkinsci/jenkins#15276
+JENKINS-21308:jenkinsci/email-ext-plugin#995
 JENKINS-21309:jenkinsci/git-plugin#2402
 JENKINS-21310:jenkinsci/priority-sorter-plugin#552
 JENKINS-21311:jenkinsci/jenkins#15277
@@ -8726,19 +8894,24 @@ JENKINS-21320:jenkinsci/jenkins#15279
 JENKINS-21322:jenkinsci/jenkins#15280
 JENKINS-21323:jenkinsci/jenkins#15281
 JENKINS-21324:jenkinsci/jenkins#15282
+JENKINS-21326:jenkinsci/email-ext-plugin#996
 JENKINS-21328:jenkinsci/job-dsl-plugin#1695
+JENKINS-21334:jenkinsci/email-ext-plugin#997
 JENKINS-21335:jenkinsci/jenkins#15283
 JENKINS-21336:jenkinsci/jenkins#15284
 JENKINS-21337:jenkinsci/priority-sorter-plugin#556
+JENKINS-21338:jenkinsci/email-ext-plugin#998
 JENKINS-21339:jenkinsci/promoted-builds-plugin#513
 JENKINS-21341:jenkinsci/jenkins#15285
 JENKINS-21342:jenkinsci/git-client-plugin#1416
 JENKINS-21347:jenkinsci/junit-plugin#953
+JENKINS-21348:jenkinsci/email-ext-plugin#999
 JENKINS-21352:jenkinsci/priority-sorter-plugin#557
 JENKINS-21353:jenkinsci/jenkins#15286
 JENKINS-21356:jenkinsci/priority-sorter-plugin#558
 JENKINS-21360:jenkinsci/jenkins#15287
 JENKINS-21361:jenkinsci/matrix-project-plugin#559
+JENKINS-21362:jenkinsci/email-ext-plugin#1000
 JENKINS-21368:jenkinsci/promoted-builds-plugin#514
 JENKINS-21369:jenkinsci/git-client-plugin#1417
 JENKINS-21371:jenkinsci/jenkins#15288
@@ -8843,11 +9016,13 @@ JENKINS-21652:jenkinsci/git-plugin#2415
 JENKINS-21654:jenkinsci/git-plugin#2416
 JENKINS-21661:jenkinsci/jenkins#22853
 JENKINS-21664:jenkinsci/jenkins#22854
+JENKINS-21672:jenkinsci/email-ext-plugin#1001
 JENKINS-21673:jenkinsci/jenkins#22855
 JENKINS-21676:jenkinsci/promoted-builds-plugin#516
 JENKINS-21677:jenkinsci/jenkins#22856
 JENKINS-21681:jenkinsci/git-plugin#2417
 JENKINS-21685:jenkinsci/jenkins#22857
+JENKINS-21691:jenkinsci/email-ext-plugin#1002
 JENKINS-21693:jenkinsci/jenkins#22858
 JENKINS-21695:jenkinsci/jenkins#22859
 JENKINS-21702:jenkinsci/jenkins#22860
@@ -8860,6 +9035,7 @@ JENKINS-21720:jenkinsci/jenkins#22864
 JENKINS-21724:jenkinsci/cloudbees-folder-plugin#567
 JENKINS-21727:jenkinsci/jenkins#22865
 JENKINS-21729:jenkinsci/jenkins#22866
+JENKINS-21730:jenkinsci/email-ext-plugin#1003
 JENKINS-21731:jenkinsci/jenkins#22867
 JENKINS-21738:jenkinsci/jenkins#22868
 JENKINS-21745:jenkinsci/git-client-plugin#1425
@@ -8870,6 +9046,7 @@ JENKINS-21749:jenkinsci/jenkins#22871
 JENKINS-21750:jenkinsci/job-dsl-plugin#1697
 JENKINS-21751:jenkinsci/job-dsl-plugin#1698
 JENKINS-21754:jenkinsci/warnings-ng-plugin#2498
+JENKINS-21760:jenkinsci/email-ext-plugin#1004
 JENKINS-21765:jenkinsci/jenkins#24859
 JENKINS-21767:jenkinsci/build-failure-analyzer-plugin#235
 JENKINS-21768:jenkinsci/jenkins#22872
@@ -8883,6 +9060,7 @@ JENKINS-21784:jenkinsci/ldap-plugin#434
 JENKINS-21788:jenkinsci/cloudbees-folder-plugin#568
 JENKINS-21790:jenkinsci/jenkins#22878
 JENKINS-21792:jenkinsci/jenkins#22879
+JENKINS-21794:jenkinsci/email-ext-plugin#1005
 JENKINS-21799:jenkinsci/job-dsl-plugin#1699
 JENKINS-21806:jenkinsci/git-client-plugin#1426
 JENKINS-21808:jenkinsci/jenkins#22880
@@ -8905,6 +9083,7 @@ JENKINS-21853:jenkinsci/jenkins#22891
 JENKINS-21854:jenkinsci/build-failure-analyzer-plugin#236
 JENKINS-21855:jenkinsci/jenkins#22892
 JENKINS-21860:jenkinsci/jenkins#22893
+JENKINS-21861:jenkinsci/email-ext-plugin#1006
 JENKINS-21865:jenkinsci/ldap-plugin#435
 JENKINS-21867:jenkinsci/jenkins#22894
 JENKINS-21869:jenkinsci/jenkins#22895
@@ -8923,8 +9102,10 @@ JENKINS-21891:jenkinsci/ec2-plugin#1315
 JENKINS-21896:jenkinsci/git-plugin#2423
 JENKINS-21905:jenkinsci/jenkins#22902
 JENKINS-21906:jenkinsci/git-plugin#2424
+JENKINS-21912:jenkinsci/email-ext-plugin#1007
 JENKINS-21913:jenkinsci/jenkins#22903
 JENKINS-21914:jenkinsci/git-plugin#2425
+JENKINS-21918:jenkinsci/email-ext-plugin#1008
 JENKINS-21930:jenkinsci/jenkins#22904
 JENKINS-21932:jenkinsci/jenkins#22905
 JENKINS-21935:jenkinsci/job-dsl-plugin#1701
@@ -8972,6 +9153,7 @@ JENKINS-22029:jenkinsci/jenkins#22925
 JENKINS-22030:jenkinsci/parameterized-trigger-plugin#590
 JENKINS-22031:jenkinsci/git-plugin#2436
 JENKINS-22039:jenkinsci/git-client-plugin#1428
+JENKINS-22041:jenkinsci/email-ext-plugin#1009
 JENKINS-22043:jenkinsci/warnings-ng-plugin#2499
 JENKINS-22044:jenkinsci/jenkins#22926
 JENKINS-22050:jenkinsci/jenkins#22927
@@ -9015,6 +9197,7 @@ JENKINS-22143:jenkinsci/jenkins#22943
 JENKINS-22144:jenkinsci/git-plugin#2442
 JENKINS-22147:jenkinsci/jenkins#24861
 JENKINS-22151:jenkinsci/job-dsl-plugin#1707
+JENKINS-22154:jenkinsci/email-ext-plugin#1010
 JENKINS-22155:jenkinsci/gerrit-trigger-plugin#666
 JENKINS-22156:jenkinsci/git-plugin#2443
 JENKINS-22161:jenkinsci/jenkins#22944
@@ -9069,6 +9252,7 @@ JENKINS-22301:jenkinsci/jenkins#22967
 JENKINS-22304:jenkinsci/promoted-builds-plugin#523
 JENKINS-22310:jenkinsci/jenkins#22968
 JENKINS-22311:jenkinsci/jenkins#22969
+JENKINS-22312:jenkinsci/email-ext-plugin#1011
 JENKINS-22319:jenkinsci/git-plugin#2446
 JENKINS-22323:jenkinsci/job-dsl-plugin#1708
 JENKINS-22328:jenkinsci/packaging#555
@@ -9143,6 +9327,7 @@ JENKINS-22519:jenkinsci/jenkins#23006
 JENKINS-22525:jenkinsci/jenkins#23007
 JENKINS-22526:jenkinsci/warnings-ng-plugin#2504
 JENKINS-22529:jenkinsci/jenkins#23008
+JENKINS-22531:jenkinsci/email-ext-plugin#1012
 JENKINS-22536:jenkinsci/git-plugin#2456
 JENKINS-22543:jenkinsci/jenkins#23009
 JENKINS-22545:jenkinsci/junit-plugin#957
@@ -9166,7 +9351,9 @@ JENKINS-22581:jenkinsci/git-plugin#2458
 JENKINS-22583:jenkinsci/jenkins#23016
 JENKINS-22588:jenkinsci/promoted-builds-plugin#529
 JENKINS-22591:jenkinsci/git-plugin#2459
+JENKINS-22592:jenkinsci/email-ext-plugin#1013
 JENKINS-22593:jenkinsci/git-plugin#2460
+JENKINS-22594:jenkinsci/email-ext-plugin#1014
 JENKINS-22595:jenkinsci/gerrit-trigger-plugin#671
 JENKINS-22598:jenkinsci/jenkins#23017
 JENKINS-22600:jenkinsci/parameterized-trigger-plugin#596
@@ -9188,6 +9375,7 @@ JENKINS-22641:jenkinsci/jenkins#23024
 JENKINS-22648:jenkinsci/jenkins#23025
 JENKINS-22649:jenkinsci/jenkins#23026
 JENKINS-22653:jenkinsci/warnings-ng-plugin#2505
+JENKINS-22656:jenkinsci/email-ext-plugin#1015
 JENKINS-22660:jenkinsci/script-security-plugin#638
 JENKINS-22661:jenkinsci/script-security-plugin#639
 JENKINS-22662:jenkinsci/jenkins#24866
@@ -9219,6 +9407,7 @@ JENKINS-22705:jenkinsci/parameterized-trigger-plugin#597
 JENKINS-22706:jenkinsci/git-plugin#2465
 JENKINS-22708:jenkinsci/job-dsl-plugin#1711
 JENKINS-22710:jenkinsci/jenkins#23041
+JENKINS-22713:jenkinsci/email-ext-plugin#1016
 JENKINS-22714:jenkinsci/jenkins#23042
 JENKINS-22715:jenkinsci/jenkins#23043
 JENKINS-22720:jenkinsci/jenkins#23044
@@ -9244,6 +9433,7 @@ JENKINS-22762:jenkinsci/remoting#1093
 JENKINS-22767:jenkinsci/jenkins#23052
 JENKINS-22768:jenkinsci/matrix-project-plugin#569
 JENKINS-22769:jenkinsci/jenkins#23053
+JENKINS-22777:jenkinsci/email-ext-plugin#1017
 JENKINS-22785:jenkinsci/job-dsl-plugin#1712
 JENKINS-22786:jenkinsci/jenkins#23054
 JENKINS-22789:jenkinsci/jenkins#23055
@@ -9375,6 +9565,7 @@ JENKINS-23098:jenkinsci/jenkins#23121
 JENKINS-23104:jenkinsci/gerrit-trigger-plugin#679
 JENKINS-23120:jenkinsci/remoting#1097
 JENKINS-23124:jenkinsci/jenkins#23122
+JENKINS-23126:jenkinsci/email-ext-plugin#1018
 JENKINS-23127:jenkinsci/jenkins#23123
 JENKINS-23128:jenkinsci/jenkins#23124
 JENKINS-23129:jenkinsci/nodelabelparameter-plugin#522
@@ -9490,6 +9681,7 @@ JENKINS-23450:jenkinsci/git-plugin#2487
 JENKINS-23455:jenkinsci/jenkins#23194
 JENKINS-23456:jenkinsci/jenkins#23195
 JENKINS-23457:jenkinsci/jenkins#23196
+JENKINS-23458:jenkinsci/email-ext-plugin#1019
 JENKINS-23459:jenkinsci/matrix-project-plugin#575
 JENKINS-23462:jenkinsci/priority-sorter-plugin#563
 JENKINS-23464:jenkinsci/ec2-plugin#1325
@@ -9550,6 +9742,7 @@ JENKINS-23610:jenkinsci/jenkins#23220
 JENKINS-23613:jenkinsci/jenkins#24870
 JENKINS-23614:jenkinsci/matrix-project-plugin#578
 JENKINS-23616:jenkinsci/jenkins#23221
+JENKINS-23619:jenkinsci/email-ext-plugin#1020
 JENKINS-23622:jenkinsci/ec2-plugin#1326
 JENKINS-23627:jenkinsci/jenkins#23222
 JENKINS-23629:jenkinsci/ec2-plugin#1327
@@ -9567,6 +9760,7 @@ JENKINS-23655:jenkinsci/jenkins#23231
 JENKINS-23656:jenkinsci/git-client-plugin#1445
 JENKINS-23657:jenkinsci/jenkins#23232
 JENKINS-23658:jenkinsci/jenkins#23233
+JENKINS-23660:jenkinsci/email-ext-plugin#1021
 JENKINS-23661:jenkinsci/github-plugin#505
 JENKINS-23662:jenkinsci/github-plugin#506
 JENKINS-23663:jenkinsci/git-plugin#2497
@@ -9578,6 +9772,7 @@ JENKINS-23678:jenkinsci/ec2-plugin#1328
 JENKINS-23680:jenkinsci/ec2-plugin#1329
 JENKINS-23683:jenkinsci/jenkins#23235
 JENKINS-23689:jenkinsci/ec2-plugin#1330
+JENKINS-23691:jenkinsci/email-ext-plugin#1022
 JENKINS-23692:jenkinsci/jenkins#23236
 JENKINS-23694:jenkinsci/git-plugin#2499
 JENKINS-23697:jenkinsci/jenkins#23237
@@ -9586,12 +9781,14 @@ JENKINS-23705:jenkinsci/ec2-plugin#1331
 JENKINS-23711:jenkinsci/git-client-plugin#1446
 JENKINS-23713:jenkinsci/jenkins#23238
 JENKINS-23714:jenkinsci/git-plugin#2500
+JENKINS-23715:jenkinsci/email-ext-plugin#1023
 JENKINS-23717:jenkinsci/parameterized-trigger-plugin#604
 JENKINS-23721:jenkinsci/jenkins#23239
 JENKINS-23722:jenkinsci/jenkins#23240
 JENKINS-23723:jenkinsci/git-plugin#2501
 JENKINS-23724:jenkinsci/jenkins#23241
 JENKINS-23727:jenkinsci/git-client-plugin#1447
+JENKINS-23730:jenkinsci/email-ext-plugin#1024
 JENKINS-23741:jenkinsci/job-dsl-plugin#1724
 JENKINS-23742:jenkinsci/jenkins#23242
 JENKINS-23744:jenkinsci/jenkins#23243
@@ -9624,6 +9821,8 @@ JENKINS-23820:jenkinsci/jenkins#23259
 JENKINS-23821:jenkinsci/ec2-plugin#1337
 JENKINS-23827:jenkinsci/warnings-ng-plugin#2511
 JENKINS-23829:jenkinsci/jenkins#23260
+JENKINS-23834:jenkinsci/email-ext-plugin#1025
+JENKINS-23835:jenkinsci/email-ext-plugin#1026
 JENKINS-23837:jenkinsci/jenkins#23261
 JENKINS-23840:jenkinsci/jenkins#23262
 JENKINS-23842:jenkinsci/jenkins#23263
@@ -9678,9 +9877,11 @@ JENKINS-23972:jenkinsci/ec2-plugin#1342
 JENKINS-23977:jenkinsci/promoted-builds-plugin#536
 JENKINS-23978:jenkinsci/build-failure-analyzer-plugin#245
 JENKINS-23985:jenkinsci/git-plugin#2505
+JENKINS-23986:jenkinsci/email-ext-plugin#1027
 JENKINS-23987:jenkinsci/jenkins#23296
 JENKINS-23988:jenkinsci/jenkins#23297
 JENKINS-23989:jenkinsci/jenkins#23298
+JENKINS-23990:jenkinsci/email-ext-plugin#1028
 JENKINS-23992:jenkinsci/git-plugin#2506
 JENKINS-23994:jenkinsci/jenkins#23299
 JENKINS-23995:jenkinsci/github-plugin#507
@@ -9707,6 +9908,7 @@ JENKINS-24053:jenkinsci/jenkins#23314
 JENKINS-24054:jenkinsci/jenkins#23315
 JENKINS-24059:jenkinsci/build-failure-analyzer-plugin#246
 JENKINS-24062:jenkinsci/jenkins#23316
+JENKINS-24063:jenkinsci/email-ext-plugin#1029
 JENKINS-24064:jenkinsci/jenkins#23317
 JENKINS-24067:jenkinsci/active-directory-plugin#422
 JENKINS-24074:jenkinsci/gerrit-trigger-plugin#689
@@ -9797,11 +9999,13 @@ JENKINS-24304:jenkinsci/git-client-plugin#1451
 JENKINS-24306:jenkinsci/jenkins#23362
 JENKINS-24309:jenkinsci/jenkins#23363
 JENKINS-24312:jenkinsci/jenkins#23364
+JENKINS-24314:jenkinsci/email-ext-plugin#1030
 JENKINS-24316:jenkinsci/jenkins#23365
 JENKINS-24317:jenkinsci/jenkins#23366
 JENKINS-24319:jenkinsci/jenkins#23367
 JENKINS-24321:jenkinsci/jenkins#23368
 JENKINS-24322:jenkinsci/git-plugin#2517
+JENKINS-24324:jenkinsci/email-ext-plugin#1031
 JENKINS-24336:jenkinsci/jenkins#23369
 JENKINS-24337:jenkinsci/jenkins#23370
 JENKINS-24340:jenkinsci/jenkins#23371
@@ -9826,10 +10030,13 @@ JENKINS-24384:jenkinsci/jenkins#23386
 JENKINS-24385:jenkinsci/jenkins#23387
 JENKINS-24393:jenkinsci/ldap-plugin#440
 JENKINS-24394:jenkinsci/gerrit-trigger-plugin#692
+JENKINS-24395:jenkinsci/email-ext-plugin#1032
 JENKINS-24397:jenkinsci/jenkins#23388
 JENKINS-24399:jenkinsci/script-security-plugin#643
 JENKINS-24400:jenkinsci/script-security-plugin#644
 JENKINS-24407:jenkinsci/jenkins#23389
+JENKINS-24413:jenkinsci/email-ext-plugin#1033
+JENKINS-24417:jenkinsci/email-ext-plugin#1034
 JENKINS-24420:jenkinsci/job-dsl-plugin#1731
 JENKINS-24421:jenkinsci/github-plugin#511
 JENKINS-24422:jenkinsci/github-plugin#512
@@ -9865,6 +10072,8 @@ JENKINS-24484:jenkinsci/jenkins#23409
 JENKINS-24494:jenkinsci/jenkins#23410
 JENKINS-24498:jenkinsci/promoted-builds-plugin#538
 JENKINS-24500:jenkinsci/jenkins#23411
+JENKINS-24506:jenkinsci/email-ext-plugin#1035
+JENKINS-24509:jenkinsci/email-ext-plugin#1036
 JENKINS-24510:jenkinsci/job-dsl-plugin#1732
 JENKINS-24511:jenkinsci/jenkins#23412
 JENKINS-24513:jenkinsci/jenkins#23413
@@ -10021,6 +10230,7 @@ JENKINS-24936:jenkinsci/job-dsl-plugin#1740
 JENKINS-24937:jenkinsci/promoted-builds-plugin#542
 JENKINS-24938:jenkinsci/ec2-plugin#1348
 JENKINS-24939:jenkinsci/job-dsl-plugin#1741
+JENKINS-24941:jenkinsci/email-ext-plugin#1037
 JENKINS-24943:jenkinsci/job-dsl-plugin#1742
 JENKINS-24946:jenkinsci/junit-plugin#967
 JENKINS-24947:jenkinsci/jenkins#23486
@@ -10162,6 +10372,7 @@ JENKINS-25347:jenkinsci/jenkins#23555
 JENKINS-25348:jenkinsci/script-security-plugin#650
 JENKINS-25351:jenkinsci/git-client-plugin#1457
 JENKINS-25353:jenkinsci/git-client-plugin#1458
+JENKINS-25355:jenkinsci/email-ext-plugin#1038
 JENKINS-25358:jenkinsci/jenkins#23556
 JENKINS-25362:jenkinsci/workflow-aggregator-plugin#119
 JENKINS-25369:jenkinsci/jenkins#23557
@@ -10226,12 +10437,14 @@ JENKINS-25508:jenkinsci/git-plugin#2559
 JENKINS-25514:jenkinsci/jenkins#23584
 JENKINS-25516:jenkinsci/jenkins#23585
 JENKINS-25519:jenkinsci/durable-task-plugin#321
+JENKINS-25521:jenkinsci/email-ext-plugin#1039
 JENKINS-25524:jenkinsci/script-security-plugin#651
 JENKINS-25525:jenkinsci/job-dsl-plugin#1748
 JENKINS-25526:jenkinsci/promoted-builds-plugin#547
 JENKINS-25528:jenkinsci/packaging#563
 JENKINS-25531:jenkinsci/jenkins#23586
 JENKINS-25533:jenkinsci/jenkins#23587
+JENKINS-25535:jenkinsci/email-ext-plugin#1040
 JENKINS-25539:jenkinsci/jenkins#23588
 JENKINS-25543:jenkinsci/jenkins#23589
 JENKINS-25550:jenkinsci/workflow-aggregator-plugin#123
@@ -10275,6 +10488,7 @@ JENKINS-25651:jenkinsci/jenkins#23606
 JENKINS-25652:jenkinsci/jenkins#23607
 JENKINS-25655:jenkinsci/jenkins#23608
 JENKINS-25657:jenkinsci/jenkins#23609
+JENKINS-25659:jenkinsci/email-ext-plugin#1041
 JENKINS-25665:jenkinsci/jenkins#23610
 JENKINS-25667:jenkinsci/jenkins#23611
 JENKINS-25670:jenkinsci/jenkins#23612
@@ -10294,12 +10508,14 @@ JENKINS-25697:jenkinsci/remoting#1110
 JENKINS-25698:jenkinsci/jenkins#23619
 JENKINS-25699:jenkinsci/git-plugin#2565
 JENKINS-25700:jenkinsci/jenkins#23620
+JENKINS-25701:jenkinsci/email-ext-plugin#1042
 JENKINS-25702:jenkinsci/warnings-ng-plugin#2521
 JENKINS-25704:jenkinsci/jenkins#23621
 JENKINS-25708:jenkinsci/git-plugin#2566
 JENKINS-25711:jenkinsci/jenkins#23622
 JENKINS-25712:jenkinsci/jenkins#23623
 JENKINS-25718:jenkinsci/ec2-plugin#1359
+JENKINS-25719:jenkinsci/email-ext-plugin#1043
 JENKINS-25721:jenkinsci/ec2-plugin#1360
 JENKINS-25723:jenkinsci/build-failure-analyzer-plugin#261
 JENKINS-25727:jenkinsci/durable-task-plugin#323
@@ -10356,6 +10572,7 @@ JENKINS-25878:jenkinsci/git-plugin#2571
 JENKINS-25879:jenkinsci/workflow-aggregator-plugin#131
 JENKINS-25880:jenkinsci/jenkins#23649
 JENKINS-25881:jenkinsci/jenkins#24881
+JENKINS-25883:jenkinsci/email-ext-plugin#1044
 JENKINS-25889:jenkinsci/workflow-aggregator-plugin#132
 JENKINS-25890:jenkinsci/workflow-aggregator-plugin#133
 JENKINS-25894:jenkinsci/workflow-aggregator-plugin#134
@@ -10375,6 +10592,7 @@ JENKINS-25921:jenkinsci/workflow-aggregator-plugin#137
 JENKINS-25922:jenkinsci/job-dsl-plugin#1751
 JENKINS-25923:jenkinsci/workflow-aggregator-plugin#138
 JENKINS-25924:jenkinsci/workflow-aggregator-plugin#139
+JENKINS-25926:jenkinsci/email-ext-plugin#1045
 JENKINS-25930:jenkinsci/jenkins#23656
 JENKINS-25934:jenkinsci/jenkins#23657
 JENKINS-25935:jenkinsci/job-dsl-plugin#1752
@@ -10385,6 +10603,7 @@ JENKINS-25945:jenkinsci/job-dsl-plugin#1753
 JENKINS-25946:jenkinsci/jenkins#23660
 JENKINS-25947:jenkinsci/jenkins#23661
 JENKINS-25953:jenkinsci/jenkins#23662
+JENKINS-25954:jenkinsci/email-ext-plugin#1046
 JENKINS-25958:jenkinsci/workflow-aggregator-plugin#140
 JENKINS-25961:jenkinsci/job-dsl-plugin#1754
 JENKINS-25962:jenkinsci/jenkins#23663
@@ -10476,6 +10695,7 @@ JENKINS-26131:jenkinsci/workflow-cps-plugin#1121
 JENKINS-26133:jenkinsci/workflow-aggregator-plugin#161
 JENKINS-26134:jenkinsci/workflow-aggregator-plugin#162
 JENKINS-26135:jenkinsci/workflow-aggregator-plugin#163
+JENKINS-26140:jenkinsci/email-ext-plugin#1047
 JENKINS-26141:jenkinsci/matrix-project-plugin#595
 JENKINS-26143:jenkinsci/jenkins#23698
 JENKINS-26146:jenkinsci/jenkins#24883
@@ -10527,6 +10747,7 @@ JENKINS-26232:jenkinsci/ec2-plugin#1365
 JENKINS-26238:jenkinsci/jenkins#23721
 JENKINS-26239:jenkinsci/jenkins#23722
 JENKINS-26240:jenkinsci/packaging#564
+JENKINS-26243:jenkinsci/email-ext-plugin#1048
 JENKINS-26249:jenkinsci/jenkins#23723
 JENKINS-26250:jenkinsci/jenkins#23724
 JENKINS-26252:jenkinsci/jenkins#23725
@@ -10545,10 +10766,12 @@ JENKINS-26277:jenkinsci/jenkins#23730
 JENKINS-26278:jenkinsci/jenkins#23731
 JENKINS-26281:jenkinsci/jenkins#23732
 JENKINS-26284:jenkinsci/job-dsl-plugin#1758
+JENKINS-26286:jenkinsci/email-ext-plugin#1049
 JENKINS-26287:jenkinsci/jenkins#23733
 JENKINS-26290:jenkinsci/git-plugin#2580
 JENKINS-26291:jenkinsci/jenkins#23734
 JENKINS-26292:jenkinsci/jenkins#23735
+JENKINS-26293:jenkinsci/email-ext-plugin#1050
 JENKINS-26294:jenkinsci/jenkins#23736
 JENKINS-26298:jenkinsci/jenkins#23737
 JENKINS-26299:jenkinsci/workflow-aggregator-plugin#176
@@ -10588,6 +10811,7 @@ JENKINS-26376:jenkinsci/promoted-builds-plugin#550
 JENKINS-26380:jenkinsci/jenkins#23748
 JENKINS-26382:jenkinsci/jenkins#23749
 JENKINS-26384:jenkinsci/jenkins#23750
+JENKINS-26394:jenkinsci/email-ext-plugin#1051
 JENKINS-26395:jenkinsci/jenkins#23751
 JENKINS-26399:jenkinsci/jenkins#23752
 JENKINS-26402:jenkinsci/junit-plugin#979
@@ -10624,6 +10848,7 @@ JENKINS-26469:jenkinsci/jenkins#23770
 JENKINS-26470:jenkinsci/jenkins#23771
 JENKINS-26471:jenkinsci/jenkins#23772
 JENKINS-26476:jenkinsci/jenkins#23773
+JENKINS-26478:jenkinsci/email-ext-plugin#1052
 JENKINS-26480:jenkinsci/jenkins#23774
 JENKINS-26481:jenkinsci/workflow-cps-plugin#1123
 JENKINS-26482:jenkinsci/git-plugin#2589
@@ -10647,6 +10872,7 @@ JENKINS-26540:jenkinsci/git-plugin#2590
 JENKINS-26541:jenkinsci/workflow-aggregator-plugin#184
 JENKINS-26544:jenkinsci/jenkins#23784
 JENKINS-26545:jenkinsci/jenkins#23785
+JENKINS-26549:jenkinsci/email-ext-plugin#1053
 JENKINS-26552:jenkinsci/workflow-aggregator-plugin#185
 JENKINS-26553:jenkinsci/build-failure-analyzer-plugin#264
 JENKINS-26559:jenkinsci/remoting#1114
@@ -10683,19 +10909,23 @@ JENKINS-26624:jenkinsci/jenkins#23805
 JENKINS-26627:jenkinsci/jenkins#23806
 JENKINS-26628:jenkinsci/git-plugin#2593
 JENKINS-26631:jenkinsci/matrix-project-plugin#603
+JENKINS-26633:jenkinsci/email-ext-plugin#1054
 JENKINS-26634:jenkinsci/matrix-project-plugin#604
 JENKINS-26636:jenkinsci/job-dsl-plugin#1765
 JENKINS-26639:jenkinsci/jenkins#23807
 JENKINS-26643:jenkinsci/jenkins#23808
 JENKINS-26646:jenkinsci/parameterized-trigger-plugin#623
+JENKINS-26648:jenkinsci/email-ext-plugin#1055
 JENKINS-26649:jenkinsci/jenkins#23809
 JENKINS-26651:jenkinsci/jenkins#23810
+JENKINS-26654:jenkinsci/email-ext-plugin#1056
 JENKINS-26657:jenkinsci/jenkins#23811
 JENKINS-26658:jenkinsci/jenkins#23812
 JENKINS-26659:jenkinsci/workflow-aggregator-plugin#189
 JENKINS-26660:jenkinsci/git-plugin#2594
 JENKINS-26661:jenkinsci/jenkins#23813
 JENKINS-26664:jenkinsci/git-plugin#2595
+JENKINS-26666:jenkinsci/email-ext-plugin#1057
 JENKINS-26669:jenkinsci/workflow-aggregator-plugin#190
 JENKINS-26672:jenkinsci/jenkins#23814
 JENKINS-26675:jenkinsci/jenkins#23815
@@ -10717,6 +10947,7 @@ JENKINS-26703:jenkinsci/jenkins#23825
 JENKINS-26704:jenkinsci/jenkins#23826
 JENKINS-26705:jenkinsci/embeddable-build-status-plugin#479
 JENKINS-26708:jenkinsci/jenkins#23827
+JENKINS-26711:jenkinsci/email-ext-plugin#1058
 JENKINS-26712:jenkinsci/matrix-project-plugin#605
 JENKINS-26714:jenkinsci/git-client-plugin#1467
 JENKINS-26716:jenkinsci/ec2-plugin#1373
@@ -10753,6 +10984,7 @@ JENKINS-26796:jenkinsci/job-dsl-plugin#1767
 JENKINS-26797:jenkinsci/ec2-plugin#1376
 JENKINS-26798:jenkinsci/ec2-plugin#1377
 JENKINS-26800:jenkinsci/ec2-plugin#1378
+JENKINS-26808:jenkinsci/email-ext-plugin#1059
 JENKINS-26809:jenkinsci/workflow-aggregator-plugin#196
 JENKINS-26810:jenkinsci/jenkins#23844
 JENKINS-26812:jenkinsci/workflow-aggregator-plugin#197
@@ -10778,6 +11010,7 @@ JENKINS-26860:jenkinsci/workflow-aggregator-plugin#199
 JENKINS-26861:jenkinsci/jenkins#23849
 JENKINS-26862:jenkinsci/jenkins#23850
 JENKINS-26865:jenkinsci/matrix-project-plugin#607
+JENKINS-26867:jenkinsci/email-ext-plugin#1060
 JENKINS-26868:jenkinsci/git-plugin#2601
 JENKINS-26869:jenkinsci/jenkins#23851
 JENKINS-26870:jenkinsci/jenkins#20852
@@ -10804,10 +11037,12 @@ JENKINS-26919:jenkinsci/workflow-aggregator-plugin#202
 JENKINS-26922:jenkinsci/jenkins#20861
 JENKINS-26924:jenkinsci/junit-plugin#980
 JENKINS-26928:jenkinsci/credentials-plugin#696
+JENKINS-26929:jenkinsci/email-ext-plugin#1061
 JENKINS-26931:jenkinsci/promoted-builds-plugin#552
 JENKINS-26934:jenkinsci/jenkins#20862
 JENKINS-26940:jenkinsci/jenkins#20863
 JENKINS-26942:jenkinsci/workflow-aggregator-plugin#203
+JENKINS-26946:jenkinsci/email-ext-plugin#1062
 JENKINS-26947:jenkinsci/remoting#1118
 JENKINS-26959:jenkinsci/parameterized-trigger-plugin#625
 JENKINS-26964:jenkinsci/jenkins#20864
@@ -10822,6 +11057,7 @@ JENKINS-26984:jenkinsci/parameterized-trigger-plugin#626
 JENKINS-26986:jenkinsci/jenkins#20869
 JENKINS-26987:jenkinsci/workflow-aggregator-plugin#204
 JENKINS-26993:jenkinsci/git-plugin#2602
+JENKINS-27004:jenkinsci/email-ext-plugin#1063
 JENKINS-27006:jenkinsci/jenkins#20870
 JENKINS-27008:jenkinsci/git-client-plugin#1471
 JENKINS-27014:jenkinsci/durable-task-plugin#329
@@ -10846,6 +11082,7 @@ JENKINS-27052:jenkinsci/workflow-aggregator-plugin#206
 JENKINS-27055:jenkinsci/jenkins#20879
 JENKINS-27057:jenkinsci/workflow-aggregator-plugin#207
 JENKINS-27058:jenkinsci/jenkins#20880
+JENKINS-27062:jenkinsci/email-ext-plugin#1064
 JENKINS-27063:jenkinsci/job-dsl-plugin#1773
 JENKINS-27066:jenkinsci/matrix-project-plugin#608
 JENKINS-27067:jenkinsci/jenkins#20881
@@ -10883,6 +11120,7 @@ JENKINS-27139:jenkinsci/active-directory-plugin#436
 JENKINS-27142:jenkinsci/jenkins#20892
 JENKINS-27143:jenkinsci/jenkins#20893
 JENKINS-27145:jenkinsci/workflow-aggregator-plugin#213
+JENKINS-27147:jenkinsci/email-ext-plugin#1065
 JENKINS-27148:jenkinsci/jenkins#20894
 JENKINS-27152:jenkinsci/durable-task-plugin#330
 JENKINS-27154:jenkinsci/github-plugin#523
@@ -10960,6 +11198,7 @@ JENKINS-27327:jenkinsci/git-plugin#2616
 JENKINS-27329:jenkinsci/jenkins#20929
 JENKINS-27331:jenkinsci/jenkins#20930
 JENKINS-27332:jenkinsci/git-plugin#2617
+JENKINS-27334:jenkinsci/email-ext-plugin#1066
 JENKINS-27336:jenkinsci/jenkins#20931
 JENKINS-27341:jenkinsci/git-plugin#2618
 JENKINS-27344:jenkinsci/workflow-aggregator-plugin#220
@@ -11010,6 +11249,7 @@ JENKINS-27444:jenkinsci/git-plugin#2623
 JENKINS-27445:jenkinsci/ec2-plugin#1385
 JENKINS-27446:jenkinsci/jenkins#20950
 JENKINS-27447:jenkinsci/git-plugin#2624
+JENKINS-27448:jenkinsci/email-ext-plugin#1067
 JENKINS-27449:jenkinsci/jenkins#20951
 JENKINS-27453:jenkinsci/jenkins#24890
 JENKINS-27455:jenkinsci/jenkins#20952
@@ -11045,6 +11285,7 @@ JENKINS-27511:jenkinsci/jenkins#20961
 JENKINS-27512:jenkinsci/job-dsl-plugin#1787
 JENKINS-27514:jenkinsci/jenkins#20962
 JENKINS-27517:jenkinsci/job-dsl-plugin#1788
+JENKINS-27523:jenkinsci/email-ext-plugin#1068
 JENKINS-27525:jenkinsci/jenkins#20963
 JENKINS-27526:jenkinsci/jenkins#24891
 JENKINS-27527:jenkinsci/jenkins#20964
@@ -11054,6 +11295,7 @@ JENKINS-27531:jenkinsci/workflow-aggregator-plugin#227
 JENKINS-27532:jenkinsci/workflow-aggregator-plugin#228
 JENKINS-27534:jenkinsci/jenkins#20966
 JENKINS-27536:jenkinsci/parameterized-trigger-plugin#628
+JENKINS-27540:jenkinsci/email-ext-plugin#1069
 JENKINS-27541:jenkinsci/jenkins#20967
 JENKINS-27543:jenkinsci/git-plugin#2629
 JENKINS-27546:jenkinsci/jenkins#20968
@@ -11156,7 +11398,14 @@ JENKINS-27770:jenkinsci/priority-sorter-plugin#572
 JENKINS-27776:jenkinsci/packaging#571
 JENKINS-27810:jenkinsci/packaging#572
 JENKINS-27811:jenkinsci/job-dsl-plugin#1793
+JENKINS-27812:jenkinsci/email-ext-plugin#1070
+JENKINS-27813:jenkinsci/email-ext-plugin#1071
 JENKINS-27814:jenkinsci/job-dsl-plugin#1794
+JENKINS-27815:jenkinsci/email-ext-plugin#1072
+JENKINS-27816:jenkinsci/email-ext-plugin#1073
+JENKINS-27817:jenkinsci/email-ext-plugin#1074
+JENKINS-27818:jenkinsci/email-ext-plugin#1075
+JENKINS-27819:jenkinsci/email-ext-plugin#1076
 JENKINS-27820:jenkinsci/job-dsl-plugin#1795
 JENKINS-27825:jenkinsci/jenkins#21015
 JENKINS-27832:jenkinsci/job-dsl-plugin#1796
@@ -11165,10 +11414,12 @@ JENKINS-27838:jenkinsci/job-dsl-plugin#1797
 JENKINS-27841:jenkinsci/build-failure-analyzer-plugin#267
 JENKINS-27842:jenkinsci/github-plugin#527
 JENKINS-27847:jenkinsci/jenkins#21017
+JENKINS-27848:jenkinsci/email-ext-plugin#1077
 JENKINS-27850:jenkinsci/workflow-aggregator-plugin#231
 JENKINS-27852:jenkinsci/jenkins#21018
 JENKINS-27853:jenkinsci/jenkins#21019
 JENKINS-27854:jenkinsci/jenkins#21020
+JENKINS-27856:jenkinsci/email-ext-plugin#1078
 JENKINS-27857:jenkinsci/jenkins#21021
 JENKINS-27859:jenkinsci/jenkins#21022
 JENKINS-27861:jenkinsci/jenkins#21023
@@ -11286,6 +11537,7 @@ JENKINS-28134:jenkinsci/git-client-plugin#1477
 JENKINS-28136:jenkinsci/jenkins#21076
 JENKINS-28138:jenkinsci/github-plugin#529
 JENKINS-28139:jenkinsci/github-plugin#530
+JENKINS-28145:jenkinsci/email-ext-plugin#1079
 JENKINS-28149:jenkinsci/git-plugin#2649
 JENKINS-28153:jenkinsci/build-failure-analyzer-plugin#269
 JENKINS-28154:jenkinsci/script-security-plugin#658
@@ -11299,11 +11551,13 @@ JENKINS-28167:jenkinsci/job-dsl-plugin#1806
 JENKINS-28168:jenkinsci/gerrit-trigger-plugin#715
 JENKINS-28170:jenkinsci/script-security-plugin#659
 JENKINS-28171:jenkinsci/job-dsl-plugin#1807
+JENKINS-28172:jenkinsci/email-ext-plugin#1080
 JENKINS-28174:jenkinsci/warnings-ng-plugin#2540
 JENKINS-28176:jenkinsci/matrix-project-plugin#617
 JENKINS-28177:jenkinsci/github-plugin#531
 JENKINS-28178:jenkinsci/workflow-cps-plugin#1132
 JENKINS-28179:jenkinsci/workflow-aggregator-plugin#242
+JENKINS-28181:jenkinsci/email-ext-plugin#1081
 JENKINS-28187:jenkinsci/workflow-aggregator-plugin#243
 JENKINS-28189:jenkinsci/workflow-aggregator-plugin#244
 JENKINS-28191:jenkinsci/jenkins#21081
@@ -11313,10 +11567,12 @@ JENKINS-28194:jenkinsci/job-dsl-plugin#1808
 JENKINS-28195:jenkinsci/priority-sorter-plugin#576
 JENKINS-28197:jenkinsci/jenkins#21083
 JENKINS-28200:jenkinsci/jenkins#21084
+JENKINS-28202:jenkinsci/email-ext-plugin#1082
 JENKINS-28203:jenkinsci/active-directory-plugin#446
 JENKINS-28204:jenkinsci/priority-sorter-plugin#577
 JENKINS-28205:jenkinsci/gerrit-trigger-plugin#716
 JENKINS-28211:jenkinsci/jenkins#21085
+JENKINS-28212:jenkinsci/email-ext-plugin#1083
 JENKINS-28214:jenkinsci/jenkins#21086
 JENKINS-28217:jenkinsci/job-dsl-plugin#1809
 JENKINS-28218:jenkinsci/github-plugin#532
@@ -11350,6 +11606,7 @@ JENKINS-28290:jenkinsci/git-plugin#2653
 JENKINS-28291:jenkinsci/git-client-plugin#1478
 JENKINS-28292:jenkinsci/jenkins#21098
 JENKINS-28299:jenkinsci/jenkins#24894
+JENKINS-28300:jenkinsci/email-ext-plugin#1084
 JENKINS-28302:jenkinsci/workflow-aggregator-plugin#249
 JENKINS-28303:jenkinsci/job-dsl-plugin#1811
 JENKINS-28307:jenkinsci/jenkins#21099
@@ -11370,11 +11627,13 @@ JENKINS-28333:jenkinsci/jenkins#21104
 JENKINS-28335:jenkinsci/git-plugin#2654
 JENKINS-28339:jenkinsci/gerrit-trigger-plugin#717
 JENKINS-28346:jenkinsci/jenkins#21105
+JENKINS-28349:jenkinsci/email-ext-plugin#1085
 JENKINS-28350:jenkinsci/jenkins#21106
 JENKINS-28352:jenkinsci/jenkins#21107
 JENKINS-28353:jenkinsci/job-dsl-plugin#1814
 JENKINS-28354:jenkinsci/parameterized-trigger-plugin#633
 JENKINS-28355:jenkinsci/jenkins#21108
+JENKINS-28357:jenkinsci/email-ext-plugin#1086
 JENKINS-28359:jenkinsci/priority-sorter-plugin#580
 JENKINS-28361:jenkinsci/jenkins#21109
 JENKINS-28368:jenkinsci/jenkins#21110
@@ -11393,6 +11652,7 @@ JENKINS-28397:jenkinsci/github-plugin#536
 JENKINS-28399:jenkinsci/credentials-binding-plugin#406
 JENKINS-28400:jenkinsci/durable-task-plugin#334
 JENKINS-28401:jenkinsci/jenkins#21115
+JENKINS-28402:jenkinsci/email-ext-plugin#1087
 JENKINS-28405:jenkinsci/job-dsl-plugin#1815
 JENKINS-28407:jenkinsci/credentials-plugin#702
 JENKINS-28408:jenkinsci/jenkins#21116
@@ -11407,6 +11667,7 @@ JENKINS-28435:jenkinsci/jenkins#21121
 JENKINS-28437:jenkinsci/jenkins#21122
 JENKINS-28438:jenkinsci/packaging#575
 JENKINS-28440:jenkinsci/jenkins#21123
+JENKINS-28444:jenkinsci/email-ext-plugin#1088
 JENKINS-28446:jenkinsci/jenkins#21124
 JENKINS-28447:jenkinsci/workflow-cps-plugin#1134
 JENKINS-28455:jenkinsci/jenkins#21125
@@ -11433,6 +11694,7 @@ JENKINS-28499:jenkinsci/jenkins#21137
 JENKINS-28501:jenkinsci/priority-sorter-plugin#583
 JENKINS-28503:jenkinsci/jenkins#21138
 JENKINS-28506:jenkinsci/git-plugin#2657
+JENKINS-28507:jenkinsci/email-ext-plugin#1089
 JENKINS-28511:jenkinsci/git-plugin#2658
 JENKINS-28512:jenkinsci/jenkins#21139
 JENKINS-28516:jenkinsci/git-plugin#2659
@@ -11477,12 +11739,14 @@ JENKINS-28608:jenkinsci/docker-workflow-plugin#377
 JENKINS-28610:jenkinsci/docker-workflow-plugin#378
 JENKINS-28611:jenkinsci/docker-workflow-plugin#379
 JENKINS-28612:jenkinsci/docker-workflow-plugin#380
+JENKINS-28616:jenkinsci/email-ext-plugin#1090
 JENKINS-28617:jenkinsci/active-choices-plugin#597
 JENKINS-28621:jenkinsci/priority-sorter-plugin#584
 JENKINS-28633:jenkinsci/jenkins#21153
 JENKINS-28635:jenkinsci/jenkins#21154
 JENKINS-28642:jenkinsci/embeddable-build-status-plugin#481
 JENKINS-28644:jenkinsci/git-plugin#2665
+JENKINS-28645:jenkinsci/email-ext-plugin#1091
 JENKINS-28649:jenkinsci/workflow-aggregator-plugin#256
 JENKINS-28654:jenkinsci/jenkins#21155
 JENKINS-28661:jenkinsci/matrix-project-plugin#620
@@ -11492,7 +11756,9 @@ JENKINS-28667:jenkinsci/remoting#1126
 JENKINS-28673:jenkinsci/workflow-aggregator-plugin#257
 JENKINS-28676:jenkinsci/jenkins#21156
 JENKINS-28678:jenkinsci/workflow-aggregator-plugin#258
+JENKINS-28680:jenkinsci/email-ext-plugin#1092
 JENKINS-28681:jenkinsci/matrix-project-plugin#621
+JENKINS-28682:jenkinsci/email-ext-plugin#1093
 JENKINS-28683:jenkinsci/jenkins#21157
 JENKINS-28685:jenkinsci/jenkins#21158
 JENKINS-28687:jenkinsci/jenkins#21159
@@ -11505,6 +11771,7 @@ JENKINS-28700:jenkinsci/docker-workflow-plugin#381
 JENKINS-28701:jenkinsci/job-dsl-plugin#1821
 JENKINS-28704:jenkinsci/jenkins#21163
 JENKINS-28707:jenkinsci/git-plugin#2666
+JENKINS-28711:jenkinsci/email-ext-plugin#1094
 JENKINS-28720:jenkinsci/junit-plugin#988
 JENKINS-28721:jenkinsci/build-failure-analyzer-plugin#271
 JENKINS-28724:jenkinsci/jenkins#21164
@@ -11540,6 +11807,7 @@ JENKINS-28797:jenkinsci/workflow-aggregator-plugin#261
 JENKINS-28799:jenkinsci/jenkins#21174
 JENKINS-28800:jenkinsci/jenkins#21175
 JENKINS-28803:jenkinsci/packaging#576
+JENKINS-28804:jenkinsci/email-ext-plugin#1095
 JENKINS-28806:jenkinsci/cloudbees-folder-plugin#582
 JENKINS-28807:jenkinsci/jenkins#21176
 JENKINS-28810:jenkinsci/jenkins#21177
@@ -11702,6 +11970,8 @@ JENKINS-29233:jenkinsci/job-dsl-plugin#1837
 JENKINS-29236:jenkinsci/active-choices-plugin#607
 JENKINS-29240:jenkinsci/jenkins#21248
 JENKINS-29243:jenkinsci/git-client-plugin#1482
+JENKINS-29244:jenkinsci/email-ext-plugin#1096
+JENKINS-29249:jenkinsci/email-ext-plugin#1097
 JENKINS-29254:jenkinsci/kubernetes-plugin#1781
 JENKINS-29255:jenkinsci/credentials-binding-plugin#407
 JENKINS-29261:jenkinsci/jenkins#21249
@@ -11723,6 +11993,7 @@ JENKINS-29312:jenkinsci/workflow-aggregator-plugin#270
 JENKINS-29315:jenkinsci/jenkins#21257
 JENKINS-29321:jenkinsci/git-plugin#2685
 JENKINS-29323:jenkinsci/jenkins#21258
+JENKINS-29325:jenkinsci/email-ext-plugin#1098
 JENKINS-29326:jenkinsci/workflow-aggregator-plugin#271
 JENKINS-29336:jenkinsci/jenkins#21259
 JENKINS-29337:jenkinsci/jenkins#21260
@@ -11827,6 +12098,7 @@ JENKINS-29603:jenkinsci/git-plugin#2692
 JENKINS-29604:jenkinsci/git-client-plugin#1485
 JENKINS-29609:jenkinsci/parameterized-trigger-plugin#640
 JENKINS-29611:jenkinsci/workflow-aggregator-plugin#280
+JENKINS-29612:jenkinsci/email-ext-plugin#1099
 JENKINS-29613:jenkinsci/junit-plugin#993
 JENKINS-29616:jenkinsci/remoting#1129
 JENKINS-29618:jenkinsci/jenkins#21305
@@ -11950,6 +12222,7 @@ JENKINS-29902:jenkinsci/jenkins#21335
 JENKINS-29909:jenkinsci/jenkins#21336
 JENKINS-29910:jenkinsci/job-dsl-plugin#1875
 JENKINS-29913:jenkinsci/jenkins#21337
+JENKINS-29920:jenkinsci/email-ext-plugin#1100
 JENKINS-29921:jenkinsci/ec2-plugin#1399
 JENKINS-29922:jenkinsci/workflow-aggregator-plugin#295
 JENKINS-29935:jenkinsci/jenkins#21338
@@ -11970,6 +12243,7 @@ JENKINS-29965:jenkinsci/packaging#579
 JENKINS-29966:jenkinsci/build-failure-analyzer-plugin#275
 JENKINS-29968:jenkinsci/jenkins#24911
 JENKINS-29969:jenkinsci/active-choices-plugin#612
+JENKINS-29970:jenkinsci/email-ext-plugin#1101
 JENKINS-29971:jenkinsci/jenkins#21345
 JENKINS-29972:jenkinsci/job-dsl-plugin#1876
 JENKINS-29973:jenkinsci/job-dsl-plugin#1877
@@ -12032,6 +12306,7 @@ JENKINS-30128:jenkinsci/jenkins#21368
 JENKINS-30131:jenkinsci/git-plugin#2714
 JENKINS-30137:jenkinsci/packaging#580
 JENKINS-30139:jenkinsci/jenkins#21369
+JENKINS-30140:jenkinsci/email-ext-plugin#1102
 JENKINS-30143:jenkinsci/workflow-aggregator-plugin#304
 JENKINS-30147:jenkinsci/ec2-plugin#1403
 JENKINS-30148:jenkinsci/jenkins#21370
@@ -12063,6 +12338,7 @@ JENKINS-30231:jenkinsci/jenkins#21378
 JENKINS-30238:jenkinsci/jenkins#21379
 JENKINS-30240:jenkinsci/durable-task-plugin#337
 JENKINS-30242:jenkinsci/github-plugin#545
+JENKINS-30251:jenkinsci/email-ext-plugin#1103
 JENKINS-30252:jenkinsci/branch-api-plugin#577
 JENKINS-30253:jenkinsci/jenkins#21380
 JENKINS-30256:jenkinsci/jenkins#21381
@@ -12265,6 +12541,7 @@ JENKINS-30807:jenkinsci/jenkins#21453
 JENKINS-30809:jenkinsci/jenkins#21454
 JENKINS-30814:jenkinsci/promoted-builds-plugin#577
 JENKINS-30815:jenkinsci/jenkins#21455
+JENKINS-30817:jenkinsci/email-ext-plugin#1104
 JENKINS-30820:jenkinsci/jenkins#21456
 JENKINS-30821:jenkinsci/gerrit-trigger-plugin#735
 JENKINS-30823:jenkinsci/remoting#1134
@@ -12278,6 +12555,7 @@ JENKINS-30841:jenkinsci/promoted-builds-plugin#578
 JENKINS-30844:jenkinsci/git-plugin#2742
 JENKINS-30848:jenkinsci/credentials-binding-plugin#409
 JENKINS-30852:jenkinsci/jenkins#21459
+JENKINS-30854:jenkinsci/email-ext-plugin#1105
 JENKINS-30857:jenkinsci/gerrit-trigger-plugin#736
 JENKINS-30869:jenkinsci/remoting#1135
 JENKINS-30870:jenkinsci/jenkins#21460
@@ -12344,11 +12622,13 @@ JENKINS-31020:jenkinsci/jenkins#21490
 JENKINS-31022:jenkinsci/jenkins#21491
 JENKINS-31023:jenkinsci/ldap-plugin#458
 JENKINS-31025:jenkinsci/git-client-plugin#1496
+JENKINS-31032:jenkinsci/email-ext-plugin#1106
 JENKINS-31035:jenkinsci/jenkins#21492
 JENKINS-31039:jenkinsci/jenkins#21493
 JENKINS-31040:jenkinsci/junit-plugin#1002
 JENKINS-31042:jenkinsci/nodelabelparameter-plugin#535
 JENKINS-31044:jenkinsci/parameterized-trigger-plugin#646
+JENKINS-31046:jenkinsci/email-ext-plugin#1107
 JENKINS-31050:jenkinsci/remoting#1136
 JENKINS-31055:jenkinsci/jenkins#21494
 JENKINS-31059:jenkinsci/jenkins#24925
@@ -12401,6 +12681,7 @@ JENKINS-31163:jenkinsci/jenkins#21516
 JENKINS-31167:jenkinsci/gerrit-trigger-plugin#744
 JENKINS-31174:jenkinsci/job-dsl-plugin#1910
 JENKINS-31176:jenkinsci/jenkins#21517
+JENKINS-31177:jenkinsci/email-ext-plugin#1108
 JENKINS-31181:jenkinsci/jenkins#21518
 JENKINS-31182:jenkinsci/jenkins#21519
 JENKINS-31183:jenkinsci/jenkins#21520
@@ -12467,6 +12748,7 @@ JENKINS-31373:jenkinsci/job-dsl-plugin#1916
 JENKINS-31374:jenkinsci/jenkins#21544
 JENKINS-31378:jenkinsci/jenkins#21545
 JENKINS-31379:jenkinsci/gerrit-trigger-plugin#749
+JENKINS-31380:jenkinsci/email-ext-plugin#1109
 JENKINS-31381:jenkinsci/branch-api-plugin#578
 JENKINS-31382:jenkinsci/jenkins#24928
 JENKINS-31384:jenkinsci/jenkins#21546
@@ -12517,6 +12799,7 @@ JENKINS-31497:jenkinsci/jenkins#21559
 JENKINS-31498:jenkinsci/jenkins#21560
 JENKINS-31499:jenkinsci/workflow-aggregator-plugin#344
 JENKINS-31500:jenkinsci/jenkins#21561
+JENKINS-31503:jenkinsci/email-ext-plugin#1110
 JENKINS-31504:jenkinsci/job-dsl-plugin#1920
 JENKINS-31505:jenkinsci/workflow-cps-plugin#1143
 JENKINS-31507:jenkinsci/docker-workflow-plugin#389
@@ -12608,6 +12891,7 @@ JENKINS-31659:jenkinsci/packaging#600
 JENKINS-31660:jenkinsci/junit-plugin#1007
 JENKINS-31661:jenkinsci/jenkins#21594
 JENKINS-31663:jenkinsci/jenkins#21595
+JENKINS-31667:jenkinsci/email-ext-plugin#1111
 JENKINS-31671:jenkinsci/job-dsl-plugin#1931
 JENKINS-31673:jenkinsci/junit-plugin#1008
 JENKINS-31674:jenkinsci/job-dsl-plugin#1932
@@ -12637,6 +12921,7 @@ JENKINS-31728:jenkinsci/jenkins#21601
 JENKINS-31731:jenkinsci/git-plugin#2765
 JENKINS-31732:jenkinsci/jenkins#21602
 JENKINS-31735:jenkinsci/remoting#1141
+JENKINS-31736:jenkinsci/email-ext-plugin#1112
 JENKINS-31737:jenkinsci/workflow-aggregator-plugin#350
 JENKINS-31740:jenkinsci/gerrit-trigger-plugin#753
 JENKINS-31744:jenkinsci/github-plugin#557
@@ -12683,6 +12968,7 @@ JENKINS-31828:jenkinsci/git-plugin#2767
 JENKINS-31830:jenkinsci/job-dsl-plugin#1947
 JENKINS-31831:jenkinsci/workflow-aggregator-plugin#354
 JENKINS-31832:jenkinsci/job-dsl-plugin#1948
+JENKINS-31833:jenkinsci/email-ext-plugin#1113
 JENKINS-31838:jenkinsci/workflow-cps-plugin#1151
 JENKINS-31839:jenkinsci/workflow-cps-plugin#1152
 JENKINS-31840:jenkinsci/workflow-aggregator-plugin#355
@@ -12763,6 +13049,7 @@ JENKINS-31998:jenkinsci/git-plugin#2772
 JENKINS-32000:jenkinsci/durable-task-plugin#340
 JENKINS-32001:jenkinsci/build-failure-analyzer-plugin#281
 JENKINS-32002:jenkinsci/nodelabelparameter-plugin#536
+JENKINS-32003:jenkinsci/email-ext-plugin#1114
 JENKINS-32006:jenkinsci/promoted-builds-plugin#589
 JENKINS-32007:jenkinsci/github-branch-source-plugin#929
 JENKINS-32011:jenkinsci/job-dsl-plugin#1957
@@ -12846,6 +13133,7 @@ JENKINS-32213:jenkinsci/workflow-cps-plugin#1157
 JENKINS-32214:jenkinsci/workflow-aggregator-plugin#377
 JENKINS-32215:jenkinsci/jenkins#21657
 JENKINS-32218:jenkinsci/git-plugin#2780
+JENKINS-32220:jenkinsci/email-ext-plugin#1115
 JENKINS-32221:jenkinsci/workflow-aggregator-plugin#378
 JENKINS-32222:jenkinsci/git-plugin#2781
 JENKINS-32231:jenkinsci/jenkins#21658
@@ -12950,6 +13238,7 @@ JENKINS-32478:jenkinsci/jenkins#21692
 JENKINS-32479:jenkinsci/git-plugin#2791
 JENKINS-32480:jenkinsci/workflow-aggregator-plugin#391
 JENKINS-32481:jenkinsci/git-plugin#2792
+JENKINS-32482:jenkinsci/email-ext-plugin#1116
 JENKINS-32485:jenkinsci/jenkins#21693
 JENKINS-32487:jenkinsci/cloudbees-folder-plugin#592
 JENKINS-32488:jenkinsci/jenkins#21694
@@ -12998,6 +13287,7 @@ JENKINS-32585:jenkinsci/cloudbees-folder-plugin#593
 JENKINS-32586:jenkinsci/jenkins#21712
 JENKINS-32587:jenkinsci/jenkins#21713
 JENKINS-32588:jenkinsci/ec2-plugin#1420
+JENKINS-32591:jenkinsci/email-ext-plugin#1117
 JENKINS-32595:jenkinsci/workflow-aggregator-plugin#396
 JENKINS-32596:jenkinsci/jenkins#21714
 JENKINS-32597:jenkinsci/jenkins#21715
@@ -13097,6 +13387,7 @@ JENKINS-32820:jenkinsci/jenkins#21745
 JENKINS-32824:jenkinsci/git-plugin#2802
 JENKINS-32825:jenkinsci/remoting#1147
 JENKINS-32827:jenkinsci/active-choices-plugin#627
+JENKINS-32828:jenkinsci/email-ext-plugin#1118
 JENKINS-32831:jenkinsci/jenkins#21746
 JENKINS-32834:jenkinsci/git-client-plugin#1503
 JENKINS-32835:jenkinsci/job-dsl-plugin#1982
@@ -13120,6 +13411,7 @@ JENKINS-32878:jenkinsci/junit-plugin#1015
 JENKINS-32882:jenkinsci/job-dsl-plugin#1983
 JENKINS-32883:jenkinsci/git-client-plugin#1504
 JENKINS-32886:jenkinsci/jenkins#21754
+JENKINS-32889:jenkinsci/email-ext-plugin#1119
 JENKINS-32897:jenkinsci/git-client-plugin#1505
 JENKINS-32898:jenkinsci/gerrit-trigger-plugin#770
 JENKINS-32901:jenkinsci/ldap-plugin#462
@@ -13127,10 +13419,12 @@ JENKINS-32902:jenkinsci/workflow-aggregator-plugin#406
 JENKINS-32904:jenkinsci/workflow-cps-plugin#1165
 JENKINS-32906:jenkinsci/job-dsl-plugin#1984
 JENKINS-32907:jenkinsci/job-dsl-plugin#1985
+JENKINS-32910:jenkinsci/email-ext-plugin#1120
 JENKINS-32912:jenkinsci/job-dsl-plugin#1986
 JENKINS-32914:jenkinsci/docker-workflow-plugin#394
 JENKINS-32915:jenkinsci/ec2-plugin#1424
 JENKINS-32918:jenkinsci/jenkins#21755
+JENKINS-32919:jenkinsci/email-ext-plugin#1121
 JENKINS-32922:jenkinsci/active-choices-plugin#628
 JENKINS-32924:jenkinsci/job-dsl-plugin#1987
 JENKINS-32925:jenkinsci/workflow-aggregator-plugin#407
@@ -13151,6 +13445,7 @@ JENKINS-32958:jenkinsci/jenkins#21761
 JENKINS-32959:jenkinsci/jenkins#21762
 JENKINS-32965:jenkinsci/active-choices-plugin#629
 JENKINS-32969:jenkinsci/job-dsl-plugin#1989
+JENKINS-32970:jenkinsci/email-ext-plugin#1122
 JENKINS-32978:jenkinsci/jenkins#21763
 JENKINS-32979:jenkinsci/github-plugin#565
 JENKINS-32980:jenkinsci/remoting#1149
