@@ -4595,6 +4595,7 @@ JENKINS-10074:jenkinsci/git-plugin#2032
 JENKINS-10075:jenkinsci/jenkins#24748
 JENKINS-10081:jenkinsci/jenkins#15914
 JENKINS-10086:jenkinsci/active-directory-plugin#332
+JENKINS-10088:jenkinsci/nodelabelparameter-plugin#474
 JENKINS-10091:jenkinsci/jenkins#15915
 JENKINS-10097:jenkinsci/warnings-ng-plugin#2360
 JENKINS-10099:jenkinsci/jenkins#15916
@@ -4646,6 +4647,7 @@ JENKINS-10221:jenkinsci/jenkins#15946
 JENKINS-10224:jenkinsci/gerrit-trigger-plugin#571
 JENKINS-10227:jenkinsci/jenkins#15947
 JENKINS-10234:jenkinsci/junit-plugin#900
+JENKINS-10235:jenkinsci/nodelabelparameter-plugin#475
 JENKINS-10243:jenkinsci/jenkins#15948
 JENKINS-10244:jenkinsci/jenkins#15949
 JENKINS-10245:jenkinsci/git-plugin#2035
@@ -4890,11 +4892,13 @@ JENKINS-10969:jenkinsci/jenkins#16087
 JENKINS-10970:jenkinsci/gerrit-trigger-plugin#579
 JENKINS-10978:jenkinsci/jenkins#16088
 JENKINS-10981:jenkinsci/jenkins#16089
+JENKINS-10982:jenkinsci/nodelabelparameter-plugin#476
 JENKINS-10983:jenkinsci/github-plugin#466
 JENKINS-10984:jenkinsci/gerrit-trigger-plugin#580
 JENKINS-10985:jenkinsci/versioncolumn-plugin#365
 JENKINS-10989:jenkinsci/jenkins#16090
 JENKINS-10991:jenkinsci/matrix-project-plugin#472
+JENKINS-11006:jenkinsci/nodelabelparameter-plugin#477
 JENKINS-11009:jenkinsci/gerrit-trigger-plugin#581
 JENKINS-11013:jenkinsci/jenkins#16091
 JENKINS-11016:jenkinsci/jenkins#16092
@@ -4994,6 +4998,7 @@ JENKINS-11345:jenkinsci/parameterized-trigger-plugin#498
 JENKINS-11346:jenkinsci/jenkins#16158
 JENKINS-11347:jenkinsci/jenkins#16159
 JENKINS-11355:jenkinsci/jenkins#16160
+JENKINS-11361:jenkinsci/nodelabelparameter-plugin#478
 JENKINS-11364:jenkinsci/jenkins#16161
 JENKINS-11366:jenkinsci/jenkins#16162
 JENKINS-11370:jenkinsci/jenkins#16163
@@ -5134,6 +5139,7 @@ JENKINS-11762:jenkinsci/jenkins#16246
 JENKINS-11766:jenkinsci/promoted-builds-plugin#426
 JENKINS-11767:jenkinsci/jenkins#16247
 JENKINS-11769:jenkinsci/promoted-builds-plugin#427
+JENKINS-11770:jenkinsci/nodelabelparameter-plugin#479
 JENKINS-11771:jenkinsci/jenkins#16248
 JENKINS-11775:jenkinsci/jenkins#16249
 JENKINS-11778:jenkinsci/warnings-ng-plugin#2375
@@ -5173,6 +5179,7 @@ JENKINS-11885:jenkinsci/jenkins#16272
 JENKINS-11887:jenkinsci/git-plugin#2084
 JENKINS-11888:jenkinsci/jenkins#16273
 JENKINS-11889:jenkinsci/jenkins#16274
+JENKINS-11890:jenkinsci/nodelabelparameter-plugin#480
 JENKINS-11891:jenkinsci/ec2-plugin#1228
 JENKINS-11896:jenkinsci/jenkins#24769
 JENKINS-11911:jenkinsci/jenkins#16275
@@ -5265,6 +5272,7 @@ JENKINS-12143:jenkinsci/jenkins#16324
 JENKINS-12148:jenkinsci/jenkins#16325
 JENKINS-12152:jenkinsci/jenkins#16326
 JENKINS-12154:jenkinsci/jenkins#16327
+JENKINS-12155:jenkinsci/nodelabelparameter-plugin#481
 JENKINS-12156:jenkinsci/git-plugin#2094
 JENKINS-12157:jenkinsci/gerrit-trigger-plugin#590
 JENKINS-12158:jenkinsci/jenkins#16328
@@ -5570,6 +5578,7 @@ JENKINS-13000:jenkinsci/git-plugin#2117
 JENKINS-13001:jenkinsci/jenkins#12508
 JENKINS-13002:jenkinsci/jenkins#12509
 JENKINS-13004:jenkinsci/matrix-project-plugin#496
+JENKINS-13006:jenkinsci/nodelabelparameter-plugin#482
 JENKINS-13007:jenkinsci/git-plugin#2118
 JENKINS-13010:jenkinsci/jenkins#12510
 JENKINS-13011:jenkinsci/jenkins#12511
@@ -5824,6 +5833,7 @@ JENKINS-13692:jenkinsci/jenkins#12684
 JENKINS-13694:jenkinsci/jenkins#12685
 JENKINS-13700:jenkinsci/jenkins#12686
 JENKINS-13703:jenkinsci/jenkins#12687
+JENKINS-13704:jenkinsci/nodelabelparameter-plugin#483
 JENKINS-13712:jenkinsci/jenkins#12688
 JENKINS-13713:jenkinsci/jenkins#12689
 JENKINS-13716:jenkinsci/warnings-ng-plugin#2400
@@ -5839,8 +5849,11 @@ JENKINS-13750:jenkinsci/active-directory-plugin#370
 JENKINS-13751:jenkinsci/promoted-builds-plugin#443
 JENKINS-13753:jenkinsci/jenkins#12696
 JENKINS-13754:jenkinsci/jenkins#12697
+JENKINS-13769:jenkinsci/embeddable-build-status-plugin#459
 JENKINS-13788:jenkinsci/git-plugin#2142
 JENKINS-13797:jenkinsci/warnings-ng-plugin#2401
+JENKINS-13799:jenkinsci/nodelabelparameter-plugin#484
+JENKINS-13801:jenkinsci/nodelabelparameter-plugin#485
 JENKINS-13802:jenkinsci/promoted-builds-plugin#444
 JENKINS-13804:jenkinsci/jenkins#12698
 JENKINS-13806:jenkinsci/jenkins#12699
@@ -5877,6 +5890,7 @@ JENKINS-13884:jenkinsci/jenkins#12718
 JENKINS-13894:jenkinsci/active-directory-plugin#371
 JENKINS-13897:jenkinsci/ec2-plugin#1245
 JENKINS-13899:jenkinsci/jenkins#12719
+JENKINS-13902:jenkinsci/nodelabelparameter-plugin#486
 JENKINS-13903:jenkinsci/jenkins#12720
 JENKINS-13904:jenkinsci/jenkins#12721
 JENKINS-13905:jenkinsci/jenkins#12722
@@ -5942,9 +5956,12 @@ JENKINS-14086:jenkinsci/jenkins#12749
 JENKINS-14089:jenkinsci/junit-plugin#925
 JENKINS-14090:jenkinsci/jenkins#12750
 JENKINS-14096:jenkinsci/jenkins#12751
+JENKINS-14106:jenkinsci/nodelabelparameter-plugin#487
 JENKINS-14108:jenkinsci/parameterized-trigger-plugin#530
+JENKINS-14109:jenkinsci/nodelabelparameter-plugin#488
 JENKINS-14110:jenkinsci/ec2-plugin#1246
 JENKINS-14113:jenkinsci/jenkins#12752
+JENKINS-14120:jenkinsci/nodelabelparameter-plugin#489
 JENKINS-14122:jenkinsci/jenkins#12753
 JENKINS-14123:jenkinsci/jenkins#12754
 JENKINS-14124:jenkinsci/ec2-plugin#1247
@@ -5985,8 +6002,10 @@ JENKINS-14220:jenkinsci/jenkins#12775
 JENKINS-14221:jenkinsci/ec2-plugin#1249
 JENKINS-14223:jenkinsci/jenkins#12776
 JENKINS-14226:jenkinsci/promoted-builds-plugin#449
+JENKINS-14230:jenkinsci/nodelabelparameter-plugin#490
 JENKINS-14232:jenkinsci/parameterized-trigger-plugin#533
 JENKINS-14233:jenkinsci/jenkins#12777
+JENKINS-14234:jenkinsci/nodelabelparameter-plugin#491
 JENKINS-14250:jenkinsci/git-plugin#2161
 JENKINS-14253:jenkinsci/jenkins#12778
 JENKINS-14257:jenkinsci/jenkins#12779
@@ -6052,6 +6071,7 @@ JENKINS-14393:jenkinsci/jenkins#12812
 JENKINS-14394:jenkinsci/git-plugin#2165
 JENKINS-14401:jenkinsci/versioncolumn-plugin#368
 JENKINS-14405:jenkinsci/jenkins#12813
+JENKINS-14407:jenkinsci/nodelabelparameter-plugin#492
 JENKINS-14409:jenkinsci/jenkins#12814
 JENKINS-14421:jenkinsci/jenkins#12815
 JENKINS-14422:jenkinsci/jenkins#12816
@@ -6079,6 +6099,7 @@ JENKINS-14479:jenkinsci/gerrit-trigger-plugin#601
 JENKINS-14480:jenkinsci/git-plugin#2168
 JENKINS-14483:jenkinsci/matrix-project-plugin#513
 JENKINS-14486:jenkinsci/git-plugin#2169
+JENKINS-14488:jenkinsci/nodelabelparameter-plugin#493
 JENKINS-14491:jenkinsci/jenkins#12831
 JENKINS-14495:jenkinsci/jenkins#12832
 JENKINS-14498:jenkinsci/jenkins#12833
@@ -6133,8 +6154,10 @@ JENKINS-14648:jenkinsci/github-plugin#472
 JENKINS-14651:jenkinsci/ec2-plugin#1252
 JENKINS-14652:jenkinsci/jenkins#12856
 JENKINS-14655:jenkinsci/gerrit-trigger-plugin#602
+JENKINS-14657:jenkinsci/embeddable-build-status-plugin#460
 JENKINS-14661:jenkinsci/jenkins#12857
 JENKINS-14667:jenkinsci/jenkins#12858
+JENKINS-14670:jenkinsci/nodelabelparameter-plugin#494
 JENKINS-14677:jenkinsci/jenkins#12859
 JENKINS-14696:jenkinsci/matrix-project-plugin#518
 JENKINS-14699:jenkinsci/jenkins#12860
@@ -6349,6 +6372,7 @@ JENKINS-15329:jenkinsci/jenkins#12980
 JENKINS-15331:jenkinsci/jenkins#12981
 JENKINS-15333:jenkinsci/jenkins#12982
 JENKINS-15335:jenkinsci/jenkins#12983
+JENKINS-15339:jenkinsci/nodelabelparameter-plugin#495
 JENKINS-15340:jenkinsci/jenkins#12984
 JENKINS-15345:jenkinsci/gerrit-trigger-plugin#610
 JENKINS-15355:jenkinsci/jenkins#12985
@@ -6360,6 +6384,7 @@ JENKINS-15364:jenkinsci/jenkins#12989
 JENKINS-15365:jenkinsci/jenkins#12990
 JENKINS-15368:jenkinsci/jenkins#12991
 JENKINS-15369:jenkinsci/jenkins#12992
+JENKINS-15370:jenkinsci/nodelabelparameter-plugin#496
 JENKINS-15372:jenkinsci/jenkins#12993
 JENKINS-15374:jenkinsci/jenkins#12994
 JENKINS-15375:jenkinsci/jenkins#12995
@@ -6415,6 +6440,7 @@ JENKINS-15499:jenkinsci/jenkins#13025
 JENKINS-15500:jenkinsci/promoted-builds-plugin#462
 JENKINS-15503:jenkinsci/jenkins#13026
 JENKINS-15508:jenkinsci/jenkins#24809
+JENKINS-15510:jenkinsci/embeddable-build-status-plugin#461
 JENKINS-15511:jenkinsci/jenkins#13027
 JENKINS-15520:jenkinsci/parameterized-trigger-plugin#547
 JENKINS-15526:jenkinsci/jenkins#13028
@@ -6430,6 +6456,7 @@ JENKINS-15550:jenkinsci/jenkins#13037
 JENKINS-15552:jenkinsci/jenkins#13038
 JENKINS-15554:jenkinsci/jenkins#24810
 JENKINS-15555:jenkinsci/jenkins#13039
+JENKINS-15559:jenkinsci/nodelabelparameter-plugin#497
 JENKINS-15560:jenkinsci/jenkins#13040
 JENKINS-15563:jenkinsci/jenkins#13041
 JENKINS-15567:jenkinsci/jenkins#13042
@@ -6492,6 +6519,7 @@ JENKINS-15749:jenkinsci/parameterized-trigger-plugin#548
 JENKINS-15756:jenkinsci/jenkins#13086
 JENKINS-15757:jenkinsci/jenkins#24812
 JENKINS-15758:jenkinsci/git-plugin#2206
+JENKINS-15769:jenkinsci/embeddable-build-status-plugin#462
 JENKINS-15770:jenkinsci/jenkins#13087
 JENKINS-15777:jenkinsci/jenkins#13088
 JENKINS-15784:jenkinsci/jenkins#13089
@@ -6502,6 +6530,7 @@ JENKINS-15792:jenkinsci/jenkins#13092
 JENKINS-15796:jenkinsci/jenkins#13093
 JENKINS-15799:jenkinsci/jenkins#13094
 JENKINS-15801:jenkinsci/warnings-ng-plugin#2432
+JENKINS-15802:jenkinsci/nodelabelparameter-plugin#498
 JENKINS-15803:jenkinsci/git-plugin#2207
 JENKINS-15808:jenkinsci/jenkins#13095
 JENKINS-15811:jenkinsci/jenkins#13096
@@ -6546,6 +6575,7 @@ JENKINS-15920:jenkinsci/parameterized-trigger-plugin#550
 JENKINS-15921:jenkinsci/jenkins#13124
 JENKINS-15925:jenkinsci/ec2-plugin#1269
 JENKINS-15926:jenkinsci/build-failure-analyzer-plugin#221
+JENKINS-15930:jenkinsci/nodelabelparameter-plugin#499
 JENKINS-15933:jenkinsci/warnings-ng-plugin#2434
 JENKINS-15936:jenkinsci/jenkins#13125
 JENKINS-15945:jenkinsci/jenkins#13126
@@ -6766,10 +6796,12 @@ JENKINS-16559:jenkinsci/git-plugin#2220
 JENKINS-16560:jenkinsci/jenkins#13260
 JENKINS-16561:jenkinsci/jenkins#13261
 JENKINS-16562:jenkinsci/jenkins#13262
+JENKINS-16563:jenkinsci/nodelabelparameter-plugin#500
 JENKINS-16564:jenkinsci/git-plugin#2221
 JENKINS-16567:jenkinsci/jenkins#13263
 JENKINS-16568:jenkinsci/jenkins#13264
 JENKINS-16571:jenkinsci/warnings-ng-plugin#2440
+JENKINS-16574:jenkinsci/nodelabelparameter-plugin#501
 JENKINS-16585:jenkinsci/jenkins#13265
 JENKINS-16586:jenkinsci/jenkins#13266
 JENKINS-16587:jenkinsci/matrix-project-plugin#534
@@ -6928,9 +6960,11 @@ JENKINS-17014:jenkinsci/promoted-builds-plugin#480
 JENKINS-17018:jenkinsci/jenkins#14356
 JENKINS-17020:jenkinsci/git-plugin#2243
 JENKINS-17025:jenkinsci/jenkins#14357
+JENKINS-17028:jenkinsci/embeddable-build-status-plugin#463
 JENKINS-17029:jenkinsci/jenkins#14358
 JENKINS-17030:jenkinsci/jenkins#14359
 JENKINS-17036:jenkinsci/jenkins#14360
+JENKINS-17038:jenkinsci/embeddable-build-status-plugin#464
 JENKINS-17039:jenkinsci/jenkins#14361
 JENKINS-17041:jenkinsci/jenkins#14362
 JENKINS-17042:jenkinsci/jenkins#14363
@@ -7018,6 +7052,7 @@ JENKINS-17227:jenkinsci/jenkins#14414
 JENKINS-17231:jenkinsci/jenkins#14415
 JENKINS-17232:jenkinsci/jenkins#14416
 JENKINS-17236:jenkinsci/jenkins#14417
+JENKINS-17237:jenkinsci/nodelabelparameter-plugin#502
 JENKINS-17238:jenkinsci/jenkins#14418
 JENKINS-17240:jenkinsci/github-plugin#483
 JENKINS-17242:jenkinsci/git-plugin#2258
@@ -7044,6 +7079,7 @@ JENKINS-17286:jenkinsci/parameterized-trigger-plugin#560
 JENKINS-17289:jenkinsci/jenkins#14429
 JENKINS-17290:jenkinsci/jenkins#14430
 JENKINS-17302:jenkinsci/jenkins#14431
+JENKINS-17305:jenkinsci/nodelabelparameter-plugin#503
 JENKINS-17309:jenkinsci/warnings-ng-plugin#2451
 JENKINS-17311:jenkinsci/jenkins#14432
 JENKINS-17316:jenkinsci/build-failure-analyzer-plugin#228
@@ -7160,6 +7196,7 @@ JENKINS-17650:jenkinsci/jenkins#14501
 JENKINS-17651:jenkinsci/build-failure-analyzer-plugin#229
 JENKINS-17653:jenkinsci/git-plugin#2272
 JENKINS-17658:jenkinsci/build-failure-analyzer-plugin#230
+JENKINS-17660:jenkinsci/nodelabelparameter-plugin#504
 JENKINS-17661:jenkinsci/ldap-plugin#418
 JENKINS-17664:jenkinsci/jenkins#14502
 JENKINS-17666:jenkinsci/jenkins#24829
@@ -7222,6 +7259,7 @@ JENKINS-17791:jenkinsci/warnings-ng-plugin#2462
 JENKINS-17792:jenkinsci/warnings-ng-plugin#2463
 JENKINS-17793:jenkinsci/warnings-ng-plugin#2464
 JENKINS-17794:jenkinsci/warnings-ng-plugin#2465
+JENKINS-17798:jenkinsci/embeddable-build-status-plugin#465
 JENKINS-17803:jenkinsci/active-directory-plugin#398
 JENKINS-17805:jenkinsci/jenkins#14531
 JENKINS-17813:jenkinsci/jenkins#14532
@@ -7302,6 +7340,7 @@ JENKINS-18058:jenkinsci/jenkins#14579
 JENKINS-18062:jenkinsci/jenkins#14580
 JENKINS-18065:jenkinsci/jenkins#14581
 JENKINS-18068:jenkinsci/jenkins#14582
+JENKINS-18069:jenkinsci/nodelabelparameter-plugin#505
 JENKINS-18070:jenkinsci/jenkins#14583
 JENKINS-18071:jenkinsci/jenkins#14584
 JENKINS-18074:jenkinsci/jenkins#14585
@@ -7367,6 +7406,7 @@ JENKINS-18232:jenkinsci/git-plugin#2291
 JENKINS-18236:jenkinsci/jenkins#14619
 JENKINS-18250:jenkinsci/jenkins#24837
 JENKINS-18251:jenkinsci/job-dsl-plugin#1671
+JENKINS-18256:jenkinsci/nodelabelparameter-plugin#506
 JENKINS-18259:jenkinsci/jenkins#14620
 JENKINS-18260:jenkinsci/jenkins#14621
 JENKINS-18262:jenkinsci/jenkins#14622
@@ -7425,6 +7465,7 @@ JENKINS-18394:jenkinsci/jenkins#14659
 JENKINS-18396:jenkinsci/job-dsl-plugin#1674
 JENKINS-18405:jenkinsci/jenkins#14660
 JENKINS-18407:jenkinsci/jenkins#14661
+JENKINS-18408:jenkinsci/embeddable-build-status-plugin#466
 JENKINS-18410:jenkinsci/jenkins#14662
 JENKINS-18417:jenkinsci/jenkins#14663
 JENKINS-18422:jenkinsci/jenkins#14664
@@ -7529,6 +7570,7 @@ JENKINS-18717:jenkinsci/promoted-builds-plugin#490
 JENKINS-18718:jenkinsci/jenkins#14733
 JENKINS-18719:jenkinsci/jenkins#14734
 JENKINS-18721:jenkinsci/jenkins#14735
+JENKINS-18722:jenkinsci/nodelabelparameter-plugin#507
 JENKINS-18723:jenkinsci/jenkins#14736
 JENKINS-18734:jenkinsci/jenkins#14737
 JENKINS-18749:jenkinsci/jenkins#14738
@@ -7608,6 +7650,7 @@ JENKINS-18966:jenkinsci/gerrit-trigger-plugin#635
 JENKINS-18967:jenkinsci/parameterized-trigger-plugin#571
 JENKINS-18968:jenkinsci/job-dsl-plugin#1683
 JENKINS-18969:jenkinsci/job-dsl-plugin#1684
+JENKINS-18971:jenkinsci/nodelabelparameter-plugin#508
 JENKINS-18974:jenkinsci/git-plugin#2306
 JENKINS-18980:jenkinsci/jenkins#14782
 JENKINS-18981:jenkinsci/jenkins#14783
@@ -7666,6 +7709,7 @@ JENKINS-19100:jenkinsci/jenkins#14815
 JENKINS-19107:jenkinsci/remoting#1076
 JENKINS-19108:jenkinsci/git-plugin#2314
 JENKINS-19109:jenkinsci/git-plugin#2315
+JENKINS-19111:jenkinsci/nodelabelparameter-plugin#509
 JENKINS-19116:jenkinsci/jenkins#14816
 JENKINS-19120:jenkinsci/jenkins#14817
 JENKINS-19124:jenkinsci/jenkins#14818
@@ -7734,6 +7778,7 @@ JENKINS-19306:jenkinsci/credentials-plugin#663
 JENKINS-19307:jenkinsci/jenkins#14864
 JENKINS-19308:jenkinsci/credentials-plugin#664
 JENKINS-19310:jenkinsci/jenkins#14865
+JENKINS-19319:jenkinsci/embeddable-build-status-plugin#467
 JENKINS-19323:jenkinsci/jenkins#14866
 JENKINS-19324:jenkinsci/jenkins#14867
 JENKINS-19327:jenkinsci/jenkins#14868
@@ -7751,6 +7796,7 @@ JENKINS-19362:jenkinsci/ec2-plugin#1291
 JENKINS-19364:jenkinsci/gerrit-trigger-plugin#639
 JENKINS-19366:jenkinsci/jenkins#14876
 JENKINS-19368:jenkinsci/jenkins#14877
+JENKINS-19375:jenkinsci/nodelabelparameter-plugin#510
 JENKINS-19377:jenkinsci/jenkins#14878
 JENKINS-19378:jenkinsci/git-plugin#2317
 JENKINS-19381:jenkinsci/jenkins#14879
@@ -7841,6 +7887,7 @@ JENKINS-19664:jenkinsci/jenkins#14940
 JENKINS-19671:jenkinsci/jenkins#14941
 JENKINS-19674:jenkinsci/github-plugin#492
 JENKINS-19678:jenkinsci/gerrit-trigger-plugin#642
+JENKINS-19681:jenkinsci/embeddable-build-status-plugin#468
 JENKINS-19683:jenkinsci/jenkins#14942
 JENKINS-19684:jenkinsci/credentials-plugin#667
 JENKINS-19685:jenkinsci/job-dsl-plugin#1689
@@ -8100,6 +8147,7 @@ JENKINS-20452:jenkinsci/jenkins#15094
 JENKINS-20453:jenkinsci/jenkins#15095
 JENKINS-20455:jenkinsci/jenkins#15096
 JENKINS-20461:jenkinsci/git-plugin#2358
+JENKINS-20466:jenkinsci/nodelabelparameter-plugin#511
 JENKINS-20470:jenkinsci/git-plugin#2359
 JENKINS-20473:jenkinsci/jenkins#15097
 JENKINS-20474:jenkinsci/jenkins#15098
@@ -8244,6 +8292,7 @@ JENKINS-20815:jenkinsci/jenkins#15184
 JENKINS-20816:jenkinsci/active-directory-plugin#407
 JENKINS-20817:jenkinsci/git-plugin#2379
 JENKINS-20818:jenkinsci/git-plugin#2380
+JENKINS-20823:jenkinsci/nodelabelparameter-plugin#512
 JENKINS-20847:jenkinsci/matrix-project-plugin#555
 JENKINS-20857:jenkinsci/jenkins#15185
 JENKINS-20858:jenkinsci/jenkins#15186
@@ -8253,6 +8302,7 @@ JENKINS-20866:jenkinsci/jenkins#15188
 JENKINS-20872:jenkinsci/jenkins#15189
 JENKINS-20878:jenkinsci/durable-task-plugin#316
 JENKINS-20882:jenkinsci/jenkins#15190
+JENKINS-20885:jenkinsci/nodelabelparameter-plugin#513
 JENKINS-20887:jenkinsci/jenkins#15191
 JENKINS-20888:jenkinsci/jenkins#15192
 JENKINS-20892:jenkinsci/jenkins#15193
@@ -8334,6 +8384,7 @@ JENKINS-21098:jenkinsci/jenkins#15239
 JENKINS-21099:jenkinsci/jenkins#15240
 JENKINS-21106:jenkinsci/jenkins#15241
 JENKINS-21110:jenkinsci/git-plugin#2392
+JENKINS-21112:jenkinsci/embeddable-build-status-plugin#469
 JENKINS-21114:jenkinsci/git-plugin#2393
 JENKINS-21116:jenkinsci/git-plugin#2394
 JENKINS-21132:jenkinsci/jenkins#15242
@@ -8358,6 +8409,7 @@ JENKINS-21183:jenkinsci/jenkins#15251
 JENKINS-21185:jenkinsci/git-plugin#2396
 JENKINS-21190:jenkinsci/jenkins#15252
 JENKINS-21191:jenkinsci/jenkins#15253
+JENKINS-21194:jenkinsci/nodelabelparameter-plugin#514
 JENKINS-21196:jenkinsci/jenkins#15254
 JENKINS-21198:jenkinsci/jenkins#15255
 JENKINS-21200:jenkinsci/jenkins#15256
@@ -8555,6 +8607,7 @@ JENKINS-21819:jenkinsci/jenkins#22883
 JENKINS-21820:jenkinsci/jenkins#22884
 JENKINS-21822:jenkinsci/jenkins#22885
 JENKINS-21823:jenkinsci/jenkins#22886
+JENKINS-21828:jenkinsci/nodelabelparameter-plugin#515
 JENKINS-21829:jenkinsci/parameterized-trigger-plugin#588
 JENKINS-21833:jenkinsci/jenkins#22887
 JENKINS-21837:jenkinsci/jenkins#22888
@@ -8596,6 +8649,7 @@ JENKINS-21945:jenkinsci/jenkins#22907
 JENKINS-21947:jenkinsci/job-dsl-plugin#1702
 JENKINS-21948:jenkinsci/git-plugin#2428
 JENKINS-21949:jenkinsci/ec2-plugin#1316
+JENKINS-21951:jenkinsci/embeddable-build-status-plugin#470
 JENKINS-21952:jenkinsci/git-plugin#2429
 JENKINS-21954:jenkinsci/git-plugin#2430
 JENKINS-21957:jenkinsci/promoted-builds-plugin#518
@@ -8682,12 +8736,14 @@ JENKINS-22172:jenkinsci/jenkins#22948
 JENKINS-22175:jenkinsci/jenkins#22949
 JENKINS-22177:jenkinsci/jenkins#22950
 JENKINS-22182:jenkinsci/github-plugin#500
+JENKINS-22185:jenkinsci/nodelabelparameter-plugin#516
 JENKINS-22186:jenkinsci/gerrit-trigger-plugin#667
 JENKINS-22193:jenkinsci/jenkins#22951
 JENKINS-22200:jenkinsci/matrix-project-plugin#564
 JENKINS-22204:jenkinsci/packaging#554
 JENKINS-22205:jenkinsci/jenkins#22952
 JENKINS-22212:jenkinsci/parameterized-trigger-plugin#592
+JENKINS-22226:jenkinsci/nodelabelparameter-plugin#517
 JENKINS-22227:jenkinsci/jenkins#22953
 JENKINS-22228:jenkinsci/jenkins#22954
 JENKINS-22229:jenkinsci/parameterized-trigger-plugin#593
@@ -8752,6 +8808,7 @@ JENKINS-22409:jenkinsci/jenkins#22985
 JENKINS-22410:jenkinsci/promoted-builds-plugin#527
 JENKINS-22411:jenkinsci/jenkins#22986
 JENKINS-22413:jenkinsci/jenkins#22987
+JENKINS-22416:jenkinsci/nodelabelparameter-plugin#518
 JENKINS-22421:jenkinsci/git-plugin#2450
 JENKINS-22425:jenkinsci/jenkins#22988
 JENKINS-22428:jenkinsci/jenkins#22989
@@ -8928,6 +8985,7 @@ JENKINS-22865:jenkinsci/jenkins#23071
 JENKINS-22867:jenkinsci/jenkins#23072
 JENKINS-22873:jenkinsci/matrix-project-plugin#571
 JENKINS-22874:jenkinsci/warnings-ng-plugin#2507
+JENKINS-22875:jenkinsci/embeddable-build-status-plugin#471
 JENKINS-22877:jenkinsci/remoting#1096
 JENKINS-22879:jenkinsci/jenkins#23073
 JENKINS-22880:jenkinsci/jenkins#23074
@@ -8942,6 +9000,7 @@ JENKINS-22906:jenkinsci/parameterized-trigger-plugin#599
 JENKINS-22907:jenkinsci/git-plugin#2471
 JENKINS-22910:jenkinsci/jenkins#23080
 JENKINS-22914:jenkinsci/jenkins#23081
+JENKINS-22917:jenkinsci/nodelabelparameter-plugin#519
 JENKINS-22919:jenkinsci/promoted-builds-plugin#532
 JENKINS-22926:jenkinsci/jenkins#23082
 JENKINS-22928:jenkinsci/jenkins#23083
@@ -8971,8 +9030,10 @@ JENKINS-22983:jenkinsci/git-plugin#2474
 JENKINS-22991:jenkinsci/jenkins#23101
 JENKINS-22997:jenkinsci/jenkins#23102
 JENKINS-22998:jenkinsci/matrix-project-plugin#572
+JENKINS-23001:jenkinsci/nodelabelparameter-plugin#520
 JENKINS-23006:jenkinsci/job-dsl-plugin#1718
 JENKINS-23013:jenkinsci/workflow-aggregator-plugin#115
+JENKINS-23014:jenkinsci/nodelabelparameter-plugin#521
 JENKINS-23016:jenkinsci/jenkins#23103
 JENKINS-23020:jenkinsci/jenkins#23104
 JENKINS-23022:jenkinsci/ec2-plugin#1323
@@ -8988,6 +9049,7 @@ JENKINS-23053:jenkinsci/parameterized-trigger-plugin#601
 JENKINS-23054:jenkinsci/gerrit-trigger-plugin#678
 JENKINS-23056:jenkinsci/jenkins#23111
 JENKINS-23060:jenkinsci/promoted-builds-plugin#533
+JENKINS-23062:jenkinsci/embeddable-build-status-plugin#472
 JENKINS-23063:jenkinsci/jenkins#23112
 JENKINS-23064:jenkinsci/jenkins#23113
 JENKINS-23067:jenkinsci/jenkins#23114
@@ -9009,6 +9071,7 @@ JENKINS-23120:jenkinsci/remoting#1097
 JENKINS-23124:jenkinsci/jenkins#23122
 JENKINS-23127:jenkinsci/jenkins#23123
 JENKINS-23128:jenkinsci/jenkins#23124
+JENKINS-23129:jenkinsci/nodelabelparameter-plugin#522
 JENKINS-23130:jenkinsci/jenkins#23125
 JENKINS-23131:jenkinsci/credentials-plugin#686
 JENKINS-23132:jenkinsci/jenkins#24867
@@ -9141,6 +9204,7 @@ JENKINS-23501:jenkinsci/github-plugin#503
 JENKINS-23503:jenkinsci/build-failure-analyzer-plugin#244
 JENKINS-23507:jenkinsci/jenkins#23205
 JENKINS-23508:jenkinsci/jenkins#23206
+JENKINS-23510:jenkinsci/nodelabelparameter-plugin#523
 JENKINS-23514:jenkinsci/jenkins#23207
 JENKINS-23517:jenkinsci/jenkins#23208
 JENKINS-23518:jenkinsci/git-plugin#2490
@@ -9327,6 +9391,7 @@ JENKINS-24080:jenkinsci/jenkins#23319
 JENKINS-24082:jenkinsci/git-plugin#2507
 JENKINS-24086:jenkinsci/git-plugin#2508
 JENKINS-24088:jenkinsci/jenkins#23320
+JENKINS-24089:jenkinsci/embeddable-build-status-plugin#473
 JENKINS-24091:jenkinsci/job-dsl-plugin#1726
 JENKINS-24092:jenkinsci/matrix-project-plugin#583
 JENKINS-24095:jenkinsci/jenkins#23321
@@ -9345,6 +9410,7 @@ JENKINS-24128:jenkinsci/jenkins#23329
 JENKINS-24133:jenkinsci/git-plugin#2510
 JENKINS-24138:jenkinsci/jenkins#23330
 JENKINS-24141:jenkinsci/jenkins#23331
+JENKINS-24142:jenkinsci/nodelabelparameter-plugin#524
 JENKINS-24143:jenkinsci/jenkins#23332
 JENKINS-24144:jenkinsci/git-plugin#2511
 JENKINS-24146:jenkinsci/job-dsl-plugin#1727
@@ -9393,6 +9459,7 @@ JENKINS-24261:jenkinsci/git-plugin#2516
 JENKINS-24271:jenkinsci/promoted-builds-plugin#537
 JENKINS-24272:jenkinsci/jenkins#23355
 JENKINS-24278:jenkinsci/jenkins#23356
+JENKINS-24280:jenkinsci/nodelabelparameter-plugin#525
 JENKINS-24282:jenkinsci/jenkins#23357
 JENKINS-24290:jenkinsci/jenkins#23358
 JENKINS-24291:jenkinsci/github-plugin#510
@@ -9543,6 +9610,7 @@ JENKINS-24703:jenkinsci/jenkins#23446
 JENKINS-24704:jenkinsci/ldap-plugin#442
 JENKINS-24714:jenkinsci/jenkins#23447
 JENKINS-24718:jenkinsci/git-plugin#2531
+JENKINS-24719:jenkinsci/nodelabelparameter-plugin#526
 JENKINS-24720:jenkinsci/jenkins#23448
 JENKINS-24725:jenkinsci/jenkins#23449
 JENKINS-24728:jenkinsci/git-plugin#2532
@@ -9638,6 +9706,7 @@ JENKINS-24994:jenkinsci/jenkins#23492
 JENKINS-25001:jenkinsci/git-plugin#2542
 JENKINS-25004:jenkinsci/jenkins#23493
 JENKINS-25006:jenkinsci/jenkins#23494
+JENKINS-25008:jenkinsci/embeddable-build-status-plugin#474
 JENKINS-25009:jenkinsci/job-dsl-plugin#1744
 JENKINS-25011:jenkinsci/promoted-builds-plugin#544
 JENKINS-25013:jenkinsci/git-plugin#2543
@@ -9734,6 +9803,7 @@ JENKINS-25296:jenkinsci/jenkins#23547
 JENKINS-25297:jenkinsci/git-plugin#2552
 JENKINS-25302:jenkinsci/jenkins#23548
 JENKINS-25304:jenkinsci/git-plugin#2553
+JENKINS-25306:jenkinsci/embeddable-build-status-plugin#475
 JENKINS-25312:jenkinsci/github-plugin#517
 JENKINS-25313:jenkinsci/git-plugin#2554
 JENKINS-25314:jenkinsci/jenkins#23549
@@ -9742,6 +9812,7 @@ JENKINS-25325:jenkinsci/jenkins#23550
 JENKINS-25333:jenkinsci/jenkins#23551
 JENKINS-25337:jenkinsci/jenkins#23552
 JENKINS-25338:jenkinsci/jenkins#23553
+JENKINS-25339:jenkinsci/embeddable-build-status-plugin#476
 JENKINS-25340:jenkinsci/junit-plugin#969
 JENKINS-25343:jenkinsci/jenkins#23554
 JENKINS-25345:jenkinsci/git-plugin#2555
@@ -9755,6 +9826,7 @@ JENKINS-25372:jenkinsci/jenkins#23559
 JENKINS-25375:jenkinsci/junit-plugin#970
 JENKINS-25381:jenkinsci/jenkins#23560
 JENKINS-25383:jenkinsci/gerrit-trigger-plugin#699
+JENKINS-25384:jenkinsci/embeddable-build-status-plugin#477
 JENKINS-25385:jenkinsci/ec2-plugin#1355
 JENKINS-25386:jenkinsci/ec2-plugin#1356
 JENKINS-25389:jenkinsci/git-plugin#2556
@@ -9837,6 +9909,7 @@ JENKINS-25608:jenkinsci/gerrit-trigger-plugin#701
 JENKINS-25609:jenkinsci/jenkins#23599
 JENKINS-25615:jenkinsci/gerrit-trigger-plugin#702
 JENKINS-25619:jenkinsci/jenkins#23600
+JENKINS-25622:jenkinsci/nodelabelparameter-plugin#527
 JENKINS-25623:jenkinsci/workflow-cps-plugin#1116
 JENKINS-25625:jenkinsci/jenkins#23601
 JENKINS-25626:jenkinsci/ec2-plugin#1357
@@ -9859,6 +9932,7 @@ JENKINS-25670:jenkinsci/jenkins#23612
 JENKINS-25672:jenkinsci/remoting#1109
 JENKINS-25677:jenkinsci/git-plugin#2564
 JENKINS-25678:jenkinsci/durable-task-plugin#322
+JENKINS-25679:jenkinsci/nodelabelparameter-plugin#528
 JENKINS-25680:jenkinsci/jenkins#23613
 JENKINS-25681:jenkinsci/jenkins#23614
 JENKINS-25683:jenkinsci/jenkins#23615
@@ -10233,6 +10307,7 @@ JENKINS-26579:jenkinsci/jenkins#23793
 JENKINS-26580:jenkinsci/jenkins#23794
 JENKINS-26581:jenkinsci/jenkins#23795
 JENKINS-26582:jenkinsci/git-plugin#2591
+JENKINS-26585:jenkinsci/embeddable-build-status-plugin#478
 JENKINS-26587:jenkinsci/git-plugin#2592
 JENKINS-26588:jenkinsci/jenkins#23796
 JENKINS-26590:jenkinsci/jenkins#23797
@@ -10285,6 +10360,7 @@ JENKINS-26700:jenkinsci/jenkins#23823
 JENKINS-26702:jenkinsci/jenkins#23824
 JENKINS-26703:jenkinsci/jenkins#23825
 JENKINS-26704:jenkinsci/jenkins#23826
+JENKINS-26705:jenkinsci/embeddable-build-status-plugin#479
 JENKINS-26708:jenkinsci/jenkins#23827
 JENKINS-26712:jenkinsci/matrix-project-plugin#605
 JENKINS-26716:jenkinsci/ec2-plugin#1373
@@ -10358,6 +10434,7 @@ JENKINS-26890:jenkinsci/jenkins#20857
 JENKINS-26897:jenkinsci/jenkins#20858
 JENKINS-26899:jenkinsci/active-directory-plugin#435
 JENKINS-26900:jenkinsci/workflow-aggregator-plugin#200
+JENKINS-26905:jenkinsci/nodelabelparameter-plugin#529
 JENKINS-26908:jenkinsci/packaging#566
 JENKINS-26909:jenkinsci/jenkins#24886
 JENKINS-26911:jenkinsci/jenkins#20859
@@ -10723,6 +10800,7 @@ JENKINS-27864:jenkinsci/jenkins#21024
 JENKINS-27871:jenkinsci/jenkins#21025
 JENKINS-27873:jenkinsci/gerrit-trigger-plugin#713
 JENKINS-27875:jenkinsci/jenkins#21026
+JENKINS-27880:jenkinsci/nodelabelparameter-plugin#530
 JENKINS-27882:jenkinsci/jenkins#21027
 JENKINS-27883:jenkinsci/promoted-builds-plugin#559
 JENKINS-27886:jenkinsci/git-plugin#2638
@@ -10911,6 +10989,8 @@ JENKINS-28355:jenkinsci/jenkins#21108
 JENKINS-28361:jenkinsci/jenkins#21109
 JENKINS-28368:jenkinsci/jenkins#21110
 JENKINS-28372:jenkinsci/jenkins#21111
+JENKINS-28374:jenkinsci/nodelabelparameter-plugin#531
+JENKINS-28375:jenkinsci/embeddable-build-status-plugin#480
 JENKINS-28379:jenkinsci/jenkins#21112
 JENKINS-28380:jenkinsci/jenkins#21113
 JENKINS-28382:jenkinsci/workflow-aggregator-plugin#252
@@ -11006,6 +11086,7 @@ JENKINS-28612:jenkinsci/docker-workflow-plugin#380
 JENKINS-28617:jenkinsci/active-choices-plugin#597
 JENKINS-28633:jenkinsci/jenkins#21153
 JENKINS-28635:jenkinsci/jenkins#21154
+JENKINS-28642:jenkinsci/embeddable-build-status-plugin#481
 JENKINS-28644:jenkinsci/git-plugin#2665
 JENKINS-28649:jenkinsci/workflow-aggregator-plugin#256
 JENKINS-28654:jenkinsci/jenkins#21155
@@ -11248,6 +11329,7 @@ JENKINS-29355:jenkinsci/ec2-plugin#1395
 JENKINS-29356:jenkinsci/jenkins#21263
 JENKINS-29358:jenkinsci/promoted-builds-plugin#566
 JENKINS-29362:jenkinsci/jenkins#24904
+JENKINS-29363:jenkinsci/nodelabelparameter-plugin#532
 JENKINS-29367:jenkinsci/jenkins#21264
 JENKINS-29368:jenkinsci/jenkins#21265
 JENKINS-29372:jenkinsci/jenkins#21266
@@ -11388,6 +11470,7 @@ JENKINS-29741:jenkinsci/job-dsl-plugin#1864
 JENKINS-29742:jenkinsci/job-dsl-plugin#1865
 JENKINS-29745:jenkinsci/implied-labels-plugin#325
 JENKINS-29748:jenkinsci/jenkins#21313
+JENKINS-29750:jenkinsci/embeddable-build-status-plugin#482
 JENKINS-29751:jenkinsci/workflow-aggregator-plugin#288
 JENKINS-29752:jenkinsci/docker-workflow-plugin#387
 JENKINS-29753:jenkinsci/job-dsl-plugin#1866
@@ -11502,6 +11585,7 @@ JENKINS-30030:jenkinsci/jenkins#21352
 JENKINS-30031:jenkinsci/workflow-aggregator-plugin#299
 JENKINS-30032:jenkinsci/git-plugin#2711
 JENKINS-30033:jenkinsci/promoted-builds-plugin#573
+JENKINS-30036:jenkinsci/nodelabelparameter-plugin#533
 JENKINS-30038:jenkinsci/jenkins#21353
 JENKINS-30039:jenkinsci/jenkins#21354
 JENKINS-30040:jenkinsci/parameterized-trigger-plugin#643
@@ -11521,6 +11605,7 @@ JENKINS-30086:jenkinsci/workflow-aggregator-plugin#301
 JENKINS-30087:jenkinsci/git-plugin#2713
 JENKINS-30088:jenkinsci/workflow-aggregator-plugin#302
 JENKINS-30092:jenkinsci/jenkins#21362
+JENKINS-30098:jenkinsci/embeddable-build-status-plugin#483
 JENKINS-30099:jenkinsci/jenkins#21363
 JENKINS-30101:jenkinsci/jenkins#21364
 JENKINS-30104:jenkinsci/gerrit-trigger-plugin#727
@@ -11650,6 +11735,7 @@ JENKINS-30499:jenkinsci/job-dsl-plugin#1893
 JENKINS-30502:jenkinsci/jenkins#21407
 JENKINS-30503:jenkinsci/job-dsl-plugin#1894
 JENKINS-30504:jenkinsci/job-dsl-plugin#1895
+JENKINS-30506:jenkinsci/nodelabelparameter-plugin#534
 JENKINS-30510:jenkinsci/workflow-aggregator-plugin#313
 JENKINS-30513:jenkinsci/jenkins#21408
 JENKINS-30515:jenkinsci/git-plugin#2737
@@ -11835,6 +11921,7 @@ JENKINS-31023:jenkinsci/ldap-plugin#458
 JENKINS-31035:jenkinsci/jenkins#21492
 JENKINS-31039:jenkinsci/jenkins#21493
 JENKINS-31040:jenkinsci/junit-plugin#1002
+JENKINS-31042:jenkinsci/nodelabelparameter-plugin#535
 JENKINS-31044:jenkinsci/parameterized-trigger-plugin#646
 JENKINS-31050:jenkinsci/remoting#1136
 JENKINS-31055:jenkinsci/jenkins#21494
@@ -11961,6 +12048,7 @@ JENKINS-31395:jenkinsci/jenkins#21547
 JENKINS-31400:jenkinsci/jenkins#21548
 JENKINS-31404:jenkinsci/jenkins#21549
 JENKINS-31406:jenkinsci/promoted-builds-plugin#585
+JENKINS-31414:jenkinsci/embeddable-build-status-plugin#484
 JENKINS-31417:jenkinsci/jenkins#21550
 JENKINS-31422:jenkinsci/ldap-plugin#460
 JENKINS-31424:jenkinsci/workflow-aggregator-plugin#342
@@ -12153,6 +12241,7 @@ JENKINS-31817:jenkinsci/job-dsl-plugin#1945
 JENKINS-31818:jenkinsci/job-dsl-plugin#1946
 JENKINS-31821:jenkinsci/junit-plugin#1011
 JENKINS-31824:jenkinsci/jenkins#21610
+JENKINS-31825:jenkinsci/embeddable-build-status-plugin#485
 JENKINS-31826:jenkinsci/git-plugin#2766
 JENKINS-31828:jenkinsci/git-plugin#2767
 JENKINS-31830:jenkinsci/job-dsl-plugin#1947
@@ -12201,6 +12290,7 @@ JENKINS-31901:jenkinsci/promoted-builds-plugin#587
 JENKINS-31902:jenkinsci/workflow-aggregator-plugin#359
 JENKINS-31908:jenkinsci/promoted-builds-plugin#588
 JENKINS-31909:jenkinsci/workflow-aggregator-plugin#360
+JENKINS-31910:jenkinsci/embeddable-build-status-plugin#486
 JENKINS-31911:jenkinsci/job-dsl-plugin#1955
 JENKINS-31912:jenkinsci/job-dsl-plugin#1956
 JENKINS-31914:jenkinsci/remoting#1142
@@ -12234,6 +12324,7 @@ JENKINS-31997:jenkinsci/jenkins#21630
 JENKINS-31998:jenkinsci/git-plugin#2772
 JENKINS-32000:jenkinsci/durable-task-plugin#340
 JENKINS-32001:jenkinsci/build-failure-analyzer-plugin#281
+JENKINS-32002:jenkinsci/nodelabelparameter-plugin#536
 JENKINS-32006:jenkinsci/promoted-builds-plugin#589
 JENKINS-32007:jenkinsci/github-branch-source-plugin#929
 JENKINS-32011:jenkinsci/job-dsl-plugin#1957
@@ -12304,6 +12395,7 @@ JENKINS-32194:jenkinsci/jenkins#21653
 JENKINS-32195:jenkinsci/job-dsl-plugin#1963
 JENKINS-32196:jenkinsci/job-dsl-plugin#1964
 JENKINS-32199:jenkinsci/jenkins#21654
+JENKINS-32209:jenkinsci/nodelabelparameter-plugin#537
 JENKINS-32210:jenkinsci/jenkins#21655
 JENKINS-32211:jenkinsci/script-security-plugin#667
 JENKINS-32212:jenkinsci/jenkins#21656
@@ -12394,9 +12486,11 @@ JENKINS-32442:jenkinsci/jenkins#21687
 JENKINS-32443:jenkinsci/jenkins#21688
 JENKINS-32444:jenkinsci/jenkins#21689
 JENKINS-32451:jenkinsci/workflow-aggregator-plugin#390
+JENKINS-32452:jenkinsci/embeddable-build-status-plugin#487
 JENKINS-32455:jenkinsci/jenkins#21690
 JENKINS-32459:jenkinsci/jenkins#24945
 JENKINS-32461:jenkinsci/active-choices-plugin#624
+JENKINS-32464:jenkinsci/nodelabelparameter-plugin#538
 JENKINS-32466:jenkinsci/jenkins#21691
 JENKINS-32468:jenkinsci/workflow-cps-plugin#1160
 JENKINS-32469:jenkinsci/ec2-plugin#1417
@@ -12472,6 +12566,7 @@ JENKINS-32641:jenkinsci/github-plugin#563
 JENKINS-32642:jenkinsci/credentials-plugin#713
 JENKINS-32643:jenkinsci/active-directory-plugin#466
 JENKINS-32644:jenkinsci/build-failure-analyzer-plugin#285
+JENKINS-32645:jenkinsci/nodelabelparameter-plugin#539
 JENKINS-32658:jenkinsci/workflow-aggregator-plugin#397
 JENKINS-32660:jenkinsci/jenkins#21722
 JENKINS-32661:jenkinsci/script-security-plugin#668
@@ -12484,6 +12579,7 @@ JENKINS-32676:jenkinsci/script-security-plugin#669
 JENKINS-32678:jenkinsci/job-dsl-plugin#1977
 JENKINS-32680:jenkinsci/active-choices-plugin#626
 JENKINS-32681:jenkinsci/script-security-plugin#670
+JENKINS-32683:jenkinsci/embeddable-build-status-plugin#488
 JENKINS-32684:jenkinsci/jenkins#21723
 JENKINS-32685:jenkinsci/build-failure-analyzer-plugin#286
 JENKINS-32686:jenkinsci/build-failure-analyzer-plugin#287
@@ -12583,6 +12679,7 @@ JENKINS-32932:jenkinsci/jenkins#21757
 JENKINS-32934:jenkinsci/parameterized-trigger-plugin#657
 JENKINS-32936:jenkinsci/jenkins#21758
 JENKINS-32938:jenkinsci/jenkins#21759
+JENKINS-32939:jenkinsci/nodelabelparameter-plugin#540
 JENKINS-32941:jenkinsci/job-dsl-plugin#1988
 JENKINS-32943:jenkinsci/docker-workflow-plugin#395
 JENKINS-32945:jenkinsci/jenkins#21760
@@ -12714,6 +12811,7 @@ JENKINS-33287:jenkinsci/jenkins#21808
 JENKINS-33292:jenkinsci/ldap-plugin#463
 JENKINS-33294:jenkinsci/jenkins#21809
 JENKINS-33296:jenkinsci/jenkins#21810
+JENKINS-33297:jenkinsci/nodelabelparameter-plugin#541
 JENKINS-33299:jenkinsci/jenkins#21811
 JENKINS-33300:jenkinsci/ldap-plugin#464
 JENKINS-33303:jenkinsci/jenkins#21812
@@ -12913,9 +13011,11 @@ JENKINS-33732:jenkinsci/jenkins#16904
 JENKINS-33735:jenkinsci/jenkins#16905
 JENKINS-33736:jenkinsci/jenkins#16906
 JENKINS-33743:jenkinsci/git-plugin#2820
+JENKINS-33746:jenkinsci/nodelabelparameter-plugin#542
 JENKINS-33749:jenkinsci/durable-task-plugin#347
 JENKINS-33754:jenkinsci/jenkins#16907
 JENKINS-33755:jenkinsci/jenkins#16908
+JENKINS-33756:jenkinsci/nodelabelparameter-plugin#543
 JENKINS-33757:jenkinsci/parameterized-trigger-plugin#663
 JENKINS-33761:jenkinsci/workflow-cps-plugin#1172
 JENKINS-33766:jenkinsci/jenkins#16909
@@ -13011,6 +13111,7 @@ JENKINS-33907:jenkinsci/git-plugin#2827
 JENKINS-33908:jenkinsci/github-plugin#572
 JENKINS-33909:jenkinsci/github-branch-source-plugin#948
 JENKINS-33910:jenkinsci/parameterized-trigger-plugin#665
+JENKINS-33911:jenkinsci/embeddable-build-status-plugin#489
 JENKINS-33913:jenkinsci/durable-task-plugin#349
 JENKINS-33915:jenkinsci/remoting#1155
 JENKINS-33916:jenkinsci/jenkins#16957
@@ -13040,6 +13141,7 @@ JENKINS-33948:jenkinsci/jenkins#16974
 JENKINS-33949:jenkinsci/jenkins#16975
 JENKINS-33950:jenkinsci/jenkins#16976
 JENKINS-33951:jenkinsci/jenkins#16977
+JENKINS-33953:jenkinsci/embeddable-build-status-plugin#490
 JENKINS-33954:jenkinsci/jenkins#16978
 JENKINS-33955:jenkinsci/jenkins#16979
 JENKINS-33956:jenkinsci/git-plugin#2828
@@ -13593,6 +13695,7 @@ JENKINS-35199:jenkinsci/workflow-cps-plugin#1184
 JENKINS-35201:jenkinsci/jenkins#17193
 JENKINS-35202:jenkinsci/blueocean-plugin#2671
 JENKINS-35203:jenkinsci/jenkins#17194
+JENKINS-35204:jenkinsci/nodelabelparameter-plugin#544
 JENKINS-35206:jenkinsci/jenkins#17195
 JENKINS-35207:jenkinsci/workflow-aggregator-plugin#496
 JENKINS-35212:jenkinsci/blueocean-plugin#2672
@@ -14067,6 +14170,7 @@ JENKINS-36161:jenkinsci/credentials-plugin#742
 JENKINS-36162:jenkinsci/blueocean-plugin#2917
 JENKINS-36164:jenkinsci/blueocean-plugin#2918
 JENKINS-36165:jenkinsci/blueocean-plugin#2919
+JENKINS-36167:jenkinsci/nodelabelparameter-plugin#545
 JENKINS-36169:jenkinsci/blueocean-plugin#2920
 JENKINS-36170:jenkinsci/blueocean-plugin#2921
 JENKINS-36171:jenkinsci/blueocean-plugin#2922
@@ -14104,6 +14208,7 @@ JENKINS-36231:jenkinsci/blueocean-plugin#2935
 JENKINS-36232:jenkinsci/jenkins#17281
 JENKINS-36233:jenkinsci/blueocean-plugin#2936
 JENKINS-36234:jenkinsci/blueocean-plugin#2937
+JENKINS-36236:jenkinsci/nodelabelparameter-plugin#546
 JENKINS-36239:jenkinsci/jenkins#17282
 JENKINS-36240:jenkinsci/github-branch-source-plugin#978
 JENKINS-36243:jenkinsci/matrix-project-plugin#654
@@ -14387,7 +14492,9 @@ JENKINS-36785:jenkinsci/jenkins#17356
 JENKINS-36789:jenkinsci/jenkins#17357
 JENKINS-36791:jenkinsci/workflow-aggregator-plugin#536
 JENKINS-36792:jenkinsci/jenkins#17358
+JENKINS-36793:jenkinsci/nodelabelparameter-plugin#547
 JENKINS-36794:jenkinsci/jenkins#24987
+JENKINS-36798:jenkinsci/embeddable-build-status-plugin#491
 JENKINS-36801:jenkinsci/git-plugin#2908
 JENKINS-36802:jenkinsci/docker-workflow-plugin#426
 JENKINS-36803:jenkinsci/jenkins#17359
@@ -14698,6 +14805,7 @@ JENKINS-37440:jenkinsci/jenkins#17439
 JENKINS-37449:jenkinsci/ec2-plugin#1487
 JENKINS-37450:jenkinsci/job-dsl-plugin#2078
 JENKINS-37452:jenkinsci/jenkins#17440
+JENKINS-37456:jenkinsci/nodelabelparameter-plugin#548
 JENKINS-37460:jenkinsci/jenkins#17441
 JENKINS-37469:jenkinsci/jenkins#17442
 JENKINS-37475:jenkinsci/workflow-aggregator-plugin#572
@@ -14738,6 +14846,7 @@ JENKINS-37540:jenkinsci/ec2-plugin#1489
 JENKINS-37544:jenkinsci/blueocean-plugin#3130
 JENKINS-37545:jenkinsci/jenkins#17450
 JENKINS-37546:jenkinsci/jenkins#17451
+JENKINS-37547:jenkinsci/nodelabelparameter-plugin#549
 JENKINS-37549:jenkinsci/jenkins#17452
 JENKINS-37552:jenkinsci/ec2-plugin#1490
 JENKINS-37553:jenkinsci/jenkins#17453
@@ -15012,6 +15121,7 @@ JENKINS-38057:jenkinsci/jenkins#17507
 JENKINS-38062:jenkinsci/matrix-project-plugin#662
 JENKINS-38064:jenkinsci/jenkins#17508
 JENKINS-38065:jenkinsci/git-plugin#2940
+JENKINS-38066:jenkinsci/nodelabelparameter-plugin#550
 JENKINS-38068:jenkinsci/blueocean-plugin#3225
 JENKINS-38070:jenkinsci/workflow-aggregator-plugin#592
 JENKINS-38072:jenkinsci/git-plugin#2941
@@ -15291,6 +15401,7 @@ JENKINS-38628:jenkinsci/jenkins#17570
 JENKINS-38629:jenkinsci/script-security-plugin#708
 JENKINS-38630:jenkinsci/workflow-cps-plugin#1230
 JENKINS-38634:jenkinsci/jenkins#17571
+JENKINS-38635:jenkinsci/nodelabelparameter-plugin#551
 JENKINS-38636:jenkinsci/junit-plugin#1046
 JENKINS-38637:jenkinsci/job-dsl-plugin#2091
 JENKINS-38642:jenkinsci/git-plugin#2960
@@ -15666,6 +15777,7 @@ JENKINS-39440:jenkinsci/blueocean-plugin#3384
 JENKINS-39442:jenkinsci/active-choices-plugin#659
 JENKINS-39444:jenkinsci/parameterized-trigger-plugin#697
 JENKINS-39447:jenkinsci/workflow-aggregator-plugin#629
+JENKINS-39451:jenkinsci/nodelabelparameter-plugin#552
 JENKINS-39454:jenkinsci/jenkins#17660
 JENKINS-39456:jenkinsci/workflow-cps-plugin#1246
 JENKINS-39459:jenkinsci/jenkins#17661
@@ -15889,6 +16001,7 @@ JENKINS-39862:jenkinsci/docker-workflow-plugin#456
 JENKINS-39863:jenkinsci/jenkins#25007
 JENKINS-39864:jenkinsci/blueocean-plugin#3459
 JENKINS-39867:jenkinsci/kubernetes-plugin#1827
+JENKINS-39869:jenkinsci/nodelabelparameter-plugin#553
 JENKINS-39870:jenkinsci/matrix-project-plugin#673
 JENKINS-39871:jenkinsci/blueocean-plugin#3460
 JENKINS-39874:jenkinsci/workflow-cps-plugin#1253
@@ -17149,6 +17262,7 @@ JENKINS-42440:jenkinsci/workflow-aggregator-plugin#701
 JENKINS-42443:jenkinsci/jenkins#21907
 JENKINS-42450:jenkinsci/blueocean-plugin#3865
 JENKINS-42451:jenkinsci/blueocean-plugin#3866
+JENKINS-42452:jenkinsci/embeddable-build-status-plugin#492
 JENKINS-42453:jenkinsci/jenkins#21908
 JENKINS-42454:jenkinsci/blueocean-plugin#3867
 JENKINS-42455:jenkinsci/blueocean-plugin#3868
@@ -17249,6 +17363,7 @@ JENKINS-42649:jenkinsci/blueocean-plugin#3898
 JENKINS-42650:jenkinsci/blueocean-plugin#5232
 JENKINS-42653:jenkinsci/jenkins#21926
 JENKINS-42655:jenkinsci/active-choices-plugin#676
+JENKINS-42656:jenkinsci/embeddable-build-status-plugin#493
 JENKINS-42658:jenkinsci/jenkins#21927
 JENKINS-42665:jenkinsci/git-plugin#3056
 JENKINS-42666:jenkinsci/pipeline-model-definition-plugin#1013
@@ -17433,6 +17548,7 @@ JENKINS-42997:jenkinsci/blueocean-plugin#3947
 JENKINS-42998:jenkinsci/blueocean-plugin#3948
 JENKINS-43000:jenkinsci/pipeline-model-definition-plugin#1029
 JENKINS-43001:jenkinsci/blueocean-plugin#3949
+JENKINS-43003:jenkinsci/nodelabelparameter-plugin#554
 JENKINS-43004:jenkinsci/blueocean-plugin#5236
 JENKINS-43005:jenkinsci/blueocean-plugin#5237
 JENKINS-43006:jenkinsci/pipeline-model-definition-plugin#1030
@@ -17799,6 +17915,7 @@ JENKINS-43712:jenkinsci/blueocean-plugin#4045
 JENKINS-43713:jenkinsci/jenkins#22032
 JENKINS-43715:jenkinsci/jenkins#22033
 JENKINS-43719:jenkinsci/pipeline-model-definition-plugin#1061
+JENKINS-43720:jenkinsci/nodelabelparameter-plugin#555
 JENKINS-43721:jenkinsci/git-plugin#3083
 JENKINS-43722:jenkinsci/script-security-plugin#742
 JENKINS-43726:jenkinsci/job-dsl-plugin#2183
@@ -17952,6 +18069,7 @@ JENKINS-44026:jenkinsci/workflow-aggregator-plugin#733
 JENKINS-44027:jenkinsci/workflow-cps-plugin#1310
 JENKINS-44029:jenkinsci/git-plugin#3095
 JENKINS-44030:jenkinsci/kubernetes-plugin#1882
+JENKINS-44032:jenkinsci/embeddable-build-status-plugin#494
 JENKINS-44033:jenkinsci/blueocean-plugin#4099
 JENKINS-44034:jenkinsci/pipeline-model-definition-plugin#1069
 JENKINS-44037:jenkinsci/git-plugin#3096
@@ -18839,6 +18957,7 @@ JENKINS-45920:jenkinsci/blueocean-plugin#4343
 JENKINS-45921:jenkinsci/job-dsl-plugin#2211
 JENKINS-45922:jenkinsci/blueocean-plugin#4344
 JENKINS-45923:jenkinsci/blueocean-plugin#4345
+JENKINS-45924:jenkinsci/nodelabelparameter-plugin#556
 JENKINS-45927:jenkinsci/jenkins#22221
 JENKINS-45930:jenkinsci/warnings-ng-plugin#2595
 JENKINS-45932:jenkinsci/jenkins#22222
@@ -18915,6 +19034,7 @@ JENKINS-46085:jenkinsci/kubernetes-plugin#1910
 JENKINS-46086:jenkinsci/github-branch-source-plugin#1119
 JENKINS-46087:jenkinsci/kubernetes-plugin#1911
 JENKINS-46088:jenkinsci/script-security-plugin#755
+JENKINS-46091:jenkinsci/nodelabelparameter-plugin#557
 JENKINS-46092:jenkinsci/jenkins#22237
 JENKINS-46095:jenkinsci/warnings-ng-plugin#2596
 JENKINS-46102:jenkinsci/jenkins#25094
@@ -19629,6 +19749,7 @@ JENKINS-47460:jenkinsci/blueocean-plugin#4518
 JENKINS-47462:jenkinsci/gerrit-trigger-plugin#842
 JENKINS-47463:jenkinsci/credentials-plugin#789
 JENKINS-47464:jenkinsci/blueocean-plugin#4519
+JENKINS-47468:jenkinsci/nodelabelparameter-plugin#558
 JENKINS-47473:jenkinsci/blueocean-plugin#4520
 JENKINS-47476:jenkinsci/kubernetes-plugin#1954
 JENKINS-47479:jenkinsci/jenkins#22372
@@ -19676,6 +19797,7 @@ JENKINS-47566:jenkinsci/jenkins#22377
 JENKINS-47567:jenkinsci/blueocean-plugin#4531
 JENKINS-47568:jenkinsci/blueocean-plugin#4532
 JENKINS-47569:jenkinsci/blueocean-plugin#4533
+JENKINS-47571:jenkinsci/nodelabelparameter-plugin#559
 JENKINS-47572:jenkinsci/jenkins#25117
 JENKINS-47573:jenkinsci/promoted-builds-plugin#655
 JENKINS-47577:jenkinsci/workflow-aggregator-plugin#833
@@ -20004,6 +20126,7 @@ JENKINS-48277:jenkinsci/blueocean-plugin#4601
 JENKINS-48278:jenkinsci/blueocean-plugin#4602
 JENKINS-48280:jenkinsci/jenkins#22432
 JENKINS-48281:jenkinsci/pipeline-model-definition-plugin#1192
+JENKINS-48282:jenkinsci/nodelabelparameter-plugin#560
 JENKINS-48284:jenkinsci/docker-workflow-plugin#538
 JENKINS-48285:jenkinsci/blueocean-plugin#4603
 JENKINS-48287:jenkinsci/git-plugin#3236
@@ -20275,6 +20398,7 @@ JENKINS-48868:jenkinsci/blueocean-plugin#4636
 JENKINS-48870:jenkinsci/blueocean-plugin#4637
 JENKINS-48872:jenkinsci/blueocean-plugin#4638
 JENKINS-48873:jenkinsci/ec2-plugin#1566
+JENKINS-48874:jenkinsci/embeddable-build-status-plugin#495
 JENKINS-48875:jenkinsci/workflow-cps-plugin#1395
 JENKINS-48877:jenkinsci/job-dsl-plugin#2243
 JENKINS-48879:jenkinsci/blueocean-plugin#4639
@@ -20559,6 +20683,7 @@ JENKINS-49541:jenkinsci/jenkins#22584
 JENKINS-49542:jenkinsci/script-security-plugin#787
 JENKINS-49543:jenkinsci/jenkins#22585
 JENKINS-49544:jenkinsci/jenkins#22586
+JENKINS-49547:jenkinsci/nodelabelparameter-plugin#561
 JENKINS-49550:jenkinsci/parameterized-trigger-plugin#742
 JENKINS-49554:jenkinsci/kubernetes-plugin#2003
 JENKINS-49555:jenkinsci/jenkins#22587
@@ -20905,6 +21030,7 @@ JENKINS-50359:jenkinsci/jenkins#25185
 JENKINS-50361:jenkinsci/jenkins#22662
 JENKINS-50365:jenkinsci/jenkins#22663
 JENKINS-50366:jenkinsci/git-plugin#3279
+JENKINS-50368:jenkinsci/embeddable-build-status-plugin#496
 JENKINS-50369:jenkinsci/git-plugin#3280
 JENKINS-50376:jenkinsci/jenkins#22664
 JENKINS-50377:jenkinsci/matrix-project-plugin#699
@@ -23417,6 +23543,7 @@ JENKINS-56618:jenkinsci/jenkins#20338
 JENKINS-56619:jenkinsci/jenkins#25344
 JENKINS-56621:jenkinsci/jenkins#20339
 JENKINS-56623:jenkinsci/junit-plugin#1127
+JENKINS-56625:jenkinsci/embeddable-build-status-plugin#497
 JENKINS-56628:jenkinsci/jenkins#25345
 JENKINS-56630:jenkinsci/warnings-ng-plugin#2804
 JENKINS-56631:jenkinsci/workflow-aggregator-plugin#973
@@ -23858,6 +23985,7 @@ JENKINS-57572:jenkinsci/workflow-aggregator-plugin#1018
 JENKINS-57573:jenkinsci/jenkins#20433
 JENKINS-57574:jenkinsci/jenkins#25371
 JENKINS-57575:jenkinsci/workflow-aggregator-plugin#1019
+JENKINS-57576:jenkinsci/nodelabelparameter-plugin#562
 JENKINS-57578:jenkinsci/jenkins#20434
 JENKINS-57579:jenkinsci/workflow-aggregator-plugin#1020
 JENKINS-57583:jenkinsci/github-branch-source-plugin#1262
@@ -24308,6 +24436,7 @@ JENKINS-58817:jenkinsci/workflow-cps-plugin#1537
 JENKINS-58824:jenkinsci/warnings-ng-plugin#2895
 JENKINS-58826:jenkinsci/warnings-ng-plugin#2896
 JENKINS-58828:jenkinsci/warnings-ng-plugin#2897
+JENKINS-58833:jenkinsci/nodelabelparameter-plugin#563
 JENKINS-58834:jenkinsci/workflow-aggregator-plugin#1068
 JENKINS-58836:jenkinsci/jenkins#25409
 JENKINS-58837:jenkinsci/docker-workflow-plugin#622
@@ -24600,6 +24729,7 @@ JENKINS-59490:jenkinsci/platformlabeler-plugin#1845
 JENKINS-59492:jenkinsci/workflow-cps-plugin#1543
 JENKINS-59493:jenkinsci/artifact-manager-s3-plugin#723
 JENKINS-59494:jenkinsci/jenkins#20624
+JENKINS-59495:jenkinsci/nodelabelparameter-plugin#564
 JENKINS-59497:jenkinsci/git-plugin#3475
 JENKINS-59502:jenkinsci/jenkins#25426
 JENKINS-59505:jenkinsci/jenkins#20625
@@ -27000,6 +27130,7 @@ JENKINS-64836:jenkinsci/jenkins#11919
 JENKINS-64838:jenkinsci/warnings-ng-plugin#3041
 JENKINS-64839:jenkinsci/jenkins#11920
 JENKINS-64840:jenkinsci/jenkins#11921
+JENKINS-64841:jenkinsci/nodelabelparameter-plugin#565
 JENKINS-64842:jenkinsci/remoting#1435
 JENKINS-64843:jenkinsci/kubernetes-plugin#2432
 JENKINS-64844:jenkinsci/git-plugin#3638
@@ -27131,6 +27262,7 @@ JENKINS-65126:jenkinsci/kubernetes-plugin#2444
 JENKINS-65127:jenkinsci/ec2-plugin#1815
 JENKINS-65128:jenkinsci/jenkins#25559
 JENKINS-65131:jenkinsci/kubernetes-plugin#2445
+JENKINS-65136:jenkinsci/nodelabelparameter-plugin#566
 JENKINS-65143:jenkinsci/jenkins#11958
 JENKINS-65149:jenkinsci/jenkins#11959
 JENKINS-65151:jenkinsci/jenkins#11960
@@ -27204,6 +27336,7 @@ JENKINS-65301:jenkinsci/ec2-plugin#1818
 JENKINS-65308:jenkinsci/jenkins#11987
 JENKINS-65311:jenkinsci/blueocean-plugin#5106
 JENKINS-65315:jenkinsci/git-plugin#3648
+JENKINS-65317:jenkinsci/embeddable-build-status-plugin#498
 JENKINS-65318:jenkinsci/jenkins#11988
 JENKINS-65323:jenkinsci/artifact-manager-s3-plugin#732
 JENKINS-65325:jenkinsci/ec2-plugin#1819
@@ -27546,6 +27679,7 @@ JENKINS-66166:jenkinsci/kubernetes-plugin#2474
 JENKINS-66167:jenkinsci/platformlabeler-plugin#1853
 JENKINS-66172:jenkinsci/remoting#1445
 JENKINS-66174:jenkinsci/jenkins#12115
+JENKINS-66175:jenkinsci/nodelabelparameter-plugin#567
 JENKINS-66177:jenkinsci/jenkins#12116
 JENKINS-66185:jenkinsci/github-branch-source-plugin#1366
 JENKINS-66187:jenkinsci/jenkins#12117
@@ -27633,6 +27767,7 @@ JENKINS-66393:jenkinsci/jenkins#12142
 JENKINS-66396:jenkinsci/platformlabeler-plugin#1854
 JENKINS-66401:jenkinsci/github-branch-source-plugin#1371
 JENKINS-66402:jenkinsci/job-dsl-plugin#2455
+JENKINS-66407:jenkinsci/embeddable-build-status-plugin#499
 JENKINS-66409:jenkinsci/workflow-aggregator-plugin#1265
 JENKINS-66411:jenkinsci/active-choices-plugin#794
 JENKINS-66412:jenkinsci/github-plugin#724
@@ -27644,6 +27779,7 @@ JENKINS-66423:jenkinsci/jenkins#12145
 JENKINS-66428:jenkinsci/jenkins#25575
 JENKINS-66430:jenkinsci/remoting#1446
 JENKINS-66433:jenkinsci/jenkins#12146
+JENKINS-66434:jenkinsci/embeddable-build-status-plugin#500
 JENKINS-66436:jenkinsci/remoting#1447
 JENKINS-66437:jenkinsci/kubernetes-plugin#2479
 JENKINS-66442:jenkinsci/jenkins#12147
@@ -27674,6 +27810,7 @@ JENKINS-66504:jenkinsci/workflow-aggregator-plugin#1267
 JENKINS-66507:jenkinsci/jenkins#12154
 JENKINS-66508:jenkinsci/jenkins#12155
 JENKINS-66510:jenkinsci/kubernetes-plugin#2481
+JENKINS-66511:jenkinsci/nodelabelparameter-plugin#568
 JENKINS-66512:jenkinsci/kubernetes-plugin#2482
 JENKINS-66514:jenkinsci/credentials-plugin#900
 JENKINS-66515:jenkinsci/github-branch-source-plugin#1373
@@ -27694,6 +27831,7 @@ JENKINS-66541:jenkinsci/jenkins#25576
 JENKINS-66544:jenkinsci/junit-plugin#1179
 JENKINS-66545:jenkinsci/kubernetes-plugin#2484
 JENKINS-66548:jenkinsci/script-security-plugin#868
+JENKINS-66557:jenkinsci/nodelabelparameter-plugin#569
 JENKINS-66560:jenkinsci/jenkins#12159
 JENKINS-66562:jenkinsci/workflow-cps-plugin#1610
 JENKINS-66563:jenkinsci/jenkins#12160
@@ -27827,6 +27965,7 @@ JENKINS-66886:jenkinsci/kubernetes-plugin#2491
 JENKINS-66887:jenkinsci/git-plugin#3691
 JENKINS-66888:jenkinsci/script-security-plugin#870
 JENKINS-66889:jenkinsci/durable-task-plugin#484
+JENKINS-66891:jenkinsci/nodelabelparameter-plugin#570
 JENKINS-66892:jenkinsci/docker-workflow-plugin#677
 JENKINS-66893:jenkinsci/git-plugin#3692
 JENKINS-66894:jenkinsci/jenkins#12213
@@ -27841,6 +27980,7 @@ JENKINS-66918:jenkinsci/warnings-ng-plugin#3064
 JENKINS-66930:jenkinsci/jenkins#12217
 JENKINS-66931:jenkinsci/github-plugin#726
 JENKINS-66933:jenkinsci/jenkins#12218
+JENKINS-66934:jenkinsci/embeddable-build-status-plugin#501
 JENKINS-66935:jenkinsci/durable-task-plugin#485
 JENKINS-66936:jenkinsci/javadoc-plugin#261
 JENKINS-66947:jenkinsci/jenkins#12219
@@ -28049,6 +28189,7 @@ JENKINS-67421:jenkinsci/workflow-aggregator-plugin#1289
 JENKINS-67423:jenkinsci/kubernetes-plugin#2513
 JENKINS-67428:jenkinsci/workflow-aggregator-plugin#1290
 JENKINS-67429:jenkinsci/jenkins#12293
+JENKINS-67430:jenkinsci/nodelabelparameter-plugin#571
 JENKINS-67434:jenkinsci/remoting#1456
 JENKINS-67435:jenkinsci/jenkins#12294
 JENKINS-67438:jenkinsci/job-dsl-plugin#2469
@@ -28149,6 +28290,7 @@ JENKINS-67655:jenkinsci/remoting#1458
 JENKINS-67656:jenkinsci/jenkins#17848
 JENKINS-67659:jenkinsci/docker-workflow-plugin#687
 JENKINS-67662:jenkinsci/jenkins#17849
+JENKINS-67663:jenkinsci/nodelabelparameter-plugin#572
 JENKINS-67664:jenkinsci/kubernetes-plugin#2525
 JENKINS-67668:jenkinsci/jenkins#17850
 JENKINS-67672:jenkinsci/jenkins#17851
@@ -28562,6 +28704,7 @@ JENKINS-68557:jenkinsci/kubernetes-plugin#2545
 JENKINS-68558:jenkinsci/github-plugin#734
 JENKINS-68559:jenkinsci/jenkins#18052
 JENKINS-68562:jenkinsci/git-plugin#3727
+JENKINS-68563:jenkinsci/nodelabelparameter-plugin#573
 JENKINS-68564:jenkinsci/jenkins#25616
 JENKINS-68565:jenkinsci/jenkins#25617
 JENKINS-68566:jenkinsci/jenkins#25618
@@ -28596,6 +28739,7 @@ JENKINS-68613:jenkinsci/jenkins#18065
 JENKINS-68614:jenkinsci/pipeline-model-definition-plugin#1461
 JENKINS-68616:jenkinsci/credentials-plugin#919
 JENKINS-68617:jenkinsci/git-plugin#3731
+JENKINS-68620:jenkinsci/nodelabelparameter-plugin#574
 JENKINS-68622:jenkinsci/credentials-plugin#920
 JENKINS-68623:jenkinsci/blueocean-plugin#5133
 JENKINS-68625:jenkinsci/remoting#1467
@@ -28669,6 +28813,7 @@ JENKINS-68752:jenkinsci/jenkins#18106
 JENKINS-68756:jenkinsci/kubernetes-plugin#2556
 JENKINS-68757:jenkinsci/kubernetes-plugin#2557
 JENKINS-68761:jenkinsci/jenkins#18107
+JENKINS-68764:jenkinsci/embeddable-build-status-plugin#502
 JENKINS-68765:jenkinsci/github-branch-source-plugin#1402
 JENKINS-68766:jenkinsci/job-dsl-plugin#2483
 JENKINS-68767:jenkinsci/jenkins#18108
@@ -28761,6 +28906,7 @@ JENKINS-68934:jenkinsci/jenkins#18155
 JENKINS-68940:jenkinsci/jenkins#18156
 JENKINS-68941:jenkinsci/jenkins#18157
 JENKINS-68942:jenkinsci/jenkins#18158
+JENKINS-68943:jenkinsci/embeddable-build-status-plugin#503
 JENKINS-68944:jenkinsci/matrix-project-plugin#733
 JENKINS-68946:jenkinsci/ec2-plugin#1862
 JENKINS-68947:jenkinsci/active-directory-plugin#630
@@ -28783,6 +28929,7 @@ JENKINS-68981:jenkinsci/jenkins#18166
 JENKINS-68985:jenkinsci/jenkins#18167
 JENKINS-68986:jenkinsci/jenkins#18168
 JENKINS-68988:jenkinsci/ec2-plugin#1864
+JENKINS-68991:jenkinsci/nodelabelparameter-plugin#575
 JENKINS-68994:jenkinsci/jenkins#18169
 JENKINS-68995:jenkinsci/jenkins#18170
 JENKINS-68997:jenkinsci/job-dsl-plugin#2485
@@ -28793,6 +28940,7 @@ JENKINS-69011:jenkinsci/git-plugin#3735
 JENKINS-69014:jenkinsci/kubernetes-plugin#2567
 JENKINS-69015:jenkinsci/git-plugin#3736
 JENKINS-69016:jenkinsci/active-choices-plugin#815
+JENKINS-69019:jenkinsci/embeddable-build-status-plugin#504
 JENKINS-69020:jenkinsci/jenkins#18174
 JENKINS-69022:jenkinsci/jenkins#18175
 JENKINS-69023:jenkinsci/matrix-project-plugin#734
@@ -28919,8 +29067,10 @@ JENKINS-69329:jenkinsci/jenkins#18229
 JENKINS-69330:jenkinsci/ldap-plugin#569
 JENKINS-69333:jenkinsci/jenkins#18230
 JENKINS-69334:jenkinsci/git-plugin#3742
+JENKINS-69335:jenkinsci/embeddable-build-status-plugin#505
 JENKINS-69338:jenkinsci/gerrit-trigger-plugin#956
 JENKINS-69339:jenkinsci/jenkins#18231
+JENKINS-69340:jenkinsci/embeddable-build-status-plugin#506
 JENKINS-69341:jenkinsci/jenkins#18232
 JENKINS-69342:jenkinsci/jenkins#18233
 JENKINS-69343:jenkinsci/jenkins#18234
@@ -29117,6 +29267,7 @@ JENKINS-69736:jenkinsci/git-plugin#3755
 JENKINS-69739:jenkinsci/jenkins#18314
 JENKINS-69741:jenkinsci/jenkins#18315
 JENKINS-69743:jenkinsci/jenkins#18316
+JENKINS-69756:jenkinsci/nodelabelparameter-plugin#576
 JENKINS-69760:jenkinsci/git-plugin#3756
 JENKINS-69762:jenkinsci/warnings-ng-plugin#3099
 JENKINS-69764:jenkinsci/jenkins#18317
@@ -29141,6 +29292,7 @@ JENKINS-69813:jenkinsci/warnings-ng-plugin#3100
 JENKINS-69814:jenkinsci/platformlabeler-plugin#1855
 JENKINS-69815:jenkinsci/github-branch-source-plugin#1410
 JENKINS-69818:jenkinsci/jenkins#18328
+JENKINS-69820:jenkinsci/nodelabelparameter-plugin#577
 JENKINS-69821:jenkinsci/jenkins#18329
 JENKINS-69822:jenkinsci/matrix-project-plugin#737
 JENKINS-69825:jenkinsci/github-plugin#740
@@ -29159,6 +29311,7 @@ JENKINS-69862:jenkinsci/git-plugin#3758
 JENKINS-69864:jenkinsci/remoting#1476
 JENKINS-69867:jenkinsci/jenkins#18334
 JENKINS-69869:jenkinsci/jenkins#18335
+JENKINS-69872:jenkinsci/embeddable-build-status-plugin#507
 JENKINS-69875:jenkinsci/git-plugin#3759
 JENKINS-69882:jenkinsci/jenkins#18336
 JENKINS-69884:jenkinsci/workflow-aggregator-plugin#1333
@@ -29253,6 +29406,7 @@ JENKINS-70066:jenkinsci/active-choices-plugin#824
 JENKINS-70067:jenkinsci/job-dsl-plugin#2498
 JENKINS-70068:jenkinsci/workflow-aggregator-plugin#1337
 JENKINS-70069:jenkinsci/versioncolumn-plugin#381
+JENKINS-70070:jenkinsci/embeddable-build-status-plugin#508
 JENKINS-70072:jenkinsci/blueocean-plugin#5150
 JENKINS-70074:jenkinsci/versioncolumn-plugin#382
 JENKINS-70075:jenkinsci/versioncolumn-plugin#383
@@ -29425,6 +29579,7 @@ JENKINS-70460:jenkinsci/jenkins#25658
 JENKINS-70461:jenkinsci/kubernetes-plugin#2607
 JENKINS-70462:jenkinsci/jenkins#18437
 JENKINS-70463:jenkinsci/git-plugin#3778
+JENKINS-70464:jenkinsci/embeddable-build-status-plugin#509
 JENKINS-70466:jenkinsci/jenkins#25659
 JENKINS-70468:jenkinsci/jenkins#25660
 JENKINS-70471:jenkinsci/ec2-plugin#1886
@@ -29488,6 +29643,7 @@ JENKINS-70592:jenkinsci/workflow-cps-plugin#1656
 JENKINS-70599:jenkinsci/jenkins#18449
 JENKINS-70600:jenkinsci/jenkins#25664
 JENKINS-70601:jenkinsci/blueocean-plugin#5343
+JENKINS-70602:jenkinsci/embeddable-build-status-plugin#510
 JENKINS-70603:jenkinsci/warnings-ng-plugin#3107
 JENKINS-70604:jenkinsci/active-directory-plugin#646
 JENKINS-70605:jenkinsci/artifact-manager-s3-plugin#744
@@ -29556,6 +29712,7 @@ JENKINS-70766:jenkinsci/kubernetes-plugin#2626
 JENKINS-70771:jenkinsci/jenkins#18471
 JENKINS-70774:jenkinsci/jenkins#18472
 JENKINS-70777:jenkinsci/jenkins#18473
+JENKINS-70778:jenkinsci/embeddable-build-status-plugin#511
 JENKINS-70779:jenkinsci/jenkins#18474
 JENKINS-70780:jenkinsci/github-plugin#746
 JENKINS-70781:jenkinsci/jenkins#18475
@@ -30220,6 +30377,7 @@ JENKINS-72198:jenkinsci/github-plugin#754
 JENKINS-72200:jenkinsci/jenkins#18802
 JENKINS-72203:jenkinsci/jenkins#18803
 JENKINS-72204:jenkinsci/artifact-manager-s3-plugin#750
+JENKINS-72206:jenkinsci/nodelabelparameter-plugin#578
 JENKINS-72208:jenkinsci/ldap-plugin#588
 JENKINS-72210:jenkinsci/workflow-aggregator-plugin#1367
 JENKINS-72211:jenkinsci/kubernetes-plugin#2667
@@ -30245,6 +30403,7 @@ JENKINS-72248:jenkinsci/jenkins#18809
 JENKINS-72252:jenkinsci/jenkins#18810
 JENKINS-72261:jenkinsci/kubernetes-plugin#2668
 JENKINS-72264:jenkinsci/script-security-plugin#889
+JENKINS-72269:jenkinsci/nodelabelparameter-plugin#579
 JENKINS-72274:jenkinsci/promoted-builds-plugin#712
 JENKINS-72277:jenkinsci/jenkins#18811
 JENKINS-72278:jenkinsci/jenkins#18812
@@ -30274,6 +30433,7 @@ JENKINS-72332:jenkinsci/jenkins#18816
 JENKINS-72334:jenkinsci/warnings-ng-plugin#3128
 JENKINS-72336:jenkinsci/git-plugin#3816
 JENKINS-72337:jenkinsci/ec2-plugin#1913
+JENKINS-72339:jenkinsci/nodelabelparameter-plugin#580
 JENKINS-72341:jenkinsci/workflow-cps-plugin#1676
 JENKINS-72343:jenkinsci/jenkins#18817
 JENKINS-72344:jenkinsci/ec2-plugin#1914
@@ -30331,6 +30491,7 @@ JENKINS-72444:jenkinsci/kubernetes-plugin#2675
 JENKINS-72447:jenkinsci/jenkins#18835
 JENKINS-72451:jenkinsci/credentials-plugin#948
 JENKINS-72455:jenkinsci/git-plugin#3822
+JENKINS-72457:jenkinsci/nodelabelparameter-plugin#581
 JENKINS-72463:jenkinsci/kubernetes-plugin#2676
 JENKINS-72464:jenkinsci/durable-task-plugin#506
 JENKINS-72465:jenkinsci/jenkins#18836
@@ -30552,6 +30713,7 @@ JENKINS-72987:jenkinsci/active-choices-plugin#859
 JENKINS-72988:jenkinsci/jenkins#16406
 JENKINS-72993:jenkinsci/git-plugin#3834
 JENKINS-72994:jenkinsci/jenkins#16407
+JENKINS-72995:jenkinsci/nodelabelparameter-plugin#582
 JENKINS-72997:jenkinsci/jenkins#16408
 JENKINS-72998:jenkinsci/jenkins#16409
 JENKINS-73001:jenkinsci/jenkins#16410
@@ -30984,6 +31146,7 @@ JENKINS-73948:jenkinsci/jenkins#25760
 JENKINS-73949:jenkinsci/jenkins#25761
 JENKINS-73954:jenkinsci/jenkins#25762
 JENKINS-73959:jenkinsci/warnings-ng-plugin#3151
+JENKINS-73974:jenkinsci/nodelabelparameter-plugin#583
 JENKINS-73977:jenkinsci/kubernetes-plugin#2724
 JENKINS-73978:jenkinsci/warnings-ng-plugin#3152
 JENKINS-73979:jenkinsci/docker-workflow-plugin#722
@@ -31135,6 +31298,7 @@ JENKINS-74738:jenkinsci/jenkins#16584
 JENKINS-74739:jenkinsci/jenkins#25880
 JENKINS-74740:jenkinsci/jenkins#25881
 JENKINS-74742:jenkinsci/jenkins#25882
+JENKINS-74745:jenkinsci/embeddable-build-status-plugin#512
 JENKINS-74749:jenkinsci/jenkins#25883
 JENKINS-74756:jenkinsci/jenkins#25884
 JENKINS-74760:jenkinsci/jenkins#25885
@@ -31154,6 +31318,7 @@ JENKINS-74797:jenkinsci/credentials-plugin#970
 JENKINS-74801:jenkinsci/kubernetes-plugin#2727
 JENKINS-74802:jenkinsci/ldap-plugin#600
 JENKINS-74803:jenkinsci/jenkins#16587
+JENKINS-74809:jenkinsci/nodelabelparameter-plugin#584
 JENKINS-74810:jenkinsci/artifact-manager-s3-plugin#759
 JENKINS-74814:jenkinsci/jenkins#16588
 JENKINS-74818:jenkinsci/warnings-ng-plugin#3158
