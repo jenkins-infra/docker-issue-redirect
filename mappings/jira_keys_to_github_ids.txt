@@ -29012,7 +29012,7 @@ JENKINS-57437:jenkinsci/role-strategy-plugin#569
 JENKINS-57442:jenkinsci/parameterized-trigger-plugin#762
 JENKINS-57443:jenkinsci/workflow-aggregator-plugin#1014
 JENKINS-57444:jenkinsci/gitlab-api-plugin#133
-JENKINS-57445:jenkinsci/gitlab-api-plugin#134
+JENKINS-57445:jenkinsci/gitlab-branch-source-plugin#740
 JENKINS-57447:jenkinsci/jenkins#25364
 JENKINS-57449:jenkinsci/kubernetes-plugin#2194
 JENKINS-57452:jenkinsci/docker-workflow-plugin#614
