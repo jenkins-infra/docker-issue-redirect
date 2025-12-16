@@ -8,7 +8,12 @@ A default rule will redirect any unknown issue IDs to Jira.
 
 ## API
 
-- `GET /issue/:jira_key` - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira prefixing it with `JENKINS-`.
+- `GET /:jira_key` - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira.
+- `GET /issue/:jira_key_id` - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira prefixing it with `JENKINS-`. (Kept for compatibility with existing uses)
+
+Ex:
+- `https://issue-redirect.jenkins.io/JENKINS-1`
+- `https://issue-redirect.jenkins.io/issue/1`
 
 ## Adding more
 
