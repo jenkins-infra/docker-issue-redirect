@@ -14,9 +14,12 @@
 
             <p>API:</p>
             <ul>
+                <li><code>GET /browse/:jira_key</code> - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira.</li>
                 <li><code>GET /:jira_key</code> - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira.</li>
                 <li><code>GET /issue/:jira_key_id</code> - Redirects to the corresponding GitHub issue, if found. Otherwise to Jira prefixing it with JENKINS-.</li>
             </ul>
+
+            <p>Example of usage: replace the <code>issues</code> subdomain of any Jira link like https://issues.jenkins.io/browse/JENKINS-1 by <code>issue-redirect</code>: https://issue-redirect.jenkins.io/browse/JENKINS-1</p>
 
             <p>To add more Jira redirects send a pull request to <a href="https://github.com/jenkins-infra/docker-issue-redirect/blob/main/mappings/jira_keys_to_github_ids.txt">jira_keys_to_github_ids.txt</a>.</p>
         </main>
