@@ -20,9 +20,12 @@ while IFS=: read -r jira_key github_ref; do
       repo_path="${BASH_REMATCH[1]}"
       github_issue="${BASH_REMATCH[2]}"
 
-      echo "rewrite ^/issue/$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;" >> "$REDIRECTS_FILE"
-      echo "rewrite ^/JENKINS-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;" >> "$REDIRECTS_FILE"
-      echo "rewrite ^/browse/JENKINS-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;" >> "$REDIRECTS_FILE"
+      {
+        echo "rewrite ^/issue/$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+        echo "rewrite ^/issue/JENKINS-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+        echo "rewrite ^/JENKINS-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+        echo "rewrite ^/browse/JENKINS-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+      } >> "$REDIRECTS_FILE"
     fi
   fi
   # INFRA project
@@ -34,8 +37,11 @@ while IFS=: read -r jira_key github_ref; do
       repo_path="${BASH_REMATCH[1]}"
       github_issue="${BASH_REMATCH[2]}"
 
-      echo "rewrite ^/INFRA-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;" >> "$REDIRECTS_FILE"
-      echo "rewrite ^/browse/INFRA-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;" >> "$REDIRECTS_FILE"
+      {
+        echo "rewrite ^/INFRA-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+        echo "rewrite ^/issue/INFRA-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+        echo "rewrite ^/browse/INFRA-$issue_num$ https://github.com/$repo_path/issues/$github_issue permanent;"
+      } >> "$REDIRECTS_FILE"
     fi
   fi
 done < "$MAPPINGS_FILE"
