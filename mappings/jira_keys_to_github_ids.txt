@@ -40773,6 +40773,7 @@ JENKINS-68889:jenkinsci/role-strategy-plugin#653
 JENKINS-68890:jenkinsci/jenkins#18135
 JENKINS-68892:jenkinsci/role-strategy-plugin#654
 JENKINS-68893:jenkinsci/antisamy-markup-formatter-plugin#165
+JENKINS-68894:jenkinsci/custom-folder-icon-plugin#520
 JENKINS-68895:jenkinsci/workflow-aggregator-plugin#1311
 JENKINS-68896:jenkinsci/kubernetes-plugin#2563
 JENKINS-68897:jenkinsci/docker-workflow-plugin#693
@@ -41189,6 +41190,7 @@ JENKINS-69589:jenkinsci/jenkins#25641
 JENKINS-69591:jenkinsci/kubernetes-plugin#2580
 JENKINS-69594:jenkinsci/kubernetes-plugin#2581
 JENKINS-69597:jenkinsci/git-forensics-plugin#1171
+JENKINS-69598:jenkinsci/custom-folder-icon-plugin#521
 JENKINS-69599:jenkinsci/ssh-agents-plugin#958
 JENKINS-69601:jenkinsci/jenkins#18282
 JENKINS-69602:jenkinsci/jenkins#18283
@@ -43000,6 +43002,7 @@ JENKINS-72618:jenkinsci/credentials-plugin#950
 JENKINS-72620:jenkinsci/script-security-plugin#890
 JENKINS-72622:jenkinsci/jenkins#16344
 JENKINS-72623:jenkinsci/prism-api-plugin#285
+JENKINS-72624:jenkinsci/jakarta-mail-api-plugin#130
 JENKINS-72625:jenkinsci/gerrit-trigger-plugin#988
 JENKINS-72626:jenkinsci/credentials-plugin#951
 JENKINS-72627:jenkinsci/jenkins#16345
@@ -43889,6 +43892,12 @@ JENKINS-74198:jenkinsci/jenkins#25775
 JENKINS-74199:jenkinsci/pollscm-plugin#79
 JENKINS-74210:jenkinsci/jenkins#25776
 JENKINS-74211:jenkinsci/jenkins#25777
+JENKINS-74254:jenkinsci/custom-folder-icon-plugin#522
+JENKINS-74255:jenkinsci/custom-folder-icon-plugin#523
+JENKINS-74256:jenkinsci/custom-folder-icon-plugin#524
+JENKINS-74257:jenkinsci/custom-folder-icon-plugin#525
+JENKINS-74258:jenkinsci/custom-folder-icon-plugin#526
+JENKINS-74259:jenkinsci/custom-folder-icon-plugin#527
 JENKINS-74260:jenkinsci/jenkins#25778
 JENKINS-74315:jenkinsci/favorite-view-plugin#35
 JENKINS-74330:jenkinsci/jenkins#25779
