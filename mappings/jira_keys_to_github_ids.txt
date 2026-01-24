@@ -7705,6 +7705,7 @@ JENKINS-8518:jenkinsci/subversion-plugin#760
 JENKINS-8526:jenkinsci/email-ext-plugin#736
 JENKINS-8536:jenkinsci/release-plugin#81
 JENKINS-8537:jenkinsci/remoting#1023
+JENKINS-8538:jenkinsci/cmakebuilder-plugin#19
 JENKINS-8539:jenkinsci/jenkins#24722
 JENKINS-8541:jenkinsci/cobertura-plugin#319
 JENKINS-8542:jenkinsci/subversion-plugin#761
@@ -8050,6 +8051,7 @@ JENKINS-9218:jenkinsci/jenkins#15722
 JENKINS-9220:jenkinsci/statusmonitor-plugin#33
 JENKINS-9221:jenkinsci/cobertura-plugin#326
 JENKINS-9222:jenkinsci/subversion-plugin#777
+JENKINS-9223:jenkinsci/cmakebuilder-plugin#20
 JENKINS-9230:jenkinsci/jenkins#15723
 JENKINS-9231:jenkinsci/jenkins#15724
 JENKINS-9234:jenkinsci/jenkins#15725
@@ -9612,6 +9614,7 @@ JENKINS-12596:jenkinsci/job-config-history-plugin#417
 JENKINS-12597:jenkinsci/gravatar-plugin#171
 JENKINS-12607:jenkinsci/active-directory-plugin#359
 JENKINS-12610:jenkinsci/jenkins#12427
+JENKINS-12611:jenkinsci/cmakebuilder-plugin#21
 JENKINS-12614:jenkinsci/email-ext-plugin#788
 JENKINS-12615:jenkinsci/jenkins#12428
 JENKINS-12617:jenkinsci/jenkins#12429
@@ -9824,6 +9827,7 @@ JENKINS-13040:jenkinsci/jenkins#12519
 JENKINS-13041:jenkinsci/envinject-plugin#373
 JENKINS-13042:jenkinsci/jenkins#12520
 JENKINS-13044:jenkinsci/ant-plugin#259
+JENKINS-13049:jenkinsci/cmakebuilder-plugin#22
 JENKINS-13051:jenkinsci/git-plugin#2119
 JENKINS-13052:jenkinsci/ssh-agents-plugin#710
 JENKINS-13055:jenkinsci/subversion-plugin#905
@@ -11011,6 +11015,7 @@ JENKINS-15429:jenkinsci/envinject-plugin#421
 JENKINS-15430:jenkinsci/jenkins#13007
 JENKINS-15432:jenkinsci/git-plugin#2204
 JENKINS-15435:jenkinsci/jenkins#13008
+JENKINS-15436:jenkinsci/cmakebuilder-plugin#23
 JENKINS-15437:jenkinsci/jenkins#13009
 JENKINS-15439:jenkinsci/jenkins#13010
 JENKINS-15440:jenkinsci/subversion-plugin#972
@@ -11497,6 +11502,7 @@ JENKINS-16457:jenkinsci/jenkins#13231
 JENKINS-16459:jenkinsci/jenkins#13232
 JENKINS-16461:jenkinsci/jenkins#13233
 JENKINS-16462:jenkinsci/jenkins#13234
+JENKINS-16466:jenkinsci/cmakebuilder-plugin#24
 JENKINS-16468:jenkinsci/jenkins#13235
 JENKINS-16469:jenkinsci/git-plugin#2216
 JENKINS-16470:jenkinsci/gerrit-trigger-plugin#618
@@ -14605,6 +14611,7 @@ JENKINS-22681:jenkinsci/jenkins#23031
 JENKINS-22682:jenkinsci/git-plugin#2464
 JENKINS-22685:jenkinsci/jenkins#23032
 JENKINS-22686:jenkinsci/jenkins#23033
+JENKINS-22687:jenkinsci/cmakebuilder-plugin#25
 JENKINS-22688:jenkinsci/jenkins#23034
 JENKINS-22689:jenkinsci/jenkins#23035
 JENKINS-22690:jenkinsci/packaging#556
@@ -15634,6 +15641,7 @@ JENKINS-24859:jenkinsci/ldap-plugin#444
 JENKINS-24860:jenkinsci/parameterized-trigger-plugin#610
 JENKINS-24862:jenkinsci/text-finder-plugin#310
 JENKINS-24864:jenkinsci/git-client-plugin#1454
+JENKINS-24865:jenkinsci/cmakebuilder-plugin#26
 JENKINS-24871:jenkinsci/support-core-plugin#715
 JENKINS-24873:jenkinsci/warnings-ng-plugin#2515
 JENKINS-24877:jenkinsci/ssh-agents-plugin#774
@@ -16079,6 +16087,7 @@ JENKINS-25797:jenkinsci/git-plugin#2569
 JENKINS-25798:jenkinsci/build-failure-analyzer-plugin#263
 JENKINS-25803:jenkinsci/remoting#1111
 JENKINS-25804:jenkinsci/script-security-plugin#652
+JENKINS-25807:jenkinsci/cmakebuilder-plugin#27
 JENKINS-25808:jenkinsci/jenkins#23636
 JENKINS-25811:jenkinsci/jenkins#23637
 JENKINS-25813:jenkinsci/ssh-agents-plugin#779
@@ -16822,6 +16831,7 @@ JENKINS-27198:jenkinsci/subversion-plugin#1213
 JENKINS-27199:jenkinsci/jenkins#20907
 JENKINS-27200:jenkinsci/jenkins#20908
 JENKINS-27201:jenkinsci/jenkins#24888
+JENKINS-27203:jenkinsci/cmakebuilder-plugin#28
 JENKINS-27204:jenkinsci/jenkins#20909
 JENKINS-27207:jenkinsci/timestamper-plugin#428
 JENKINS-27209:jenkinsci/warnings-ng-plugin#2530
@@ -17845,6 +17855,7 @@ JENKINS-29138:jenkinsci/junit-plugin#991
 JENKINS-29139:jenkinsci/jenkins#21231
 JENKINS-29140:jenkinsci/jenkins#21232
 JENKINS-29141:jenkinsci/throttle-concurrent-builds-plugin#382
+JENKINS-29142:jenkinsci/cmakebuilder-plugin#29
 JENKINS-29144:jenkinsci/jenkins#21233
 JENKINS-29145:jenkinsci/jenkins#21234
 JENKINS-29146:jenkinsci/job-dsl-plugin#1834
@@ -17894,6 +17905,7 @@ JENKINS-29254:jenkinsci/kubernetes-plugin#1781
 JENKINS-29255:jenkinsci/credentials-binding-plugin#407
 JENKINS-29256:jenkinsci/build-token-root-plugin#230
 JENKINS-29261:jenkinsci/jenkins#21249
+JENKINS-29267:jenkinsci/cmakebuilder-plugin#30
 JENKINS-29268:jenkinsci/jenkins#21250
 JENKINS-29271:jenkinsci/git-plugin#2681
 JENKINS-29278:jenkinsci/git-plugin#2682
@@ -17916,6 +17928,7 @@ JENKINS-29321:jenkinsci/git-plugin#2685
 JENKINS-29323:jenkinsci/jenkins#21258
 JENKINS-29325:jenkinsci/email-ext-plugin#1098
 JENKINS-29326:jenkinsci/workflow-aggregator-plugin#271
+JENKINS-29329:jenkinsci/cmakebuilder-plugin#31
 JENKINS-29333:jenkinsci/role-strategy-plugin#482
 JENKINS-29336:jenkinsci/jenkins#21259
 JENKINS-29337:jenkinsci/jenkins#21260
@@ -18278,7 +18291,9 @@ JENKINS-30060:jenkinsci/jenkins#21358
 JENKINS-30062:jenkinsci/jenkins#24914
 JENKINS-30067:jenkinsci/jenkins#21359
 JENKINS-30069:jenkinsci/versionnumber-plugin#127
+JENKINS-30070:jenkinsci/cmakebuilder-plugin#32
 JENKINS-30073:jenkinsci/git-client-plugin#1489
+JENKINS-30075:jenkinsci/cmakebuilder-plugin#33
 JENKINS-30076:jenkinsci/git-plugin#2712
 JENKINS-30080:jenkinsci/jenkins#21360
 JENKINS-30084:jenkinsci/jenkins#21361
@@ -18297,6 +18312,7 @@ JENKINS-30104:jenkinsci/gerrit-trigger-plugin#727
 JENKINS-30107:jenkinsci/jenkins#21365
 JENKINS-30110:jenkinsci/jenkins#21366
 JENKINS-30111:jenkinsci/job-dsl-plugin#1882
+JENKINS-30114:jenkinsci/cmakebuilder-plugin#34
 JENKINS-30117:jenkinsci/support-core-plugin#728
 JENKINS-30118:jenkinsci/jira-plugin#932
 JENKINS-30119:jenkinsci/subversion-plugin#1300
@@ -18578,6 +18594,7 @@ JENKINS-30682:jenkinsci/jira-plugin#938
 JENKINS-30685:jenkinsci/jenkins#21431
 JENKINS-30686:jenkinsci/jenkins#21432
 JENKINS-30694:jenkinsci/github-plugin#550
+JENKINS-30695:jenkinsci/cmakebuilder-plugin#35
 JENKINS-30699:jenkinsci/warnings-ng-plugin#2550
 JENKINS-30700:jenkinsci/cobertura-plugin#394
 JENKINS-30701:jenkinsci/git-plugin#2741
@@ -18841,6 +18858,7 @@ JENKINS-31210:jenkinsci/jenkins#21526
 JENKINS-31212:jenkinsci/git-client-plugin#1497
 JENKINS-31213:jenkinsci/timestamper-plugin#439
 JENKINS-31214:jenkinsci/job-dsl-plugin#1912
+JENKINS-31215:jenkinsci/cmakebuilder-plugin#36
 JENKINS-31217:jenkinsci/jenkins#21527
 JENKINS-31219:jenkinsci/jenkins#21528
 JENKINS-31225:jenkinsci/docker-workflow-plugin#388
@@ -18903,6 +18921,7 @@ JENKINS-31360:jenkinsci/workflow-aggregator-plugin#339
 JENKINS-31365:jenkinsci/support-core-plugin#731
 JENKINS-31366:jenkinsci/htmlpublisher-plugin#462
 JENKINS-31370:jenkinsci/jenkins#21543
+JENKINS-31371:jenkinsci/cmakebuilder-plugin#37
 JENKINS-31372:jenkinsci/subversion-plugin#1322
 JENKINS-31373:jenkinsci/job-dsl-plugin#1916
 JENKINS-31374:jenkinsci/jenkins#21544
@@ -19597,6 +19616,7 @@ JENKINS-32642:jenkinsci/credentials-plugin#713
 JENKINS-32643:jenkinsci/active-directory-plugin#466
 JENKINS-32644:jenkinsci/build-failure-analyzer-plugin#285
 JENKINS-32645:jenkinsci/nodelabelparameter-plugin#539
+JENKINS-32657:jenkinsci/cmakebuilder-plugin#38
 JENKINS-32658:jenkinsci/workflow-aggregator-plugin#397
 JENKINS-32660:jenkinsci/jenkins#21722
 JENKINS-32661:jenkinsci/script-security-plugin#668
@@ -20728,6 +20748,7 @@ JENKINS-34608:jenkinsci/jenkins#24969
 JENKINS-34610:jenkinsci/ec2-plugin#1449
 JENKINS-34611:jenkinsci/jenkins#17087
 JENKINS-34612:jenkinsci/github-branch-source-plugin#961
+JENKINS-34613:jenkinsci/cmakebuilder-plugin#39
 JENKINS-34614:jenkinsci/acceptance-test-harness#2344
 JENKINS-34615:jenkinsci/pipeline-model-definition-plugin#835
 JENKINS-34618:jenkinsci/active-choices-plugin#637
@@ -20949,7 +20970,9 @@ JENKINS-34992:jenkinsci/ec2-plugin#1460
 JENKINS-34995:jenkinsci/git-plugin#2862
 JENKINS-34996:jenkinsci/release-plugin#130
 JENKINS-34997:jenkinsci/jenkins#17161
+JENKINS-34998:jenkinsci/cmakebuilder-plugin#40
 JENKINS-35001:jenkinsci/acceptance-test-harness#2352
+JENKINS-35005:jenkinsci/cmakebuilder-plugin#41
 JENKINS-35008:jenkinsci/jenkins#17162
 JENKINS-35009:jenkinsci/workflow-durable-task-step-plugin#496
 JENKINS-35011:jenkinsci/github-plugin#576
@@ -21495,6 +21518,7 @@ JENKINS-35906:jenkinsci/jenkins#17255
 JENKINS-35907:jenkinsci/jenkins#17256
 JENKINS-35908:jenkinsci/jenkins#17257
 JENKINS-35909:jenkinsci/blueocean-plugin#2872
+JENKINS-35911:jenkinsci/cmakebuilder-plugin#42
 JENKINS-35912:jenkinsci/blueocean-plugin#2873
 JENKINS-35913:jenkinsci/subversion-plugin#1370
 JENKINS-35915:jenkinsci/blueocean-plugin#2874
@@ -22125,6 +22149,7 @@ JENKINS-36978:jenkinsci/blueocean-plugin#3073
 JENKINS-36980:jenkinsci/blueocean-plugin#3074
 JENKINS-36984:jenkinsci/jenkins#17379
 JENKINS-36987:jenkinsci/gerrit-trigger-plugin#791
+JENKINS-36989:jenkinsci/cmakebuilder-plugin#43
 JENKINS-36990:jenkinsci/jenkins#17380
 JENKINS-36991:jenkinsci/remoting#1170
 JENKINS-36992:jenkinsci/job-config-history-plugin#509
@@ -22880,6 +22905,7 @@ JENKINS-38219:jenkinsci/jenkins#17524
 JENKINS-38224:jenkinsci/jenkins#17525
 JENKINS-38225:jenkinsci/active-directory-plugin#497
 JENKINS-38226:jenkinsci/blueocean-plugin#3239
+JENKINS-38227:jenkinsci/cmakebuilder-plugin#44
 JENKINS-38228:jenkinsci/saml-plugin#593
 JENKINS-38229:jenkinsci/jenkins#17526
 JENKINS-38230:jenkinsci/role-strategy-plugin#502
@@ -25959,6 +25985,7 @@ JENKINS-43166:jenkinsci/workflow-aggregator-plugin#713
 JENKINS-43170:jenkinsci/pipeline-maven-plugin#1010
 JENKINS-43172:jenkinsci/blueocean-plugin#5244
 JENKINS-43173:jenkinsci/workflow-aggregator-plugin#714
+JENKINS-43175:jenkinsci/cmakebuilder-plugin#45
 JENKINS-43177:jenkinsci/pipeline-model-definition-plugin#1040
 JENKINS-43180:jenkinsci/matrix-project-plugin#677
 JENKINS-43181:jenkinsci/parameterized-trigger-plugin#717
@@ -28493,6 +28520,7 @@ JENKINS-47179:jenkinsci/pipeline-model-definition-plugin#1167
 JENKINS-47181:jenkinsci/jenkins#22346
 JENKINS-47184:jenkinsci/jenkins#22347
 JENKINS-47186:jenkinsci/ec2-plugin#1546
+JENKINS-47188:jenkinsci/cmakebuilder-plugin#46
 JENKINS-47193:jenkinsci/pipeline-model-definition-plugin#1168
 JENKINS-47195:jenkinsci/durable-task-plugin#399
 JENKINS-47196:jenkinsci/git-client-plugin#1557
@@ -29046,6 +29074,7 @@ JENKINS-48095:jenkinsci/blueocean-plugin#5298
 JENKINS-48096:jenkinsci/ec2-plugin#1553
 JENKINS-48099:jenkinsci/packaging#645
 JENKINS-48101:jenkinsci/git-plugin#3231
+JENKINS-48102:jenkinsci/cmakebuilder-plugin#47
 JENKINS-48105:jenkinsci/build-failure-analyzer-plugin#324
 JENKINS-48106:jenkinsci/jenkins#22415
 JENKINS-48107:jenkinsci/saml-plugin#633
@@ -30734,6 +30763,7 @@ JENKINS-51050:jenkinsci/blueocean-plugin#4755
 JENKINS-51051:jenkinsci/credentials-plugin#806
 JENKINS-51054:jenkinsci/parameterized-trigger-plugin#747
 JENKINS-51058:jenkinsci/blueocean-plugin#4756
+JENKINS-51060:jenkinsci/cmakebuilder-plugin#48
 JENKINS-51061:jenkinsci/git-plugin#3296
 JENKINS-51062:jenkinsci/jenkins#22718
 JENKINS-51064:jenkinsci/jenkins#22719
@@ -30759,6 +30789,7 @@ JENKINS-51109:jenkinsci/jenkins#22723
 JENKINS-51110:jenkinsci/blueocean-plugin#4758
 JENKINS-51111:jenkinsci/blueocean-plugin#4759
 JENKINS-51114:jenkinsci/jenkins#22724
+JENKINS-51117:jenkinsci/cmakebuilder-plugin#49
 JENKINS-51118:jenkinsci/durable-task-plugin#426
 JENKINS-51119:jenkinsci/job-import-plugin#136
 JENKINS-51120:jenkinsci/job-import-plugin#137
@@ -31168,6 +31199,7 @@ JENKINS-51899:jenkinsci/jenkins#22819
 JENKINS-51901:jenkinsci/jenkins#22820
 JENKINS-51902:jenkinsci/build-timestamp-plugin#103
 JENKINS-51903:jenkinsci/jenkins#22821
+JENKINS-51904:jenkinsci/cmakebuilder-plugin#50
 JENKINS-51906:jenkinsci/jenkins#22822
 JENKINS-51907:jenkinsci/git-plugin#3316
 JENKINS-51911:jenkinsci/role-strategy-plugin#530
@@ -31276,6 +31308,7 @@ JENKINS-52099:jenkinsci/jenkins#22843
 JENKINS-52100:jenkinsci/blueocean-plugin#4790
 JENKINS-52101:jenkinsci/blueocean-plugin#4791
 JENKINS-52102:jenkinsci/workflow-aggregator-plugin#885
+JENKINS-52104:jenkinsci/cmakebuilder-plugin#51
 JENKINS-52108:jenkinsci/cloudbees-disk-usage-simple-plugin#165
 JENKINS-52114:jenkinsci/pipeline-model-definition-plugin#1282
 JENKINS-52115:jenkinsci/jira-plugin#1049
@@ -31791,6 +31824,7 @@ JENKINS-53121:jenkinsci/git-client-plugin#1580
 JENKINS-53122:jenkinsci/active-choices-plugin#723
 JENKINS-53124:jenkinsci/jenkins#25254
 JENKINS-53127:jenkinsci/blueocean-plugin#4830
+JENKINS-53128:jenkinsci/cmakebuilder-plugin#52
 JENKINS-53129:jenkinsci/blueocean-plugin#4831
 JENKINS-53130:jenkinsci/code-coverage-api-plugin#862
 JENKINS-53132:jenkinsci/blueocean-plugin#5372
@@ -32867,6 +32901,7 @@ JENKINS-55206:jenkinsci/workflow-aggregator-plugin#929
 JENKINS-55208:jenkinsci/workflow-aggregator-plugin#930
 JENKINS-55210:jenkinsci/jenkins#20181
 JENKINS-55213:jenkinsci/jenkins#25307
+JENKINS-55215:jenkinsci/cmakebuilder-plugin#53
 JENKINS-55216:jenkinsci/saml-plugin#662
 JENKINS-55217:jenkinsci/saml-plugin#663
 JENKINS-55218:jenkinsci/lockable-resources-plugin#915
@@ -34226,6 +34261,8 @@ JENKINS-57493:jenkinsci/git-plugin#3432
 JENKINS-57496:jenkinsci/kubernetes-plugin#2195
 JENKINS-57498:jenkinsci/active-choices-plugin#736
 JENKINS-57500:jenkinsci/jira-plugin#1083
+JENKINS-57501:jenkinsci/cmakebuilder-plugin#54
+JENKINS-57502:jenkinsci/cmakebuilder-plugin#55
 JENKINS-57504:jenkinsci/jenkins#20422
 JENKINS-57507:jenkinsci/parameterized-trigger-plugin#764
 JENKINS-57509:jenkinsci/warnings-ng-plugin#2866
@@ -34694,6 +34731,7 @@ JENKINS-58343:jenkinsci/subversion-plugin#1515
 JENKINS-58344:jenkinsci/credentials-plugin#840
 JENKINS-58345:jenkinsci/code-coverage-api-plugin#866
 JENKINS-58349:jenkinsci/git-plugin#3446
+JENKINS-58351:jenkinsci/cmakebuilder-plugin#56
 JENKINS-58354:jenkinsci/gitlab-branch-source-plugin#582
 JENKINS-58355:jenkinsci/gitlab-branch-source-plugin#583
 JENKINS-58356:jenkinsci/gitlab-branch-source-plugin#584
@@ -37130,6 +37168,7 @@ JENKINS-62493:jenkinsci/warnings-ng-plugin#3003
 JENKINS-62494:jenkinsci/credentials-plugin#866
 JENKINS-62495:jenkinsci/workflow-basic-steps-plugin#508
 JENKINS-62496:jenkinsci/jenkins#11563
+JENKINS-62498:jenkinsci/cmakebuilder-plugin#57
 JENKINS-62499:jenkinsci/jenkins#11564
 JENKINS-62500:jenkinsci/cloudbees-folder-plugin#690
 JENKINS-62501:jenkinsci/active-choices-plugin#762
@@ -38957,6 +38996,7 @@ JENKINS-65648:jenkinsci/jenkins#12045
 JENKINS-65649:jenkinsci/workflow-aggregator-plugin#1248
 JENKINS-65650:jenkinsci/gerrit-trigger-plugin#930
 JENKINS-65653:jenkinsci/jenkins#12046
+JENKINS-65654:jenkinsci/cmakebuilder-plugin#58
 JENKINS-65655:jenkinsci/credentials-plugin#893
 JENKINS-65657:jenkinsci/jenkins#12047
 JENKINS-65666:jenkinsci/warnings-ng-plugin#3052
@@ -38983,6 +39023,7 @@ JENKINS-65701:jenkinsci/subversion-plugin#1540
 JENKINS-65702:jenkinsci/jenkins#12051
 JENKINS-65703:jenkinsci/jenkins#12052
 JENKINS-65706:jenkinsci/mailer-plugin#590
+JENKINS-65707:jenkinsci/cmakebuilder-plugin#59
 JENKINS-65709:jenkinsci/jenkins#12053
 JENKINS-65710:jenkinsci/active-choices-plugin#791
 JENKINS-65711:jenkinsci/parameterized-trigger-plugin#789
@@ -39069,6 +39110,7 @@ JENKINS-65884:jenkinsci/throttle-concurrent-builds-plugin#433
 JENKINS-65885:jenkinsci/workflow-cps-plugin#1602
 JENKINS-65888:jenkinsci/workflow-aggregator-plugin#1251
 JENKINS-65891:jenkinsci/jira-plugin#1131
+JENKINS-65893:jenkinsci/cmakebuilder-plugin#60
 JENKINS-65894:jenkinsci/git-plugin#3664
 JENKINS-65896:jenkinsci/jenkins#12076
 JENKINS-65900:jenkinsci/workflow-multibranch-plugin#526
@@ -39766,6 +39808,7 @@ JENKINS-67173:jenkinsci/jenkins#12262
 JENKINS-67174:jenkinsci/artifact-manager-s3-plugin#737
 JENKINS-67175:jenkinsci/support-core-plugin#898
 JENKINS-67176:jenkinsci/favorite-plugin#254
+JENKINS-67178:jenkinsci/cmakebuilder-plugin#61
 JENKINS-67179:jenkinsci/support-core-plugin#899
 JENKINS-67181:jenkinsci/throttle-concurrent-builds-plugin#436
 JENKINS-67182:jenkinsci/job-dsl-plugin#2467
@@ -40442,6 +40485,7 @@ JENKINS-68343:jenkinsci/docker-java-api-plugin#157
 JENKINS-68344:jenkinsci/workflow-multibranch-plugin#534
 JENKINS-68346:jenkinsci/remoting#1465
 JENKINS-68347:jenkinsci/ec2-plugin#1857
+JENKINS-68349:jenkinsci/cmakebuilder-plugin#62
 JENKINS-68351:jenkinsci/github-plugin#732
 JENKINS-68353:jenkinsci/workflow-cps-plugin#1631
 JENKINS-68354:jenkinsci/github-branch-source-plugin#1396
@@ -40839,6 +40883,7 @@ JENKINS-68986:jenkinsci/jenkins#18168
 JENKINS-68988:jenkinsci/ec2-plugin#1864
 JENKINS-68989:jenkinsci/role-strategy-plugin#657
 JENKINS-68991:jenkinsci/nodelabelparameter-plugin#575
+JENKINS-68992:jenkinsci/cmakebuilder-plugin#63
 JENKINS-68994:jenkinsci/jenkins#18169
 JENKINS-68995:jenkinsci/jenkins#18170
 JENKINS-68997:jenkinsci/job-dsl-plugin#2485
@@ -41176,6 +41221,7 @@ JENKINS-69564:jenkinsci/git-plugin#3751
 JENKINS-69569:jenkinsci/workflow-job-plugin#718
 JENKINS-69570:jenkinsci/packaging#698
 JENKINS-69571:jenkinsci/workflow-cps-global-lib-plugin#399
+JENKINS-69574:jenkinsci/cmakebuilder-plugin#64
 JENKINS-69576:jenkinsci/jenkins#18277
 JENKINS-69577:jenkinsci/github-branch-source-plugin#1408
 JENKINS-69580:jenkinsci/basic-branch-build-strategies-plugin#268
@@ -41719,6 +41765,7 @@ JENKINS-70492:jenkinsci/active-directory-plugin#645
 JENKINS-70493:jenkinsci/kubernetes-plugin#2610
 JENKINS-70494:jenkinsci/gerrit-trigger-plugin#967
 JENKINS-70498:jenkinsci/analysis-model#1403
+JENKINS-70500:jenkinsci/cmakebuilder-plugin#65
 JENKINS-70503:jenkinsci/jenkins#18441
 JENKINS-70504:jenkinsci/envinject-plugin#653
 JENKINS-70506:jenkinsci/subversion-plugin#1557
