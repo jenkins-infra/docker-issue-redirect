@@ -12830,6 +12830,7 @@ JENKINS-18879:jenkinsci/ssh-agents-plugin#746
 JENKINS-18884:jenkinsci/jenkins#14767
 JENKINS-18890:jenkinsci/parameterized-trigger-plugin#570
 JENKINS-18893:jenkinsci/jenkins#14768
+JENKINS-18897:jenkinsci/ssh-agent-plugin#179
 JENKINS-18900:jenkinsci/job-config-history-plugin#438
 JENKINS-18902:jenkinsci/jenkins#14769
 JENKINS-18903:jenkinsci/jenkins#14770
@@ -13293,6 +13294,7 @@ JENKINS-19807:jenkinsci/git-plugin#2326
 JENKINS-19810:jenkinsci/jenkins#14973
 JENKINS-19812:jenkinsci/jenkins-clone-workspace-scm-plugin#116
 JENKINS-19814:jenkinsci/job-config-history-plugin#444
+JENKINS-19817:jenkinsci/ssh-agent-plugin#180
 JENKINS-19821:jenkinsci/jenkins#14974
 JENKINS-19822:jenkinsci/git-plugin#2327
 JENKINS-19825:jenkinsci/email-ext-plugin#954
@@ -14038,6 +14040,7 @@ JENKINS-21216:jenkinsci/job-dsl-plugin#1694
 JENKINS-21217:jenkinsci/jenkins#15259
 JENKINS-21219:jenkinsci/copyartifact-plugin#408
 JENKINS-21224:jenkinsci/jenkins#15260
+JENKINS-21226:jenkinsci/ssh-agent-plugin#181
 JENKINS-21227:jenkinsci/jenkins#24857
 JENKINS-21228:jenkinsci/email-ext-plugin#993
 JENKINS-21232:jenkinsci/gerrit-trigger-plugin#657
@@ -15054,6 +15057,7 @@ JENKINS-23255:jenkinsci/remoting#1100
 JENKINS-23256:jenkinsci/mailer-plugin#508
 JENKINS-23259:jenkinsci/jenkins#23151
 JENKINS-23260:jenkinsci/copyartifact-plugin#424
+JENKINS-23262:jenkinsci/ssh-agent-plugin#182
 JENKINS-23263:jenkinsci/jenkins#23152
 JENKINS-23266:jenkinsci/git-plugin#2481
 JENKINS-23270:jenkinsci/jenkins#23153
@@ -15174,6 +15178,7 @@ JENKINS-23499:jenkinsci/warnings-ng-plugin#2509
 JENKINS-23500:jenkinsci/jenkins#23204
 JENKINS-23501:jenkinsci/github-plugin#503
 JENKINS-23503:jenkinsci/build-failure-analyzer-plugin#244
+JENKINS-23504:jenkinsci/ssh-agent-plugin#183
 JENKINS-23507:jenkinsci/jenkins#23205
 JENKINS-23508:jenkinsci/jenkins#23206
 JENKINS-23510:jenkinsci/nodelabelparameter-plugin#523
@@ -15728,6 +15733,7 @@ JENKINS-24650:jenkinsci/script-security-plugin#645
 JENKINS-24655:jenkinsci/junit-plugin#966
 JENKINS-24656:jenkinsci/jenkins#23438
 JENKINS-24657:jenkinsci/jenkins#23439
+JENKINS-24658:jenkinsci/ssh-agent-plugin#184
 JENKINS-24660:jenkinsci/build-failure-analyzer-plugin#251
 JENKINS-24662:jenkinsci/credentials-plugin#692
 JENKINS-24663:jenkinsci/ec2-plugin#1345
@@ -16707,6 +16713,7 @@ JENKINS-26525:jenkinsci/jenkins#23780
 JENKINS-26528:jenkinsci/jenkins#23781
 JENKINS-26531:jenkinsci/ec2-plugin#1372
 JENKINS-26532:jenkinsci/jenkins#23782
+JENKINS-26535:jenkinsci/structs-plugin#266
 JENKINS-26537:jenkinsci/workflow-cps-global-lib-plugin#249
 JENKINS-26538:jenkinsci/workflow-cps-global-lib-plugin#250
 JENKINS-26539:jenkinsci/jenkins#23783
@@ -17832,6 +17839,7 @@ JENKINS-28503:jenkinsci/jenkins#21138
 JENKINS-28505:jenkinsci/versionnumber-plugin#125
 JENKINS-28506:jenkinsci/git-plugin#2657
 JENKINS-28507:jenkinsci/email-ext-plugin#1089
+JENKINS-28510:jenkinsci/structs-plugin#267
 JENKINS-28511:jenkinsci/git-plugin#2658
 JENKINS-28512:jenkinsci/jenkins#21139
 JENKINS-28516:jenkinsci/git-plugin#2659
@@ -19349,6 +19357,7 @@ JENKINS-31523:jenkinsci/git-plugin#2758
 JENKINS-31525:jenkinsci/jenkins#24931
 JENKINS-31530:jenkinsci/jenkins#21567
 JENKINS-31531:jenkinsci/job-dsl-plugin#1922
+JENKINS-31532:jenkinsci/structs-plugin#268
 JENKINS-31535:jenkinsci/jenkins#21568
 JENKINS-31536:jenkinsci/jenkins#21569
 JENKINS-31537:jenkinsci/matrix-project-plugin#636
@@ -19885,6 +19894,7 @@ JENKINS-32469:jenkinsci/ec2-plugin#1417
 JENKINS-32470:jenkinsci/ant-plugin#301
 JENKINS-32472:jenkinsci/description-setter-plugin#128
 JENKINS-32473:jenkinsci/github-plugin#561
+JENKINS-32476:jenkinsci/structs-plugin#269
 JENKINS-32477:jenkinsci/subversion-plugin#1342
 JENKINS-32478:jenkinsci/jenkins#21692
 JENKINS-32479:jenkinsci/git-plugin#2791
@@ -20285,6 +20295,7 @@ JENKINS-33210:jenkinsci/remoting#1151
 JENKINS-33211:jenkinsci/jira-plugin#966
 JENKINS-33213:jenkinsci/active-directory-plugin#470
 JENKINS-33215:jenkinsci/jenkins#21799
+JENKINS-33217:jenkinsci/structs-plugin#270
 JENKINS-33222:jenkinsci/jira-plugin#967
 JENKINS-33223:jenkinsci/jenkins#21800
 JENKINS-33224:jenkinsci/ivy-plugin#213
@@ -20619,6 +20630,7 @@ JENKINS-33778:jenkinsci/jenkins#16918
 JENKINS-33780:jenkinsci/jenkins#16919
 JENKINS-33782:jenkinsci/job-dsl-plugin#2014
 JENKINS-33783:jenkinsci/matrix-project-plugin#645
+JENKINS-33785:jenkinsci/structs-plugin#271
 JENKINS-33786:jenkinsci/hpe-application-automation-tools-plugin#831
 JENKINS-33788:jenkinsci/jenkins#16920
 JENKINS-33789:jenkinsci/build-pipeline-plugin#354
@@ -20835,6 +20847,7 @@ JENKINS-34097:jenkinsci/jenkins#17005
 JENKINS-34099:jenkinsci/build-pipeline-plugin#357
 JENKINS-34101:jenkinsci/pipeline-input-step-plugin#270
 JENKINS-34103:jenkinsci/jenkins#17006
+JENKINS-34105:jenkinsci/structs-plugin#272
 JENKINS-34108:jenkinsci/junit-plugin#1019
 JENKINS-34110:jenkinsci/kubernetes-plugin#1794
 JENKINS-34112:jenkinsci/parameterized-trigger-plugin#668
@@ -20872,6 +20885,7 @@ JENKINS-34167:jenkinsci/jenkins#17015
 JENKINS-34170:jenkinsci/jenkins#17016
 JENKINS-34171:jenkinsci/git-plugin#2837
 JENKINS-34172:jenkinsci/jenkins#17017
+JENKINS-34173:jenkinsci/structs-plugin#273
 JENKINS-34174:jenkinsci/jenkins#17018
 JENKINS-34177:jenkinsci/jenkins#17019
 JENKINS-34180:jenkinsci/github-branch-source-plugin#952
@@ -21743,6 +21757,7 @@ JENKINS-35703:jenkinsci/acceptance-test-harness#2366
 JENKINS-35704:jenkinsci/acceptance-test-harness#2367
 JENKINS-35705:jenkinsci/parameterized-trigger-plugin#680
 JENKINS-35708:jenkinsci/ec2-plugin#1471
+JENKINS-35709:jenkinsci/structs-plugin#274
 JENKINS-35710:jenkinsci/workflow-aggregator-plugin#513
 JENKINS-35712:jenkinsci/workflow-aggregator-plugin#514
 JENKINS-35713:jenkinsci/blueocean-plugin#2682
@@ -21944,6 +21959,7 @@ JENKINS-35911:jenkinsci/cmakebuilder-plugin#42
 JENKINS-35912:jenkinsci/blueocean-plugin#2873
 JENKINS-35913:jenkinsci/subversion-plugin#1370
 JENKINS-35915:jenkinsci/blueocean-plugin#2874
+JENKINS-35918:jenkinsci/structs-plugin#275
 JENKINS-35919:jenkinsci/mailer-plugin#541
 JENKINS-35920:jenkinsci/jenkins#17258
 JENKINS-35921:jenkinsci/build-with-parameters-plugin#50
@@ -22840,6 +22856,7 @@ JENKINS-37397:jenkinsci/workflow-aggregator-plugin#567
 JENKINS-37398:jenkinsci/script-security-plugin#702
 JENKINS-37400:jenkinsci/workflow-aggregator-plugin#568
 JENKINS-37402:jenkinsci/matrix-project-plugin#661
+JENKINS-37403:jenkinsci/structs-plugin#276
 JENKINS-37406:jenkinsci/workflow-aggregator-plugin#569
 JENKINS-37407:jenkinsci/git-plugin#2926
 JENKINS-37410:jenkinsci/jenkins#17435
@@ -23090,6 +23107,7 @@ JENKINS-37813:jenkinsci/github-plugin#590
 JENKINS-37814:jenkinsci/jenkins#17486
 JENKINS-37817:jenkinsci/workflow-aggregator-plugin#586
 JENKINS-37818:jenkinsci/jenkins#17487
+JENKINS-37820:jenkinsci/structs-plugin#277
 JENKINS-37823:jenkinsci/pipeline-model-definition-plugin#846
 JENKINS-37824:jenkinsci/pipeline-model-definition-plugin#847
 JENKINS-37825:jenkinsci/pipeline-model-definition-plugin#848
@@ -23251,6 +23269,7 @@ JENKINS-38041:jenkinsci/blueocean-plugin#3217
 JENKINS-38042:jenkinsci/blueocean-plugin#3218
 JENKINS-38043:jenkinsci/blueocean-plugin#3219
 JENKINS-38044:jenkinsci/blueocean-plugin#3220
+JENKINS-38045:jenkinsci/structs-plugin#278
 JENKINS-38046:jenkinsci/gerrit-trigger-plugin#800
 JENKINS-38047:jenkinsci/pipeline-model-definition-plugin#853
 JENKINS-38048:jenkinsci/git-plugin#2939
@@ -23337,6 +23356,7 @@ JENKINS-38175:jenkinsci/jenkins#17517
 JENKINS-38176:jenkinsci/blueocean-plugin#3235
 JENKINS-38178:jenkinsci/blueocean-plugin#3236
 JENKINS-38179:jenkinsci/git-client-plugin#1526
+JENKINS-38180:jenkinsci/structs-plugin#279
 JENKINS-38181:jenkinsci/credentials-binding-plugin#426
 JENKINS-38182:jenkinsci/jenkins#17518
 JENKINS-38185:jenkinsci/jenkins#17519
@@ -24497,6 +24517,7 @@ JENKINS-39989:jenkinsci/blueocean-plugin#3478
 JENKINS-39990:jenkinsci/favorite-plugin#242
 JENKINS-39992:jenkinsci/blueocean-plugin#3479
 JENKINS-39999:jenkinsci/mailer-plugin#552
+JENKINS-40000:jenkinsci/structs-plugin#280
 JENKINS-40001:jenkinsci/ssh-agents-plugin#809
 JENKINS-40002:jenkinsci/ant-plugin#308
 JENKINS-40003:jenkinsci/ssh-credentials-plugin#299
@@ -24999,6 +25020,7 @@ JENKINS-40755:jenkinsci/blueocean-plugin#3574
 JENKINS-40756:jenkinsci/pipeline-model-definition-plugin#924
 JENKINS-40757:jenkinsci/jenkins#17759
 JENKINS-40758:jenkinsci/hpe-application-automation-tools-plugin#879
+JENKINS-40759:jenkinsci/structs-plugin#281
 JENKINS-40761:jenkinsci/blueocean-plugin#3575
 JENKINS-40762:jenkinsci/timestamper-plugin#452
 JENKINS-40765:jenkinsci/release-plugin#131
@@ -26124,6 +26146,7 @@ JENKINS-42435:jenkinsci/git-parameter-plugin#227
 JENKINS-42436:jenkinsci/jenkins#21906
 JENKINS-42437:jenkinsci/plain-credentials-plugin#112
 JENKINS-42438:jenkinsci/junit-plugin#1067
+JENKINS-42439:jenkinsci/structs-plugin#282
 JENKINS-42440:jenkinsci/workflow-aggregator-plugin#701
 JENKINS-42441:jenkinsci/ssh-agents-plugin#813
 JENKINS-42443:jenkinsci/jenkins#21907
@@ -26730,6 +26753,7 @@ JENKINS-43329:jenkinsci/jenkins#21990
 JENKINS-43331:jenkinsci/job-dsl-plugin#2176
 JENKINS-43334:jenkinsci/jenkins#25053
 JENKINS-43336:jenkinsci/pipeline-model-definition-plugin#1043
+JENKINS-43337:jenkinsci/structs-plugin#283
 JENKINS-43338:jenkinsci/promoted-builds-plugin#639
 JENKINS-43339:jenkinsci/pipeline-model-definition-plugin#1044
 JENKINS-43340:jenkinsci/promoted-builds-plugin#640
@@ -27753,6 +27777,7 @@ JENKINS-44855:jenkinsci/pipeline-input-step-plugin#292
 JENKINS-44860:jenkinsci/credentials-binding-plugin#446
 JENKINS-44861:jenkinsci/workflow-cps-plugin#1325
 JENKINS-44863:jenkinsci/blueocean-plugin#4204
+JENKINS-44864:jenkinsci/structs-plugin#284
 JENKINS-44865:jenkinsci/blueocean-plugin#4205
 JENKINS-44866:jenkinsci/blueocean-plugin#4206
 JENKINS-44867:jenkinsci/blueocean-plugin#4207
@@ -27773,6 +27798,7 @@ JENKINS-44888:jenkinsci/blueocean-plugin#4210
 JENKINS-44889:jenkinsci/blueocean-plugin#4211
 JENKINS-44890:jenkinsci/build-failure-analyzer-plugin#311
 JENKINS-44891:jenkinsci/scm-api-plugin#394
+JENKINS-44892:jenkinsci/structs-plugin#285
 JENKINS-44893:jenkinsci/ssh-agents-plugin#833
 JENKINS-44894:jenkinsci/jenkins#22136
 JENKINS-44896:jenkinsci/jenkins#22137
@@ -27924,6 +27950,7 @@ JENKINS-45123:jenkinsci/blueocean-plugin#4250
 JENKINS-45124:jenkinsci/jenkins#22150
 JENKINS-45126:jenkinsci/gradle-plugin#779
 JENKINS-45128:jenkinsci/lockable-resources-plugin#884
+JENKINS-45130:jenkinsci/structs-plugin#286
 JENKINS-45131:jenkinsci/lockable-resources-plugin#885
 JENKINS-45133:jenkinsci/workflow-cps-global-lib-plugin#319
 JENKINS-45134:jenkinsci/jenkins#22151
@@ -27964,6 +27991,7 @@ JENKINS-45183:jenkinsci/pipeline-model-definition-plugin#1099
 JENKINS-45185:jenkinsci/credentials-plugin#782
 JENKINS-45186:jenkinsci/blueocean-plugin#4261
 JENKINS-45187:jenkinsci/jenkins#25084
+JENKINS-45189:jenkinsci/structs-plugin#287
 JENKINS-45191:jenkinsci/workflow-job-plugin#622
 JENKINS-45192:jenkinsci/blueocean-plugin#4262
 JENKINS-45193:jenkinsci/ldap-plugin#491
@@ -28574,6 +28602,7 @@ JENKINS-46117:jenkinsci/ldap-plugin#494
 JENKINS-46118:jenkinsci/jenkins#25095
 JENKINS-46119:jenkinsci/github-branch-source-plugin#1120
 JENKINS-46120:jenkinsci/envinject-plugin#603
+JENKINS-46122:jenkinsci/structs-plugin#288
 JENKINS-46123:jenkinsci/jenkins#22238
 JENKINS-46124:jenkinsci/workflow-basic-steps-plugin#436
 JENKINS-46125:jenkinsci/blueocean-plugin#4359
@@ -30699,6 +30728,7 @@ JENKINS-49317:jenkinsci/jenkins#22552
 JENKINS-49318:jenkinsci/jenkins#22553
 JENKINS-49319:jenkinsci/jenkins#22554
 JENKINS-49320:jenkinsci/gerrit-trigger-plugin#857
+JENKINS-49321:jenkinsci/structs-plugin#289
 JENKINS-49322:jenkinsci/jenkins#22555
 JENKINS-49325:jenkinsci/workflow-multibranch-plugin#486
 JENKINS-49327:jenkinsci/jenkins#22556
@@ -30779,6 +30809,7 @@ JENKINS-49444:jenkinsci/jenkins#22573
 JENKINS-49446:jenkinsci/docker-workflow-plugin#556
 JENKINS-49447:jenkinsci/pipeline-input-step-plugin#305
 JENKINS-49450:jenkinsci/jenkins#22574
+JENKINS-49451:jenkinsci/structs-plugin#290
 JENKINS-49453:jenkinsci/jenkins#22575
 JENKINS-49455:jenkinsci/blueocean-plugin#4670
 JENKINS-49456:jenkinsci/jenkins#22576
@@ -31075,6 +31106,7 @@ JENKINS-49954:jenkinsci/kubernetes-plugin#2015
 JENKINS-49956:jenkinsci/kubernetes-plugin#2016
 JENKINS-49958:jenkinsci/remoting#1311
 JENKINS-49961:jenkinsci/workflow-cps-plugin#1409
+JENKINS-49963:jenkinsci/structs-plugin#291
 JENKINS-49965:jenkinsci/warnings-ng-plugin#2617
 JENKINS-49966:jenkinsci/blueocean-plugin#4698
 JENKINS-49968:jenkinsci/jenkins#22625
@@ -33310,6 +33342,7 @@ JENKINS-53817:jenkinsci/kubernetes-plugin#2113
 JENKINS-53819:jenkinsci/job-config-history-plugin#533
 JENKINS-53822:jenkinsci/pipeline-model-definition-plugin#1326
 JENKINS-53824:jenkinsci/github-plugin#657
+JENKINS-53825:jenkinsci/structs-plugin#292
 JENKINS-53826:jenkinsci/jenkins#20035
 JENKINS-53827:jenkinsci/jenkins#20036
 JENKINS-53828:jenkinsci/github-branch-source-plugin#1209
@@ -33365,6 +33398,7 @@ JENKINS-53908:jenkinsci/kubernetes-plugin#2115
 JENKINS-53911:jenkinsci/git-parameter-plugin#264
 JENKINS-53912:jenkinsci/github-branch-source-plugin#1211
 JENKINS-53915:jenkinsci/jenkins#20052
+JENKINS-53917:jenkinsci/structs-plugin#293
 JENKINS-53918:jenkinsci/jenkins#20053
 JENKINS-53919:jenkinsci/subversion-plugin#1490
 JENKINS-53920:jenkinsci/ec2-plugin#1608
@@ -34520,6 +34554,7 @@ JENKINS-55864:jenkinsci/jenkins#25320
 JENKINS-55865:jenkinsci/jenkins#25321
 JENKINS-55866:jenkinsci/support-core-plugin#810
 JENKINS-55867:jenkinsci/durable-task-plugin#453
+JENKINS-55868:jenkinsci/structs-plugin#294
 JENKINS-55869:jenkinsci/workflow-aggregator-plugin#941
 JENKINS-55870:jenkinsci/mercurial-plugin#581
 JENKINS-55871:jenkinsci/job-dsl-plugin#2323
@@ -35406,6 +35441,7 @@ JENKINS-57255:jenkinsci/jenkins#25361
 JENKINS-57256:jenkinsci/kubernetes-plugin#2191
 JENKINS-57257:jenkinsci/github-branch-source-plugin#1252
 JENKINS-57258:jenkinsci/jenkins#20405
+JENKINS-57259:jenkinsci/structs-plugin#295
 JENKINS-57260:jenkinsci/warnings-ng-plugin#2835
 JENKINS-57261:jenkinsci/jenkins#20406
 JENKINS-57263:jenkinsci/jenkins#20407
@@ -37207,6 +37243,7 @@ JENKINS-60149:jenkinsci/warnings-ng-plugin#2927
 JENKINS-60150:jenkinsci/ec2-plugin#1720
 JENKINS-60153:jenkinsci/build-failure-analyzer-plugin#357
 JENKINS-60154:jenkinsci/warnings-ng-plugin#2928
+JENKINS-60155:jenkinsci/structs-plugin#296
 JENKINS-60159:jenkinsci/git-plugin#3493
 JENKINS-60161:jenkinsci/jenkins#20700
 JENKINS-60162:jenkinsci/jenkins#20701
@@ -41679,6 +41716,7 @@ JENKINS-67545:jenkinsci/jenkins#12314
 JENKINS-67550:jenkinsci/jenkins#12315
 JENKINS-67551:jenkinsci/jenkins#12316
 JENKINS-67552:jenkinsci/workflow-job-plugin#712
+JENKINS-67553:jenkinsci/structs-plugin#297
 JENKINS-67554:jenkinsci/jenkins#12317
 JENKINS-67558:jenkinsci/ec2-plugin#1849
 JENKINS-67559:jenkinsci/jenkins#12318
