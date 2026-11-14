@@ -36483,7 +36483,6 @@ JENKINS-57439:jenkinsci/docker-commons-plugin#217
 JENKINS-57442:jenkinsci/parameterized-trigger-plugin#762
 JENKINS-57443:jenkinsci/workflow-aggregator-plugin#1014
 JENKINS-57444:jenkinsci/gitlab-api-plugin#133
-JENKINS-57445:jenkinsci/gitlab-api-plugin#134
 JENKINS-57445:jenkinsci/gitlab-branch-source-plugin#740
 JENKINS-57447:jenkinsci/jenkins#25364
 JENKINS-57448:jenkinsci/analysis-model#1346
